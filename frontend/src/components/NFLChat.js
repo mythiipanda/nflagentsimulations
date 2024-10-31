@@ -1,12 +1,26 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { getCompletion } from './cerebrasClient';
+import axios from 'axios';
+import { v4 as uuidv4 } from 'uuid';
 import { Send, User, Bot } from 'lucide-react';
 
 export default function NFLChat() {
   const [chatHistory, setChatHistory] = useState([]);
   const [userInput, setUserInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [sessionId, setSessionId] = useState(uuidv4()); // Generate a unique sessionId
   const chatContainerRef = useRef(null);
+
+  useEffect(() => {
+    // Add the starting message to the chat history
+    setChatHistory([
+      {
+        role: 'assistant',
+        message: {
+          content: 'Welcome to the NFL Analytics Chat! I\'m here to help you explore and analyze NFL data. Feel free to ask me anything about player stats, team performance, game outcomes, and more. Let\'s dive in!',
+        },
+      },
+    ]);
+  }, []);
 
   useEffect(() => {
     if (chatContainerRef.current) {
@@ -22,12 +36,21 @@ export default function NFLChat() {
     setChatHistory((prev) => [...prev, newUserMessage]);
     setUserInput('');
 
+    const instruction = "You are an expert NFL analyst. Please assist by backing your insights with specific data, stats, and examples. Respond only to NFL-related prompts, offering valuable insights and clarifying complex details wherever necessary to create an engaging and fact-supported analysis.";
+    const prompt = `${instruction}\n\n${userInput}`;
+
     try {
-      const assistantMessage = await getCompletion(userInput);
+      // Include sessionId in the API request payload
+      const response = await axios.post('http://localhost:5000/api/chat', { prompt, sessionId });
+      const assistantMessage = response.data;
+      
       setChatHistory((prev) => [...prev, { role: 'assistant', message: assistantMessage }]);
     } catch (error) {
       console.error('Error getting completion:', error);
-      setChatHistory((prev) => [...prev, { role: 'assistant', message: { content: 'Sorry, I encountered an error. Please try again.' } }]);
+      setChatHistory((prev) => [
+        ...prev,
+        { role: 'assistant', message: { content: 'Sorry, I encountered an error. Please try again.' } },
+      ]);
     } finally {
       setIsLoading(false);
     }
