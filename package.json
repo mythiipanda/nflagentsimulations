@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chroma": "^0.0.1",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.5",
+    "openai": "^4.69.0"
+  }
+}

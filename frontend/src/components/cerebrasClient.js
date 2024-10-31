@@ -1,9 +1,5 @@
 "use server";
-import Cerebras from '@cerebras/cerebras_cloud_sdk';
-const client = new Cerebras({
-  apiKey: 'csk-j268v64kxec4vtrym852hfc98kr54v6cc8kxwne5d2wdt9we',
-});
-
+import OpenAI from 'openai';
 export async function getCompletion(prompt) {
   const completion = await client.chat.completions.create({
     messages: [{ role: 'user', content: prompt }],
@@ -22,3 +18,8 @@ export async function retrieveModel(modelId) {
   const model = await client.models.retrieve(modelId);
   return model;
 }
+const client = new OpenAI({
+  apiKey: process.env.REACT_APP_OpenAI_API_KEY,
+  baseURL: "https://api.cerebras.ai/v1",
+  dangerouslyAllowBrowser: true,
+})
