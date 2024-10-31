@@ -1,24 +1,16 @@
 const express = require('express');
 const router = express.Router();
-const { getMessages, sendMessage } = require('../../frontend/src/components/cerebrasClient');
+const { getOpenAIResponse } = require("../cerebrasClient");
 
-router.get('/:channel', async (req, res) => {
+router.post('/', async (req, res) => {
+  const { prompt } = req.body;
+  
   try {
-    const messages = await getMessages(req.params.channel);
-    res.json(messages);
+    const aiResponse = await getOpenAIResponse(prompt);
+    res.json({ response: aiResponse });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Internal server error' });
-  }
-});
-
-router.post('/:channel', async (req, res) => {
-  try {
-    const message = await sendMessage(req.params.channel, req.body.message);
-    res.json(message);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: 'Internal server error' });
+    res.status(500).json({ error: 'An error occurred' });
   }
 });
 
