@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Header from './components/Header';
+import Home from './pages/Home';
+import AnalysisChat from './pages/AnalysisChat';
 
 function App() {
+  const [theme, setTheme] = useState(() => {
+    return localStorage.getItem('theme') || 'dark';
+  });
+
+  useEffect(() => {
+    document.documentElement.classList.toggle('dark-mode', theme === 'dark');
+    localStorage.setItem('theme', theme);
+  }, [theme]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className={`min-h-screen ${theme}`}>
+        <div className="bg-white dark:bg-[#0a0a1f] text-black dark:text-white min-h-screen">
+          <Header theme={theme} setTheme={setTheme} />
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/analysis-chat" element={<AnalysisChat theme={theme} />} />
+            {/* Add other routes here */}
+          </Routes>
+        </div>
+      </div>
+    </Router>
   );
 }
 
