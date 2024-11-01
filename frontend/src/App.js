@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Home from './pages/Home';
 import AnalysisChat from './pages/AnalysisChat';
+import StatsPage from './pages/StatsPage'; // Import the new StatsPage component
 
 function App() {
   const [theme, setTheme] = useState(() => {
@@ -22,6 +23,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/analysis-chat" element={<AnalysisChat theme={theme} />} />
+            <Route path="/statistics" element={<StatsPage />} /> {/* Add the new route */}
             {/* Add other routes here */}
           </Routes>
         </div>

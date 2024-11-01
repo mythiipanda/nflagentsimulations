@@ -4,9 +4,12 @@ const express = require('express');
 const cors = require('cors');
 const { getCompletion, listModels, retrieveModel } = require('./cerebrasClient');
 const ChatMemoryService = require('./chatMemoryService');
-
+const { generateChart } = require("./chartGenerator");
 const app = express();
 const PORT = process.env.PORT || 5000;
+const path = require('path');
+app.use('/public', express.static(path.join(__dirname, 'public')));
+
 
 // Initialize ChatMemoryService
 const chatMemoryService = new ChatMemoryService();
@@ -42,6 +45,15 @@ app.post('/api/chat', async (req, res) => {
   } catch (error) {
     console.error('Error:', error);
     res.status(500).json({ error: 'Error getting completion' });
+  }
+});
+app.post("/api/chart", async (req, res) => {
+  const { chartType, data } = req.body;
+  try {
+    const imagePath = await generateChart(chartType, data);
+    res.json({ imagePath });
+  } catch (error) {
+    res.status(500).send(error);
   }
 });
 

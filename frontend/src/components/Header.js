@@ -1,5 +1,5 @@
-import { Link, NavLink } from "react-router-dom"
-import { Moon, Sun, User, MessageSquare } from "lucide-react"
+import { Link, NavLink } from "react-router-dom";
+import { Moon, Sun, User, MessageSquare } from "lucide-react";
 
 export default function Header({ theme, setTheme }) {
   return (
@@ -29,7 +29,7 @@ export default function Header({ theme, setTheme }) {
                   }`
                 }
               >
-                Analysis Chat
+                AI Chat
               </NavLink>
               <NavLink
                 to="/statistics"
@@ -83,5 +83,5 @@ export default function Header({ theme, setTheme }) {
         </nav>
       </div>
     </header>
-  )
+  );
 }

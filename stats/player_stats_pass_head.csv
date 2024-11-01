@@ -1,0 +1,6 @@
+player,team,pass_attempts,throwaways,spikes,drops,drop_pct,bad_throws,bad_throw_pct,season,pfr_id,pocket_time,times_blitzed,times_hurried,times_hit,times_pressured,pressure_pct,batted_balls,on_tgt_throws,on_tgt_pct,rpo_plays,rpo_yards,rpo_pass_att,rpo_pass_yards,rpo_rush_att,rpo_rush_yards,pa_pass_att,pa_pass_yards
+Geno Smith,SEA,308.0,10.0,2.0,16.0,5.4,30.0,10.1,2024,SmitGe00,2.4,82.0,25.0,29.0,75.0,21.9,6.0,242.0,81.8,24.0,137.0,23.0,137.0,0.0,0.0,37.0,246.0
+Baker Mayfield,TB,284.0,4.0,1.0,12.0,4.3,36.0,12.9,2024,MayfBa00,2.2,87.0,19.0,8.0,47.0,14.5,6.0,217.0,77.8,28.0,281.0,26.0,273.0,1.0,8.0,60.0,612.0
+Kirk Cousins,ATL,271.0,9.0,3.0,12.0,4.6,27.0,10.4,2024,CousKi00,2.4,54.0,12.0,34.0,61.0,21.2,6.0,216.0,83.4,7.0,30.0,7.0,30.0,0.0,0.0,38.0,247.0
+Brock Purdy,SF,242.0,6.0,0.0,12.0,5.1,37.0,15.7,2024,PurdBr00,2.7,71.0,20.0,24.0,59.0,20.6,5.0,183.0,77.5,15.0,156.0,10.0,133.0,2.0,23.0,38.0,406.0
+Lamar Jackson,BAL,236.0,6.0,3.0,11.0,4.8,37.0,16.3,2024,JackLa00,2.4,83.0,32.0,14.0,58.0,21.3,7.0,173.0,76.2,61.0,535.0,37.0,422.0,23.0,113.0,46.0,445.0

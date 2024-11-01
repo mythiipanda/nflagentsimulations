@@ -3,7 +3,7 @@ const { BufferMemory } = require("langchain/memory");
 const { MongoDBChatMessageHistory } = require("@langchain/mongodb");
 const { ConversationChain } = require("langchain/chains");
 const { ChatOpenAI } = require("@langchain/openai");
-
+const { generateChart } = require("./chartGenerator");
 class ChatMemoryService {
   constructor() {
     this.client = new MongoClient(process.env.MONGODB_ATLAS_URI || "", {
@@ -67,10 +67,10 @@ class ChatMemoryService {
     await this.ensureConnection();
     const chain = await this.getOrCreateConversationChain(sessionId);
     const response = await chain.call({ input: message });
-    
+
     // Log the response to debug
     console.log('Response:', response);
-    
+
     let content;
     if (typeof response.response === 'string') {
       try {
@@ -83,13 +83,23 @@ class ChatMemoryService {
       } catch (error) {
         content = response.response;
       }
-    } else {
-      content = response.response?.content;
     }
-  
-    return {
-      content: content || 'No content received',
-    };
+
+    // Check if the message contains a Python code snippet for a chart
+    const codeSnippetMatch = content.match(/```python([\s\S]*?)```/);
+    if (codeSnippetMatch) {
+      const generatedCode = codeSnippetMatch[1].trim();
+
+      try {
+        const imageUrl = await generateChart(generatedCode);
+        return { content: "", imageUrl };
+      } catch (error) {
+        console.error("Error generating chart:", error);
+        return { content: "Error generating chart" };
+      }
+    }
+
+    return { content };
   }
 
   async getChatHistory(sessionId) {
