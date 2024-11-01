@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import { v4 as uuidv4 } from 'uuid';
 import { Send, User, Bot } from 'lucide-react';
-
+const backendUrl = process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000';
 export default function NFLChat({ theme }) {
   const [chatHistory, setChatHistory] = useState([]);
   const [userInput, setUserInput] = useState('');
@@ -51,7 +51,7 @@ export default function NFLChat({ theme }) {
     const prompt = `${instruction}\n\n${userInput}`;
     try {
       // Include sessionId in the API request payload
-      const response = await axios.post('http://localhost:5000/api/chat', { prompt, sessionId });
+      const response = await axios.post(`${backendUrl}/api/chat`, { prompt, sessionId });
       const assistantMessage = response.data;
 
       setChatHistory((prev) => [...prev, { role: 'assistant', message: assistantMessage }]);
