@@ -24,7 +24,7 @@ const TeamStatsDashboard = () => {
     loadDocuments();
   }, []);
 
-  const [passDoc, defDoc, recDoc, rushDoc] = documents.map(doc => {
+  const [passDoc, defDoc] = documents.map(doc => {
     const source = doc.source.split('/').pop();
     return {
       type: source.includes('pass') ? 'pass' : 

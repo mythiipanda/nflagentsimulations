@@ -9,7 +9,7 @@ class ChatMemoryService {
     this.client = new MongoClient(process.env.MONGODB_ATLAS_URI || "", {
       driverInfo: { name: "langchainjs" }
     });
-    
+
     // Initialize ChatOpenAI with Cerebras configuration
     this.llm = new ChatOpenAI({
       openAIApiKey: process.env.OPENAI_API_KEY,
@@ -19,7 +19,7 @@ class ChatMemoryService {
       modelName: "llama3.1-8b", // or your specific model
       temperature: 0.7,
     });
-    
+
     this.sessionChains = new Map();
     this.isConnected = false;
   }
@@ -87,19 +87,24 @@ class ChatMemoryService {
 
     // Check if the message contains a Python code snippet for a chart
     const codeSnippetMatch = content.match(/```python([\s\S]*?)```/);
+    let pythonCode = null;
+    let textContent = content;
     if (codeSnippetMatch) {
-      const generatedCode = codeSnippetMatch[1].trim();
+      pythonCode = codeSnippetMatch[1].trim();
+      textContent = content.replace(/```python[\s\S]*?```/, '').trim();
+    }
 
+    let imageUrl = null;
+    if (pythonCode) {
       try {
-        const imageUrl = await generateChart(generatedCode);
-        return { content: "", imageUrl };
+        imageUrl = await generateChart(pythonCode);
       } catch (error) {
         console.error("Error generating chart:", error);
-        return { content: "Error generating chart" };
+        textContent += `\nError generating chart`;
       }
     }
 
-    return { content };
+    return { textContent, pythonCode, imageUrl };
   }
 
   async getChatHistory(sessionId) {
