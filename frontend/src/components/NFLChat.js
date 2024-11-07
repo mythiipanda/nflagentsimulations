@@ -36,13 +36,12 @@ export default function NFLChat({ theme }) {
     setUserInput('');
     const instruction = `
   You are an expert NFL analyst. Please assist by backing your insights with specific data, stats, and examples. Respond only to NFL-related prompts, offering valuable insights and clarifying complex details wherever necessary to create an engaging and fact-supported analysis.
-  If you are prompted to generate a graph or a chart, or if you need to support your statements with graphics, generate Python code that customizes a chart in matplotlib based on the user's requirements. However, do not say "Here's a Python code snippet to create" or "Here's the Python code to create a bar chart comparing the top 5 edge rushers in the NFL by sacks:" or anything similar. The code should:
+  If you are prompted to generate a graph or a chart, or if you need to support your statements with graphics, generate Python code that customizes a chart in matplotlib based on the user's requirements. However, do not say "Here is the python code ..." or anything related. The code should:
   1. Create a dataframe from the provided data using pandas (import pandas as pd).
   2. Use matplotlib for plotting (import matplotlib.pyplot as plt).
   3. Focus only on modifying the chart appearance or adding specific features as requested.
   4. Do not include code for displaying the chart (e.g., plt.show()).
   5. Ensure the code is executable as a standalone script.
-  6. Save the chart to a file using plt.savefig() with the file path "./public/custom_chart.png".
   `;
   
     const prompt = `${instruction}\n\n${userInput}`;
@@ -83,7 +82,7 @@ export default function NFLChat({ theme }) {
                   {entry.message.textContent || entry.message.content} {/* Display textContent or content */}
                 </div>
                 {entry.message.imageUrl && (
-                  <img src={entry.message.imageUrl} alt="Generated Chart" className="w-full max-w-md rounded-lg shadow-md" />
+                  <img src={`${backendUrl}${entry.message.imageUrl}`} alt="Generated Chart" className="w-full max-w-md rounded-lg shadow-md" />
                 )}
               </div>
               {entry.role === 'user' && (
