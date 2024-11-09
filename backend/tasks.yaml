@@ -1,0 +1,20 @@
+data_collection_task:
+  description: >
+    Collect the top performance metrics for NFL quarterbacks in 2024, focusing on passer rating, completion percentage, and touchdowns.
+  expected_output: >
+    A structured dataset with metrics including passer rating, completion percentage, and touchdowns for the top 10 quarterbacks.
+  agent: stats_analyst
+
+scouting_analysis_task:
+  description: >
+    Conduct a scouting evaluation of the top 10 quarterbacks, including strengths, weaknesses, and overall scouting perspectives.
+  expected_output: >
+    A list of scouting reports on the top 10 quarterbacks, summarizing key insights on strengths, weaknesses, and performance consistency.
+  agent: player_scout
+
+synthesis_task:
+  description: >
+    Combine statistical data and scouting insights to form a cohesive report focused solely on the top 10 quarterbacks' performances.
+  expected_output: >
+    A comprehensive report on the top 10 quarterbacks with statistical insights and detailed scouting perspectives.
+  agent: lead_analyst
