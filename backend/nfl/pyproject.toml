@@ -1,0 +1,25 @@
+[project]
+name = "nfl"
+version = "0.1.0"
+description = "nfl using crewAI"
+authors = [{ name = "Tony Lin", email = "hpm3ep@virginia.edu" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.76.9,<1.0.0",
+    "agentops",
+    "langchain-openai",
+    "python-dotenv",
+    "langchain-huggingface",
+    "pyyaml"
+]
+
+[project.scripts]
+nfl = "nfl.main:run"
+run_crew = "nfl.main:run"
+train = "nfl.main:train"
+replay = "nfl.main:replay"
+test = "nfl.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

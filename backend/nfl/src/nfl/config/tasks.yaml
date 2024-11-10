@@ -1,0 +1,17 @@
+statistical_analysis_task:
+  description: >
+    Gather comprehensive NFL statistics related to the request: {query}.
+  expected_output: >
+    A detailed statistical analysis report with key insights and trends.
+
+scouting_analysis_task:
+  description: >
+    Analyze team performances related to the request: {query}, and produce in-depth scouting reports.
+  expected_output: >
+    Detailed team analysis and scouting insights, structured as comprehensive scouting reports.
+
+synthesis_task:
+  description: >
+    Synthesize research, statistical data, and scouting reports into cohesive insights for meaningful NFL analysis on: '{query}'.
+  expected_output: >
+    A cohesive analysis report that integrates statistical and scouting perspectives.
