@@ -12,7 +12,7 @@ def run():
     Run the crew.
     """
     inputs = {
-        "query": "Who are the top 10 NFL super bowl contenders for the 2024-2025 season?"
+        "query": "Rank all 32 NFL teams right now based on their performance in the 2024-2025 season."
     }
     NflCrew().crew().kickoff(inputs=inputs)
 
@@ -22,7 +22,7 @@ def train():
     Train the crew for a given number of iterations.
     """
     inputs = {
-        "query": "Who are the top 10 NFL super bowl contenders for the 2024-2025 season?"
+        "query": "Rank all 32 NFL teams right now based on their performance in the 2024-2025 season."
     }
     try:
         NflCrew().crew().train(n_iterations=int(sys.argv[1]), filename=sys.argv[2], inputs=inputs)

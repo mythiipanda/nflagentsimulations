@@ -6,7 +6,11 @@ module.exports = {
     extend: {
       backgroundColor: {
         primary: '#f7f7f7',
-        dark: '#000000',
+        dark: '#1f2937', // Changed dark background color to a dark gray
+      },
+      textColor: {
+        primary: '#333', // Added primary text color
+        secondary: '#666', // Added secondary text color
       },
     },
   },

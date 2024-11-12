@@ -41,13 +41,13 @@ const TeamStatsDashboard = () => {
     switch (activeTab) {
       case 'offense':
         return (
-          <div className="space-y-4">
-            <BarChartComponent 
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <BarChartComponent
               data={teamStats}
               dataKeys={['completionRate', 'yardsPerPlay']}
               title="Offensive Production"
             />
-            <BarChartComponent 
+            <BarChartComponent
               data={teamStats}
               dataKeys={['blitzRate', 'pressureRate']}
               title="Pressure Metrics"
@@ -56,7 +56,7 @@ const TeamStatsDashboard = () => {
         );
       case 'defense':
         return (
-          <BarChartComponent 
+          <BarChartComponent
             data={defDoc?.data || []}
             dataKeys={['comb', 'sk', 'int']}
             title="Defensive Statistics"
@@ -72,15 +72,15 @@ const TeamStatsDashboard = () => {
   return (
     <div className="p-4 space-y-8">
       <StatsCard title="League Summary" stats={leagueSummary} />
-      
+
       <div className="border-b border-gray-200 dark:border-gray-700">
         <div className="flex space-x-4">
           {['offense', 'defense', 'efficiency'].map((tab) => (
             <button
               key={tab}
               className={`py-2 px-4 border-b-2 ${
-                activeTab === tab 
-                  ? 'border-blue-500 text-blue-600 dark:text-blue-400' 
+                activeTab === tab
+                  ? 'border-blue-500 text-blue-600 dark:text-blue-400'
                   : 'border-transparent text-gray-500 dark:text-gray-400'
               }`}
               onClick={() => setActiveTab(tab)}

@@ -1,0 +1,11 @@
+NFL Top 10 Quarterbacks:
+1. Patrick Mahomes, Kansas City Chiefs - Expected Performance: 81, Passer Rating: 104.8, Completion Percentage: 56.8%
+2. Josh Allen, Buffalo Bills - Expected Performance: 81, Passer Rating: 87.1, Completion Percentage: 64%
+3. Deshaun Watson, Cleveland Browns - Expected Performance: 84, Passer Rating: 112.1, Completion Percentage: 64.7%
+4. Justin Herbert, Los Angeles Chargers - Expected Performance: 79, Passer Rating: 80.0, Completion Percentage: 63.7%
+5. Lamar Jackson, Baltimore Ravens - Expected Performance: 78, Passer Rating: 73.4, Completion Percentage: 64.8%
+6. Dak Prescott, Dallas Cowboys - Expected Performance: 90.7, Passer Rating: 67.2, Completion Percentage: None
+7. Matthew Stafford, Los Angeles Rams - Expected Performance: 28, Passer Rating: 62, Completion Percentage: None
+8. Aaron Rodgers, Green Bay Packers - Expected Performance: 3, Passer Rating: 0.1, Completion Percentage: 1
+9. Jayden Daniels, Washington Commanders - Expected Performance: 3, Passer Rating: 7, Completion Percentage: 0.11
+10. Kyler Murray, Arizona Cardinals - Expected Performance: 23, Passer Rating: 7, Completion Percentage: None

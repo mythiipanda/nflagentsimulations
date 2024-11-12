@@ -17,8 +17,8 @@ time.sleep(2)
 email_input = driver.find_element(By.ID, "login-form_email")
 password_input = driver.find_element(By.ID, "login-form_password")
 
-email_input.send_keys("")
-password_input.send_keys("")
+email_input.send_keys("wjsutton1@gmail.com")
+password_input.send_keys("DraftSimulator102")
 
 # Wait for you to complete the reCAPTCHA manually
 print("Please complete the CAPTCHA and login manually, then press Enter...")

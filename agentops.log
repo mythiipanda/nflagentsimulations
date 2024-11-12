@@ -1,0 +1,2 @@
+2024-11-11 23:28:16,819 - WARNING -  WARNING: agentops is out of date. Please update with the command: 'pip install --upgrade agentops'
+2024-11-11 23:28:22,662 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=87c85ffd-951b-4d6e-ac4a-9d9e7f466221

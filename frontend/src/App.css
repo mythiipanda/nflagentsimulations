@@ -1,38 +1,97 @@
-.App {
-  text-align: center;
+/* General styles */
+body {
+  font-family: sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+  color: #333; /* Set default text color */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Chat container styles */
+.chat-container {
+  width: 80%;
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Chat header styles */
+.chat-header {
+  background-color: #f0f0f0;
+  padding: 10px 15px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  color: #333; /* Set header text color */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.chat-header h2 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+/* Chat messages container styles */
+.chat-messages {
+  padding: 15px;
+  height: 400px;
+  overflow-y: auto;
+}
+
+/* Message styles */
+.message {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  max-width: 70%;
+  color: #333; /* Set message text color */
+}
+
+.message.user {
+  background-color: #3b82f6; /* Changed background color to a darker blue */
+  align-self: flex-end;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.message.bot {
+  background-color: #fff;
+  align-self: flex-start;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Message content styles */
+.message-content {
+  margin: 0;
+}
+
+/* Message meta styles */
+.message-meta {
+  font-size: 0.8rem;
+  color: #999;
+  margin-top: 5px;
+}
+
+/* Chat input container styles */
+.chat-input-container {
+  padding: 15px;
+  border-top: 1px solid #eee;
+}
+
+/* Chat input field styles */
+.chat-input {
+  width: calc(100% - 30px);
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+  color: #333; /* Set input field text color */
+}
+
+/* Chat send button styles */
+.chat-send-button {
+  padding: 10px 15px;
+  background-color: #3b82f6; /* Changed background color to a darker blue */
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
