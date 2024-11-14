@@ -4,7 +4,7 @@ from crewai.project import CrewBase, agent, crew, task
 from crewai_tools import WebsiteSearchTool, SerperDevTool, ScrapeWebsiteTool, FileWriterTool, tool
 from dotenv import load_dotenv
 import agentops
-
+from backend.pff_tool import PFFScraperTool
 # Load environment variables
 load_dotenv()
 
@@ -50,7 +50,6 @@ class NflCrew():
             SerperDevTool(),
             ScrapeWebsiteTool()
         ]
-
     @agent
     def researcher(self) -> Agent:
         return Agent(
