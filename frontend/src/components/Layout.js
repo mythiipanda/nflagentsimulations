@@ -28,6 +28,11 @@ export default function Layout({ children, toggleDarkMode, isDarkMode }) { // Re
               </Link>
             </li>
             <li>
+              <Link to="/draft-simulation" className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
+                Draft Simulation
+              </Link>
+            </li>
+            <li>
               <button onClick={toggleDarkMode} className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
                 {isDarkMode ? <Sun size={20} /> : <Moon size={20} />}
               </button>

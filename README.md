@@ -32,4 +32,8 @@ We are in the early stages of this project, having started just two weeks ago. O
 - Parsers: llamaparse, firecrawl
 - Notes: check only relevant documents, use web api to double check on documents agents are unsure on
 - GraphRAG?
+- verification with datasets -> teams
+- more tools
+- early stopping
 ## Stay Tuned!
+

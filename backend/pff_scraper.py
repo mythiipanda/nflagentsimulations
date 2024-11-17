@@ -18,7 +18,7 @@ from langchain_community.document_loaders import CSVLoader
 class PFFScraper:
     def __init__(self):
         self.chrome_options = Options()
-        self.chrome_options.add_argument("--headless")
+        # self.chrome_options.add_argument("--headless")
         self.driver = None
 
     def __enter__(self):
@@ -49,28 +49,19 @@ class PFFScraper:
 
     def scrape_qb_grades(self):
         try:
-            self.driver.get("https://www.pff.com/nfl/grades/position/qb")
-            WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "kyber-table-body__row"))
-            )
-            
-            rows = self.driver.find_elements(By.CLASS_NAME, "kyber-table-body__row")
-            data = []
-            
-            for row in rows:
-                cells = row.find_elements(By.CLASS_NAME, "kyber-table-body-cell")
-                data.append({
-                    "Rank": cells[0].text,
-                    "Name": cells[1].text,
-                    "Team": cells[2].text,
-                    "Grade": cells[4].text,
-                    "Pass_Grade": cells[5].text,
-                    "Run_Grade": cells[6].text
-                })
-                
-            df = pd.DataFrame(data)
-            df.to_csv("qb_grades.csv", index=False)
-            return df.to_dict('records')
+            for year in range(2006, 2025):
+                url = f"https://premium.pff.com/nfl/positions/{year}/REGPO/passing?position=QB"
+                self.driver.get(url)
+                time.sleep(5)  # Wait for the page to load
+
+                # Find and click the CSV download button
+                try:
+                    csv_button = self.driver.find_element(By.CSS_SELECTOR, "button.g-btn.kyber-button.ml-auto.mr-2.g-btn--icon-left.g-btn--secondary.g-btn--inverse.g-btn--md")
+                    csv_button.click()
+                    time.sleep(5)  # Wait for the download to complete
+                except Exception as e:
+                    print(f"Failed to click CSV download button for year {year}: {e}")
+
         except Exception as e:
             raise Exception(f"Failed to scrape QB grades: {e}")
 
@@ -80,10 +71,10 @@ class PFFScraper:
 
 def save_to_chromadb():
     try:
-        loader = CSVLoader("qb_grades.csv")
+        loader = CSVLoader("./backend/data/qb_grades.csv")
         docs = loader.load()
         embedding_function = FastEmbedEmbeddings(model_name="BAAI/bge-large-en-v1.5")
-        vectorstore = Chroma.from_documents(docs, embedding=embedding_function, persist_directory="./chroma_db")
+        vectorstore = Chroma.from_documents(docs, embedding=embedding_function, persist_directory="./backend/chroma_db")
         vectorstore.persist()
         query = "Patrick Mahomes"
         docs = vectorstore.similarity_search(query)

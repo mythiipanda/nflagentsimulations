@@ -10,7 +10,7 @@ export default function Header({ theme, setTheme }) {
             <Link to="/" className="text-2xl font-bold text-blue-500">
               NFL Insights
             </Link>
-            <div className="hidden md:flex items-center ml-10 space-x-10">
+            <div className="hidden md:flex items-center ml-10 space-x-10">s
               <NavLink
                 to="/draft-simulation"
                 className={({ isActive }) =>

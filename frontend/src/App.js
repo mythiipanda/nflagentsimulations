@@ -4,6 +4,7 @@ import Layout from './components/Layout'
 import Home from './pages/Home'
 import AnalysisChat from './pages/AnalysisChat'
 import StatsPage from './pages/StatsPage'
+import DraftSimulation from './pages/DraftSimulation' // Imported DraftSimulation component
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(false)
@@ -16,6 +17,7 @@ function App() {
     <Router>
       <Layout toggleDarkMode={toggleDarkMode} isDarkMode={isDarkMode}>
         <Routes>
+        <Route path="/draft-simulation" element={<DraftSimulation />} />
           <Route path="/" element={<Home />} />
           <Route path="/analysis-chat" element={<AnalysisChat />} />
           <Route path="/stats" element={<StatsPage />} />
