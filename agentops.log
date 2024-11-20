@@ -1,1 +1,1 @@
-2024-11-17 12:55:21,350 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=dbfc15fc-e007-4390-be25-4d7590ea89da
+2024-11-17 23:01:23,555 - WARNING - Could not record event - no sessions detected. Create a session by calling agentops.start_session()

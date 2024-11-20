@@ -1,8 +1,3 @@
-# NFL Analytics Website
-
-## Summary
-We are building an NFL analytics website designed to simulate, model, and predict the upcoming 2025 NFL draft. Currently, we are focused on data collection and have developed a barebones conversational NFL AI analyst that provides analysis with generated charts.
-
 ## How We Built It
 The project is being developed using the following technologies:
 
@@ -10,8 +5,6 @@ The project is being developed using the following technologies:
 - **Backend**: Initially, we used a NodeJS server, but we transitioned to Flask due to its flexibility and ability to integrate with multi-agentic frameworks such as **CrewAI**, **Autogen**, and others.
 - **Database**: MongoDB to store and manage our data.
 
-## Leveraging Cerebras’s Fast Inference
-We plan to leverage **Cerebras's fast inference** capabilities to deliver instant feedback and analysis to our user base, which includes NFL fans, teams, analysts, and others. This will help ensure that our platform provides quick, accurate insights.
 
 ## What's Coming?
 We are in the early stages of this project, having started just two weeks ago. Our roadmap includes:

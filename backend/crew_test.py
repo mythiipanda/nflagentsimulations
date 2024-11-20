@@ -8,7 +8,15 @@ from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from llama_index.core import VectorStoreIndex
 import os
 import agentops
-
+from pff_stats_tool import (
+    DefenseTool,
+    FieldGoalTool,
+    OffenseBlockingTool,
+    PassingTool,
+    PuntingTool,
+    ReceivingTool,
+    RushingTool
+)
 # Load environment variables
 load_dotenv()
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
@@ -42,11 +50,18 @@ class NflCrew:
             )),
             SerperDevTool(),
             ScrapeWebsiteTool(),
-            FileWriterTool()
+            FileWriterTool(),
+            DefenseTool(),
+            FieldGoalTool(),
+            OffenseBlockingTool(),
+            PassingTool(),
+            PuntingTool(),
+            ReceivingTool(),
+            RushingTool()
         ]
 
         # Database/Knowledge Graph for faster data retrieval
-        self.index = VectorStoreIndex.from_documents([])  # Placeholder for NFL documents
+        # self.index = VectorStoreIndex.from_documents([])  # Placeholder for NFL documents
 
     @agent
     def researcher(self) -> Agent:
@@ -55,7 +70,7 @@ class NflCrew:
             goal="Collect the latest NFL data related to: '{query}', including recent news, player statistics, and historical records up to November 16, 2024, Week 11 of the 2024-2025 NFL Season. Use only the most recent and reliable sources to ensure information is current. **Stop as soon as you have found the answer.**",
             backstory="An experienced researcher with a passion for NFL data accuracy and completeness.",
             memory=True,
-            tools=[WebsiteSearchTool(), ScrapeWebsiteTool(), SerperDevTool()],
+            tools=[DefenseTool(), FieldGoalTool(), OffenseBlockingTool(), PassingTool(), PuntingTool(), ReceivingTool(), RushingTool()],
             llm=self.llm,
             verbose=True
         )
@@ -67,7 +82,7 @@ class NflCrew:
             goal="Analyze NFL data using traditional metrics and advanced analytics, writing and executing code for deeper insights.",
             backstory="A data scientist with expertise in advanced metrics like DVOA, EPA, and more.",
             memory=True,
-            tools=[WebsiteSearchTool(), ScrapeWebsiteTool(), SerperDevTool()],
+            tools=[DefenseTool(), FieldGoalTool(), OffenseBlockingTool(), PassingTool(), PuntingTool(), ReceivingTool(), RushingTool()],
             llm=self.llm,
             allow_code_execution=True,
             verbose=True
@@ -190,7 +205,7 @@ class NflCrew:
         )
 
 if __name__ == "__main__":
-    inputs = {"query": "Analyze the games for NFL week 11 and provide predictions."}
+    inputs = {"query": "Give me Darnell Dockett's stats in 2007?"}
     filename = "nfl_model.pkl"
 
     try:
