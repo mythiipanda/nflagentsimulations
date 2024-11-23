@@ -1,0 +1,38 @@
+{
+    "QB": {
+        "grades_offense": 1
+    },
+    "WR": {
+        "grades_offense": 1
+    },
+    "TE": {
+        "grades_offense": 1
+    },
+    "HB": {
+        "grades_offense": 1
+    },
+    "T": {
+        "grades_offense": 1
+    },
+    "G": {
+        "grades_offense": 1
+    },
+    "C": {
+        "grades_offense": 1
+    },
+    "ED": {
+        "grades_defense": 1
+    },
+    "DI": {
+        "grades_defense": 1
+    },
+    "LB": {
+        "grades_defense": 1
+    },
+    "CB": {
+        "grades_defense": 1
+    },
+    "S": {
+        "grades_defense": 1
+    }
+}

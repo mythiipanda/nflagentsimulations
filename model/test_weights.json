@@ -1,0 +1,73 @@
+{
+    "QB": {
+        "grades_offense": 0.40,
+        "grades_pass": 0.40,
+        "grades_run": 0.15,
+        "grades_hands_fumble": 0.05
+    },
+    "WR": {
+        "grades_offense": 0.45,
+        "grades_pass_route": 0.40,
+        "grades_hands_drop": 0.15
+    },
+    "TE": {
+        "grades_offense": 0.30,
+        "grades_pass_route": 0.30,
+        "grades_hands_drop": 0.10,
+        "grades_pass_block": 0.20,
+        "grades_hands_fumble": 0.10
+    },
+    "HB": {
+        "grades_offense": 0.30,
+        "grades_run": 0.40,
+        "grades_pass_block": 0.05,
+        "grades_pass_route": 0.10,
+        "grades_run_block": 0.10,
+        "grades_hands_fumble": 0.05
+    },
+    "T": {
+        "grades_offense": 0.30,
+        "grades_pass_block": 0.45,
+        "grades_run_block": 0.25
+    },
+    "G": {
+        "grades_offense": 0.40,
+        "grades_pass_block": 0.30,
+        "grades_run_block": 0.30
+    },
+    "C": {
+        "grades_offense": 0.45,
+        "grades_pass_block": 0.25,
+        "grades_run_block": 0.30
+    },
+    "ED": {
+        "grades_defense": 0.30,
+        "grades_pass_rush_defense": 0.45,
+        "grades_run_defense": 0.20,
+        "grades_defense_penalty": 0.05
+    },
+    "DI": {
+        "grades_defense": 0.30,
+        "grades_pass_rush_defense": 0.30,
+        "grades_run_defense": 0.35,
+        "grades_defense_penalty": 0.05
+    },
+    "LB": {
+        "grades_defense": 0.30,
+        "grades_coverage_defense": 0.35,
+        "grades_tackle": 0.30,
+        "grades_defense_penalty": 0.05
+    },
+    "CB": {
+        "grades_defense": 0.25,
+        "grades_coverage_defense": 0.50,
+        "grades_tackle": 0.20,
+        "grades_defense_penalty": 0.05
+    },
+    "S": {
+        "grades_defense": 0.30,
+        "grades_coverage_defense": 0.35,
+        "grades_tackle": 0.30,
+        "grades_defense_penalty": 0.05
+    }
+}
