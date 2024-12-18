@@ -1,4 +1,0 @@
-Player      Position  Strengths            Weaknesses  Potential for Success
-Player1   Quarterback Strong Arm              Accuracy                    0.8
-Player2  Running Back      Speed          Injury Prone                    0.7
-Player3 Wide Receiver    Agility Limited Route Running                    0.9

@@ -1,0 +1,5 @@
+2024-12-13 00:14:55,272 - WARNING -  WARNING: agentops is out of date. Please update with the command: 'pip install --upgrade agentops'
+2024-12-13 00:14:57,575 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=c5fc5742-02ee-424a-b1d4-76cda2f4a46d
+2024-12-13 00:15:38,253 - INFO - SIGINT detected. Ending session...
+2024-12-13 00:15:39,702 - INFO - Session Stats - Duration: 41.2s | Cost: $0.010745 | LLMs: 57 | Tools: 0 | Actions: 0 | Errors: 0
+2024-12-13 00:15:39,702 - INFO - Session Replay: https://app.agentops.ai/drilldown?session_id=c5fc5742-02ee-424a-b1d4-76cda2f4a46d
