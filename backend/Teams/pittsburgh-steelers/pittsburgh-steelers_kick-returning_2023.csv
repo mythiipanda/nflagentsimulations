@@ -1,11 +1,11 @@
-KICK-RETURNING_2023_KICK-RETURNING_2023_Rank,KICK-RETURNING_2023_KICK-RETURNING_2023_Player,KICK-RETURNING_2023_KICK-RETURNING_2023_JerseyNumber,KICK-RETURNING_2023_KICK-RETURNING_2023_Position,KICK-RETURNING_2023_KICK-RETURNING_2023_GamesPlayed,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotalGrade,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards.1,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsMuffed,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalReturns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalMuffed
-1.0,Anthony McFarland Jr.,#26,HB,3.0,65.0,6.0,64.5,6.0,164.0,37.0,27.3,0.0,1.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-2.0,Calvin Austin III,#19,WR,18.0,64.1,30.0,57.8,0.0,0.0,0.0,,0.0,0.0,0.0,66.5,30.0,261.0,13.0,34.0,8.7,0.0,2.0
-3.0,Godwin Igwebuike,#48,HB,11.0,63.7,11.0,63.3,11.0,282.0,36.0,25.6,0.0,1.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-4.0,George Pickens,#14,WR,18.0,61.2,1.0,61.2,1.0,7.0,7.0,7.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-4.0,Connor Heyward,#83,TE,18.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-4.0,Diontae Johnson,#18,WR,14.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-7.0,Desmond King II,#25,CB,3.0,60.2,4.0,60.2,4.0,88.0,27.0,22.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-8.0,Jaylen Warren,#30,HB,18.0,57.8,1.0,58.0,1.0,21.0,21.0,21.0,0.0,1.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-9.0,Gunner Olszewski,#89,WR,2.0,42.5,3.0,58.1,2.0,24.0,24.0,12.0,0.0,0.0,0.0,37.2,1.0,8.0,1.0,8.0,8.0,0.0,0.0
-,,,,,,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickReturnsTotal,KickReturnsTotalGrade,KickoffReturnsTotal,KickoffReturnsTotalYards,KickoffReturnsTotalYards.1,KickoffReturnsLongestReturn,KickoffReturnsYardsPerAttempt,KickoffReturnsTouchdowns,KickoffReturnsFairCatches,KickoffReturnsMuffed,PuntReturnsTotal,PuntReturnsTotalReturns,PuntReturnsTotalYards,PuntReturnsTotalFairCatches,PuntReturnsTotalLongestReturn,PuntReturnsTotalYardsPerAttempt,PuntReturnsTotalTouchdowns,PuntReturnsTotalMuffed
+Anthony McFarland Jr.,#26,HB,3.0,65.0,6.0,64.5,6.0,164.0,37.0,27.3,0.0,1.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Calvin Austin III,#19,WR,18.0,64.1,30.0,57.8,0.0,0.0,0.0,,0.0,0.0,0.0,66.5,30.0,261.0,13.0,34.0,8.7,0.0,2.0
+Godwin Igwebuike,#48,HB,11.0,63.7,11.0,63.3,11.0,282.0,36.0,25.6,0.0,1.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+George Pickens,#14,WR,18.0,61.2,1.0,61.2,1.0,7.0,7.0,7.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Connor Heyward,#83,TE,18.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Diontae Johnson,#18,WR,14.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Desmond King II,#25,CB,3.0,60.2,4.0,60.2,4.0,88.0,27.0,22.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Jaylen Warren,#30,HB,18.0,57.8,1.0,58.0,1.0,21.0,21.0,21.0,0.0,1.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Gunner Olszewski,#89,WR,2.0,42.5,3.0,58.1,2.0,24.0,24.0,12.0,0.0,0.0,0.0,37.2,1.0,8.0,1.0,8.0,8.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,,,

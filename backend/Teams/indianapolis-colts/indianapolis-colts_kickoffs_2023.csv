@@ -1,4 +1,4 @@
-KICKOFFS_2023_KICKOFFS_2023_Rank,KICKOFFS_2023_KICKOFFS_2023_Player,KICKOFFS_2023_KICKOFFS_2023_JerseyNumber,KICKOFFS_2023_KICKOFFS_2023_Position,KICKOFFS_2023_KICKOFFS_2023_GamesPlayed,KICKOFFS_2023_KICKOFFS_2023_KickoffsGrade,KICKOFFS_2023_KICKOFFS_2023_KickoffsTotal,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsPerAttempt,KICKOFFS_2023_KICKOFFS_2023_KickoffsAverageFieldPosition,KICKOFFS_2023_KICKOFFS_2023_KickoffsOnsideAttempts,KICKOFFS_2023_KICKOFFS_2023_KickoffsReturnPercentage,KICKOFFS_2023_KICKOFFS_2023_KickoffsReturned,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsAllowed,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsPerReturnAllowed,KICKOFFS_2023_KICKOFFS_2023_KickoffsTouchbacks,KICKOFFS_2023_KICKOFFS_2023_KickoffsFairCatches,KICKOFFS_2023_KICKOFFS_2023_KickoffsHangtimeAverage,KICKOFFS_2023_KICKOFFS_2023_KickoffsHangtimeAverage.1
-1.0,Matt Gay,#07,K,17.0,74.0,92.0,70.0,25.7,0.0,16.3,15.0,391.0,26.1,72.0,5.0,89.0,3.95
-2.0,Rigoberto Sanchez,#08,P,1.0,60.0,1.0,62.0,40.0,0.0,0.0,0.0,0.0,,0.0,1.0,1.0,4.08
-,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickoffsGrade,KickoffsTotal,KickoffsYardsPerAttempt,KickoffsAverageFieldPosition,KickoffsOnsideAttempts,KickoffsReturnPercentage,KickoffsReturned,KickoffsYardsAllowed,KickoffsYardsPerReturnAllowed,KickoffsTouchbacks,KickoffsFairCatches,KickoffsHangtimeAverage,KickoffsHangtimeAverage.1
+Matt Gay,#07,K,17.0,74.0,92.0,70.0,25.7,0.0,16.3,15.0,391.0,26.1,72.0,5.0,89.0,3.95
+Rigoberto Sanchez,#08,P,1.0,60.0,1.0,62.0,40.0,0.0,0.0,0.0,0.0,,0.0,1.0,1.0,4.08
+,,,,,,,,,,,,,,,,

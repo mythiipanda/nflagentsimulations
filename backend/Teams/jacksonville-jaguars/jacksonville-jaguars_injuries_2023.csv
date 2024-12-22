@@ -1,0 +1,127 @@
+"season","game_type","team","week","gsis_id","position","full_name","first_name","last_name","report_primary_injury","report_secondary_injury","report_status","practice_primary_injury","practice_secondary_injury","practice_status","date_modified"
+2023,"REG","JAX",1,"00-0038596","S","Antonio Johnson","Antonio","Johnson","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-09-08 18:14:40
+2023,"REG","JAX",1,"00-0038940","DE","Tyler Lacy","Tyler","Lacy","Hip",NA,"Out","Hip",NA,"Limited Participation in Practice",2023-09-08 18:14:48
+2023,"REG","JAX",2,"00-0038596","S","Antonio Johnson","Antonio","Johnson","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-09-15 19:14:49
+2023,"REG","JAX",2,"00-0037296","CB","Gregory Junior","Gregory","Junior","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-09-15 19:14:58
+2023,"REG","JAX",2,"00-0037814","C","Luke Fortner","Luke","Fortner","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-09-15 19:14:28
+2023,"REG","JAX",2,"00-0038940","DE","Tyler Lacy","Tyler","Lacy","Hip",NA,"Questionable","Hip",NA,"Limited Participation in Practice",2023-09-15 19:14:28
+2023,"REG","JAX",2,"00-0032053","G","Brandon Scherff","Brandon","Scherff","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-09-15 19:14:28
+2023,"REG","JAX",3,"00-0032053","G","Brandon Scherff","Brandon","Scherff",NA,NA,NA,"Not injury related - personal matter",NA,"Full Participation in Practice",2023-09-21 19:39:02
+2023,"REG","JAX",3,"00-0038596","S","Antonio Johnson","Antonio","Johnson","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-09-22 18:03:28
+2023,"REG","JAX",3,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-09-22 18:03:17
+2023,"REG","JAX",3,"00-0034275","DT","Folorunso Fatukasi","Folorunso","Fatukasi","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-09-22 18:02:54
+2023,"REG","JAX",3,"00-0035642","LB","Josh Hines-Allen","Josh","Hines-Allen","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-09-22 18:02:54
+2023,"REG","JAX",3,"00-0035378","S","Andrew Wingard","Andrew","Wingard","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-09-22 18:02:54
+2023,"REG","JAX",4,"00-0035642","LB","Josh Hines-Allen","Josh","Hines-Allen",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-09-29 20:30:22
+2023,"REG","JAX",4,"00-0035378","S","Andrew Wingard","Andrew","Wingard",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-09-29 20:30:29
+2023,"REG","JAX",4,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-09-29 20:31:05
+2023,"REG","JAX",4,"00-0037244","LB","Devin Lloyd","Devin","Lloyd","Thumb",NA,"Out","Thumb",NA,"Did Not Participate In Practice",2023-09-29 20:31:39
+2023,"REG","JAX",4,"00-0038596","S","Antonio Johnson","Antonio","Johnson","Hamstring",NA,"Out","Hamstring",NA,"Limited Participation in Practice",2023-09-29 20:31:28
+2023,"REG","JAX",4,"00-0033572","WR","Jamal Agnew","Jamal","Agnew","Quadricep",NA,"Questionable","Quadricep",NA,"Limited Participation in Practice",2023-09-29 20:30:32
+2023,"REG","JAX",4,"00-0034275","DT","Folorunso Fatukasi","Folorunso","Fatukasi","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-09-29 20:30:32
+2023,"REG","JAX",4,"00-0038934","T","Anton Harrison","Anton","Harrison","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-09-29 20:30:32
+2023,"REG","JAX",5,"00-0035642","LB","Josh Hines-Allen","Josh","Hines-Allen",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-10-06 21:37:40
+2023,"REG","JAX",5,"00-0033889","T","Cam Robinson","Cam","Robinson",NA,NA,NA,"not injury related - returning from suspension",NA,"Full Participation in Practice",2023-10-04 21:49:49
+2023,"REG","JAX",5,"00-0038616","CB","Christian Braswell","Christian","Braswell","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-10-06 21:39:14
+2023,"REG","JAX",5,"00-0037244","LB","Devin Lloyd","Devin","Lloyd","Thumb",NA,"Out","Thumb",NA,"Did Not Participate In Practice",2023-10-06 21:39:44
+2023,"REG","JAX",5,"00-0038606","WR","Parker Washington","Parker","Washington","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-10-06 21:39:03
+2023,"REG","JAX",5,"00-0033907","LB","Dawuane Smoot","Dawuane","Smoot","Achilles",NA,"Out","Achilles",NA,"Limited Participation in Practice",2023-10-06 21:38:57
+2023,"REG","JAX",5,"00-0033572","WR","Jamal Agnew","Jamal","Agnew","Quadricep",NA,"Questionable","Quadricep",NA,"Limited Participation in Practice",2023-10-06 21:38:21
+2023,"REG","JAX",5,"00-0034275","DT","Folorunso Fatukasi","Folorunso","Fatukasi","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-10-06 21:38:21
+2023,"REG","JAX",5,"00-0038596","S","Antonio Johnson","Antonio","Johnson","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-10-06 21:38:21
+2023,"REG","JAX",5,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-10-06 21:38:21
+2023,"REG","JAX",6,"00-0033889","T","Cam Robinson","Cam","Robinson",NA,NA,NA,"Elbow",NA,"Full Participation in Practice",2023-10-13 19:30:09
+2023,"REG","JAX",6,"00-0033907","DE","Dawuane Smoot","Dawuane","Smoot",NA,NA,NA,"Achilles",NA,"Full Participation in Practice",2023-10-13 19:30:09
+2023,"REG","JAX",6,"00-0038616","CB","Christian Braswell","Christian","Braswell","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-10-13 19:31:28
+2023,"REG","JAX",6,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-10-13 19:32:01
+2023,"REG","JAX",6,"00-0036975","T","Walker Little","Walker","Little","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-10-13 19:32:10
+2023,"REG","JAX",6,"00-0036262","DT","Davon Hamilton","Davon","Hamilton","Back",NA,"Out","Back",NA,"Limited Participation in Practice",2023-10-13 19:34:48
+2023,"REG","JAX",6,"00-0037244","LB","Devin Lloyd","Devin","Lloyd","Thumb",NA,"Questionable","Thumb",NA,"Limited Participation in Practice",2023-10-13 19:31:13
+2023,"REG","JAX",7,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-10-18 18:48:45
+2023,"REG","JAX",7,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-10-18 18:48:58
+2023,"REG","JAX",7,"00-0036975","T","Walker Little","Walker","Little","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-10-18 18:49:06
+2023,"REG","JAX",7,"00-0036262","DT","Davon Hamilton","Davon","Hamilton","Back",NA,"Out","Back",NA,"Full Participation in Practice",2023-10-18 18:48:53
+2023,"REG","JAX",7,"00-0032053","G","Brandon Scherff","Brandon","Scherff","Ankle",NA,"Questionable","Ankle",NA,"Did Not Participate In Practice",2023-10-18 18:48:36
+2023,"REG","JAX",7,"00-0036971","QB","Trevor Lawrence","Trevor","Lawrence","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-10-18 18:49:02
+2023,"REG","JAX",8,"00-0036262","DT","Davon Hamilton","Davon","Hamilton",NA,NA,NA,"Back",NA,"Full Participation in Practice",2023-10-27 18:19:48
+2023,"REG","JAX",8,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-10-27 18:22:27
+2023,"REG","JAX",8,"00-0037296","CB","Gregory Junior","Gregory","Junior","Hamstring",NA,"Out","Hamstring",NA,"Full Participation in Practice",2023-10-27 18:22:46
+2023,"REG","JAX",8,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-10-27 18:20:10
+2023,"REG","JAX",8,"00-0036941","S","Andre Cisco","Andre","Cisco","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-10-27 18:20:10
+2023,"REG","JAX",8,"00-0036971","QB","Trevor Lawrence","Trevor","Lawrence","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-10-27 18:20:10
+2023,"REG","JAX",8,"00-0036975","T","Walker Little","Walker","Little","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-10-27 18:20:10
+2023,"REG","JAX",8,"00-0032053","G","Brandon Scherff","Brandon","Scherff","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-10-27 18:20:10
+2023,"REG","JAX",10,"00-0038580","LB","Yasir Abdullah","Yasir","Abdullah",NA,NA,NA,"Illness",NA,"Full Participation in Practice",2023-11-10 20:15:47
+2023,"REG","JAX",10,"00-0037296","CB","Gregory Junior","Gregory","Junior",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-11-10 20:15:47
+2023,"REG","JAX",10,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Out","Knee",NA,"Limited Participation in Practice",2023-11-10 20:21:07
+2023,"REG","JAX",10,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-11-10 20:15:51
+2023,"REG","JAX",10,"00-0036941","S","Andre Cisco","Andre","Cisco","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-11-10 20:15:51
+2023,"REG","JAX",10,"00-0036327","G","Ezra Cleveland","Ezra","Cleveland","Toe",NA,"Questionable","Toe",NA,"Limited Participation in Practice",2023-11-10 20:15:51
+2023,"REG","JAX",10,"00-0036306","S","Daniel Thomas","Daniel","Thomas","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-11-10 20:15:51
+2023,"REG","JAX",11,"00-0036971","QB","Trevor Lawrence","Trevor","Lawrence",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-11-17 18:28:31
+2023,"REG","JAX",11,"00-0033572","WR","Jamal Agnew","Jamal","Agnew","Shoulder","Ribs","Out","Shoulder","Ribs","Did Not Participate In Practice",2023-11-17 18:30:09
+2023,"REG","JAX",11,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-11-17 18:30:17
+2023,"REG","JAX",11,"00-0038934","T","Anton Harrison","Anton","Harrison","Back",NA,"Questionable","Back",NA,"Limited Participation in Practice",2023-11-17 18:30:00
+2023,"REG","JAX",11,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-11-17 18:30:00
+2023,"REG","JAX",11,"00-0032667","DT","Roy Robertson-Harris","Roy","Robertson-Harris","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-11-17 18:30:00
+2023,"REG","JAX",11,"00-0038606","WR","Parker Washington","Parker","Washington","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-11-17 18:30:00
+2023,"REG","JAX",12,"00-0033582","DE","Jeremiah Ledbetter","Jeremiah","Ledbetter",NA,NA,NA,"Not injury related - personal matter",NA,"Full Participation in Practice",2023-11-24 20:16:19
+2023,"REG","JAX",12,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-11-24 20:16:41
+2023,"REG","JAX",12,"00-0033891","WR","Zay Jones","Zay","Jones","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-11-24 20:16:57
+2023,"REG","JAX",12,"00-0032667","DT","Roy Robertson-Harris","Roy","Robertson-Harris","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-11-24 20:17:51
+2023,"REG","JAX",13,"00-0038935","TE","Brenton Strange","Brenton","Strange","Foot",NA,"Questionable","Foot",NA,"Did Not Participate In Practice",2023-12-02 19:35:49
+2023,"REG","JAX",13,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-12-02 19:35:49
+2023,"REG","JAX",13,"00-0036973","RB","Travis Etienne","Travis","Etienne","Ribs",NA,"Questionable","Ribs",NA,"Limited Participation in Practice",2023-12-02 19:35:49
+2023,"REG","JAX",13,"00-0036887","TE","Luke Farrell","Luke","Farrell","Toe",NA,"Questionable","Toe",NA,"Limited Participation in Practice",2023-12-02 19:35:49
+2023,"REG","JAX",14,"00-0034775","WR","Christian Kirk","Christian","Kirk",NA,NA,NA,"Groin",NA,"Did Not Participate In Practice",2023-12-07 20:36:41
+2023,"REG","JAX",14,"00-0033936","QB","C.J. Beathard","C.J.","Beathard",NA,NA,NA,"left Shoulder",NA,"Full Participation in Practice",2023-12-08 20:08:19
+2023,"REG","JAX",14,"00-0036941","S","Andre Cisco","Andre","Cisco",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-12-08 20:09:18
+2023,"REG","JAX",14,"00-0033891","WR","Zay Jones","Zay","Jones",NA,NA,NA,"Knee",NA,"Limited Participation in Practice",2023-12-08 20:08:01
+2023,"REG","JAX",14,"00-0034516","CB","Tre Herndon","Tre","Herndon","Concussion",NA,"Out","Concussion",NA,"Did Not Participate In Practice",2023-12-08 20:10:45
+2023,"REG","JAX",14,"00-0036975","T","Walker Little","Walker","Little","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-12-08 20:12:05
+2023,"REG","JAX",14,"00-0038935","TE","Brenton Strange","Brenton","Strange","Foot",NA,"Out","Foot",NA,"Did Not Participate In Practice",2023-12-08 20:12:19
+2023,"REG","JAX",14,"00-0038616","CB","Christian Braswell","Christian","Braswell","Hamstring",NA,"Out","Hamstring",NA,"Limited Participation in Practice",2023-12-08 20:08:49
+2023,"REG","JAX",14,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Quadricep",NA,"Questionable","Quadricep",NA,"Limited Participation in Practice",2023-12-08 20:09:10
+2023,"REG","JAX",14,"00-0036973","RB","Travis Etienne","Travis","Etienne","Ribs",NA,"Questionable","Ribs",NA,"Limited Participation in Practice",2023-12-08 20:10:00
+2023,"REG","JAX",14,"00-0034275","DT","Folorunso Fatukasi","Folorunso","Fatukasi","Heel",NA,"Questionable","Heel",NA,"Limited Participation in Practice",2023-12-08 20:10:24
+2023,"REG","JAX",14,"00-0035628","RB","D'Ernest Johnson","D'Ernest","Johnson","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-12-08 20:11:14
+2023,"REG","JAX",14,"00-0036971","QB","Trevor Lawrence","Trevor","Lawrence","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-08 20:14:44
+2023,"REG","JAX",15,"00-0033936","QB","C.J. Beathard","C.J.","Beathard",NA,NA,NA,"left Shoulder",NA,"Full Participation in Practice",2023-12-15 19:49:11
+2023,"REG","JAX",15,"00-0036971","QB","Trevor Lawrence","Trevor","Lawrence",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-15 19:49:11
+2023,"REG","JAX",15,"00-0036973","RB","Travis Etienne","Travis","Etienne",NA,NA,NA,"Ribs",NA,"Limited Participation in Practice",2023-12-15 19:49:11
+2023,"REG","JAX",15,"00-0035628","RB","D'Ernest Johnson","D'Ernest","Johnson",NA,NA,NA,"Knee",NA,"Limited Participation in Practice",2023-12-15 19:49:11
+2023,"REG","JAX",15,"00-0033891","WR","Zay Jones","Zay","Jones",NA,NA,NA,"Knee",NA,"Limited Participation in Practice",2023-12-15 19:49:11
+2023,"REG","JAX",15,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Quadricep",NA,"Out","Quadricep",NA,"Did Not Participate In Practice",2023-12-15 19:50:29
+2023,"REG","JAX",15,"00-0036941","S","Andre Cisco","Andre","Cisco","Groin",NA,"Out","Groin",NA,"Did Not Participate In Practice",2023-12-15 19:50:40
+2023,"REG","JAX",15,"00-0035827","LS","Ross Matiscik","Ross","Matiscik","Back",NA,"Questionable","Back",NA,"Did Not Participate In Practice",2023-12-15 19:50:10
+2023,"REG","JAX",15,"00-0033572","WR","Jamal Agnew","Jamal","Agnew","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-12-15 19:50:10
+2023,"REG","JAX",15,"00-0038616","CB","Christian Braswell","Christian","Braswell","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-12-15 19:50:10
+2023,"REG","JAX",15,"00-0036327","G","Ezra Cleveland","Ezra","Cleveland","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-12-15 19:50:10
+2023,"REG","JAX",15,"00-0034516","CB","Tre Herndon","Tre","Herndon","Concussion",NA,"Questionable","Concussion",NA,"Limited Participation in Practice",2023-12-15 19:50:10
+2023,"REG","JAX",15,"00-0036975","T","Walker Little","Walker","Little","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-12-15 19:50:10
+2023,"REG","JAX",15,"00-0038935","TE","Brenton Strange","Brenton","Strange","Foot",NA,"Questionable","Foot",NA,"Limited Participation in Practice",2023-12-15 19:50:10
+2023,"REG","JAX",16,"00-0033936","QB","C.J. Beathard","C.J.","Beathard",NA,NA,NA,"left Shoulder",NA,"Full Participation in Practice",2023-12-22 19:53:30
+2023,"REG","JAX",16,"00-0036327","G","Ezra Cleveland","Ezra","Cleveland",NA,NA,NA,"Knee",NA,"Limited Participation in Practice",2023-12-22 19:53:30
+2023,"REG","JAX",16,"00-0036975","T","Walker Little","Walker","Little",NA,NA,NA,"Hamstring",NA,"Limited Participation in Practice",2023-12-22 19:53:30
+2023,"REG","JAX",16,"00-0038616","CB","Christian Braswell","Christian","Braswell","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-12-22 19:54:16
+2023,"REG","JAX",16,"00-0036974","CB","Tyson Campbell","Tyson","Campbell","Quadricep",NA,"Questionable","Quadricep",NA,"Limited Participation in Practice",2023-12-22 19:54:32
+2023,"REG","JAX",16,"00-0036941","S","Andre Cisco","Andre","Cisco","Groin",NA,"Questionable","Groin",NA,"Limited Participation in Practice",2023-12-22 19:54:57
+2023,"REG","JAX",16,"00-0033891","WR","Zay Jones","Zay","Jones","Knee","Hamstring","Questionable","Knee","Hamstring","Limited Participation in Practice",2023-12-22 19:55:30
+2023,"REG","JAX",16,"00-0036971","QB","Trevor Lawrence","Trevor","Lawrence","Ankle","Concussion","Questionable","Ankle","Concussion","Limited Participation in Practice",2023-12-22 19:56:39
+2023,"REG","JAX",16,"00-0038935","TE","Brenton Strange","Brenton","Strange","Foot",NA,"Questionable","Foot",NA,"Limited Participation in Practice",2023-12-22 19:56:57
+2023,"REG","JAX",17,"00-0033936","QB","C.J. Beathard","C.J.","Beathard",NA,NA,NA,"left Shoulder",NA,"Full Participation in Practice",2023-12-29 19:43:57
+2023,"REG","JAX",17,"00-0038616","CB","Christian Braswell","Christian","Braswell",NA,NA,NA,"Hamstring",NA,"Limited Participation in Practice",2023-12-27 20:26:18
+2023,"REG","JAX",17,"00-0036974","CB","Tyson Campbell","Tyson","Campbell",NA,NA,NA,"Finger",NA,"Limited Participation in Practice",2023-12-29 19:43:57
+2023,"REG","JAX",17,"00-0036941","S","Andre Cisco","Andre","Cisco",NA,NA,NA,"Groin",NA,"Limited Participation in Practice",2023-12-29 19:43:57
+2023,"REG","JAX",17,"00-0036327","G","Ezra Cleveland","Ezra","Cleveland",NA,NA,NA,"Knee",NA,"Limited Participation in Practice",2023-12-29 19:43:57
+2023,"REG","JAX",17,"00-0036975","T","Walker Little","Walker","Little",NA,NA,NA,"Hamstring",NA,"Limited Participation in Practice",2023-12-29 19:43:57
+2023,"REG","JAX",17,"00-0038935","TE","Brenton Strange","Brenton","Strange",NA,NA,NA,"Foot",NA,"Limited Participation in Practice",2023-12-29 19:43:57
+2023,"REG","JAX",17,"00-0036971","QB","Trevor Lawrence","Trevor","Lawrence","right Shoulder",NA,"Out","right Shoulder",NA,"Did Not Participate In Practice",2023-12-29 19:44:26
+2023,"REG","JAX",17,"00-0033891","WR","Zay Jones","Zay","Jones","Knee","Hamstring","Questionable","Knee","Hamstring","Limited Participation in Practice",2023-12-29 19:44:05
+2023,"REG","JAX",17,"00-0033889","T","Cam Robinson","Cam","Robinson","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-12-29 19:44:05
+2023,"REG","JAX",18,"00-0033936","QB","C.J. Beathard","C.J.","Beathard",NA,NA,NA,"left Shoulder",NA,"Full Participation in Practice",2024-01-05 18:47:50
+2023,"REG","JAX",18,"00-0036327","G","Ezra Cleveland","Ezra","Cleveland",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2024-01-05 18:47:50
+2023,"REG","JAX",18,"00-0036975","T","Walker Little","Walker","Little",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2024-01-05 18:47:50
+2023,"REG","JAX",18,"00-0033891","WR","Zay Jones","Zay","Jones","Knee","Hamstring","Questionable","Knee","Hamstring","Limited Participation in Practice",2024-01-05 18:52:04
+2023,"REG","JAX",18,"00-0034775","WR","Christian Kirk","Christian","Kirk","Groin",NA,"Questionable","Groin",NA,"Limited Participation in Practice",2024-01-05 18:52:29
+2023,"REG","JAX",18,"00-0036971","QB","Trevor Lawrence","Trevor","Lawrence","right Shoulder","left Finger","Questionable","right Shoulder","left Finger","Limited Participation in Practice",2024-01-05 18:54:40

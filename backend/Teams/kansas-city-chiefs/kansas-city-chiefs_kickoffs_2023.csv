@@ -1,4 +1,4 @@
-KICKOFFS_2023_KICKOFFS_2023_Rank,KICKOFFS_2023_KICKOFFS_2023_Player,KICKOFFS_2023_KICKOFFS_2023_JerseyNumber,KICKOFFS_2023_KICKOFFS_2023_Position,KICKOFFS_2023_KICKOFFS_2023_GamesPlayed,KICKOFFS_2023_KICKOFFS_2023_KickoffsGrade,KICKOFFS_2023_KICKOFFS_2023_KickoffsTotal,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsPerAttempt,KICKOFFS_2023_KICKOFFS_2023_KickoffsAverageFieldPosition,KICKOFFS_2023_KICKOFFS_2023_KickoffsOnsideAttempts,KICKOFFS_2023_KICKOFFS_2023_KickoffsReturnPercentage,KICKOFFS_2023_KICKOFFS_2023_KickoffsReturned,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsAllowed,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsPerReturnAllowed,KICKOFFS_2023_KICKOFFS_2023_KickoffsTouchbacks,KICKOFFS_2023_KICKOFFS_2023_KickoffsFairCatches,KICKOFFS_2023_KICKOFFS_2023_KickoffsHangtimeAverage,KICKOFFS_2023_KICKOFFS_2023_KickoffsHangtimeAverage.1
-1.0,Harrison Butker,#07,K,21.0,89.2,108.0,71.6,25.4,0.0,14.8,16.0,426.0,26.6,91.0,1.0,104.0,4.06
-2.0,Tommy Townsend,#05,P,1.0,60.0,1.0,80.0,25.0,0.0,0.0,0.0,0.0,,1.0,0.0,1.0,4.57
-,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickoffsGrade,KickoffsTotal,KickoffsYardsPerAttempt,KickoffsAverageFieldPosition,KickoffsOnsideAttempts,KickoffsReturnPercentage,KickoffsReturned,KickoffsYardsAllowed,KickoffsYardsPerReturnAllowed,KickoffsTouchbacks,KickoffsFairCatches,KickoffsHangtimeAverage,KickoffsHangtimeAverage.1
+Harrison Butker,#07,K,21.0,89.2,108.0,71.6,25.4,0.0,14.8,16.0,426.0,26.6,91.0,1.0,104.0,4.06
+Tommy Townsend,#05,P,1.0,60.0,1.0,80.0,25.0,0.0,0.0,0.0,0.0,,1.0,0.0,1.0,4.57
+,,,,,,,,,,,,,,,,

@@ -1,0 +1,111 @@
+"season","game_type","team","week","gsis_id","position","full_name","first_name","last_name","report_primary_injury","report_secondary_injury","report_status","practice_primary_injury","practice_secondary_injury","practice_status","date_modified"
+2023,"REG","ATL",1,"00-0033858","TE","Jonnu Smith","Jonnu","Smith",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-09-06 20:54:47
+2023,"REG","ATL",1,"00-0036274","CB","Jeff Okudah","Jeff","Okudah","Foot",NA,"Out","Foot",NA,"Did Not Participate In Practice",2023-09-08 17:42:34
+2023,"REG","ATL",1,"00-0034854","WR","KhaDarel Hodge","KhaDarel","Hodge","Ankle",NA,"Questionable","Ankle",NA,"Full Participation in Practice",2023-09-08 17:43:18
+2023,"REG","ATL",1,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson","Thigh",NA,"Questionable","Thigh",NA,"Limited Participation in Practice",2023-09-08 17:42:57
+2023,"REG","ATL",2,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-09-13 20:56:52
+2023,"REG","ATL",2,"00-0033858","TE","Jonnu Smith","Jonnu","Smith",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-09-13 20:56:38
+2023,"REG","ATL",2,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson",NA,NA,NA,"Thigh",NA,"Full Participation in Practice",2023-09-15 17:32:26
+2023,"REG","ATL",2,"00-0037810","LB","Troy Andersen","Troy","Andersen","Concussion",NA,"Out","Concussion",NA,"Limited Participation in Practice",2023-09-15 17:32:51
+2023,"REG","ATL",2,"00-0036274","CB","Jeff Okudah","Jeff","Okudah","Foot",NA,"Questionable","Foot",NA,"Limited Participation in Practice",2023-09-15 17:33:09
+2023,"REG","ATL",3,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-09-20 20:36:59
+2023,"REG","ATL",3,"00-0032146","LB","Bud Dupree","Bud","Dupree",NA,NA,NA,"Illness",NA,"Did Not Participate In Practice",2023-09-21 20:31:18
+2023,"REG","ATL",3,"00-0037810","LB","Troy Andersen","Troy","Andersen",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-09-20 20:36:45
+2023,"REG","ATL",3,"00-0036274","CB","Jeff Okudah","Jeff","Okudah","Foot",NA,"Questionable","Foot",NA,"Full Participation in Practice",2023-09-22 17:23:20
+2023,"REG","ATL",3,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson","Thigh",NA,"Questionable","Thigh",NA,"Limited Participation in Practice",2023-09-22 17:23:20
+2023,"REG","ATL",4,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-09-27 20:01:01
+2023,"REG","ATL",4,"00-0038149","WR","Josh Ali","Josh","Ali","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-09-29 15:57:32
+2023,"REG","ATL",4,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson","Thigh",NA,"Questionable","Thigh",NA,"Limited Participation in Practice",2023-09-29 15:57:23
+2023,"REG","ATL",6,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-11 20:45:54
+2023,"REG","ATL",6,"00-0032146","LB","Bud Dupree","Bud","Dupree",NA,NA,NA,"Wrist",NA,"Full Participation in Practice",2023-10-13 17:07:54
+2023,"REG","ATL",6,"00-0035235","T","Kaleb McGary","Kaleb","McGary",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-10-13 17:07:59
+2023,"REG","ATL",6,"00-0033858","TE","Jonnu Smith","Jonnu","Smith",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-10-13 17:07:54
+2023,"REG","ATL",7,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-18 20:48:03
+2023,"REG","ATL",8,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-25 20:27:58
+2023,"REG","ATL",8,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-25 20:27:44
+2023,"REG","ATL",8,"00-0034500","LB","Tae Davis","Tae","Davis","Concussion",NA,"Out","Concussion",NA,"Limited Participation in Practice",2023-10-27 18:13:59
+2023,"REG","ATL",8,"00-0032065","P","Bradley Pinion","Bradley","Pinion","Illness",NA,"Questionable",NA,NA,"
+    ",2023-10-28 20:07:58
+2023,"REG","ATL",8,"00-0032146","LB","Bud Dupree","Bud","Dupree","Groin",NA,"Questionable","Groin",NA,"Limited Participation in Practice",2023-10-27 18:13:38
+2023,"REG","ATL",9,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-01 20:30:37
+2023,"REG","ATL",9,"00-0033051","DT","David Onyemata","David","Onyemata",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-01 20:30:18
+2023,"REG","ATL",9,"00-0034500","LB","Tae Davis","Tae","Davis",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-11-03 17:13:57
+2023,"REG","ATL",9,"00-0034843","CB","Mike Hughes","Mike","Hughes",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-11-03 17:14:02
+2023,"REG","ATL",9,"00-0038122","QB","Desmond Ridder","Desmond","Ridder",NA,NA,NA,"gameday concussion protocol evaluation",NA,"Full Participation in Practice",2023-11-01 20:28:53
+2023,"REG","ATL",9,"00-0038628","S","DeMarcco Hellams","DeMarcco","Hellams","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-11-03 17:14:42
+2023,"REG","ATL",9,"00-0037238","WR","Drake London","Drake","London","Groin",NA,"Out","Groin",NA,"Did Not Participate In Practice",2023-11-03 17:14:25
+2023,"REG","ATL",9,"00-0030968","FB","Keith Smith","Keith","Smith","Concussion",NA,"Out","Concussion",NA,"Did Not Participate In Practice",2023-11-03 17:14:54
+2023,"REG","ATL",10,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-08 21:25:24
+2023,"REG","ATL",10,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-08 21:24:45
+2023,"REG","ATL",10,"00-0036970","TE","Kyle Pitts","Kyle","Pitts",NA,NA,NA,"Not injury related - personal matter",NA,"Did Not Participate In Practice",2023-11-10 18:55:57
+2023,"REG","ATL",10,"00-0036961","S","Richie Grant","Richie","Grant",NA,NA,NA,"Neck",NA,"Full Participation in Practice",2023-11-10 18:58:25
+2023,"REG","ATL",10,"00-0038628","S","DeMarcco Hellams","DeMarcco","Hellams",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-11-10 18:58:38
+2023,"REG","ATL",10,"00-0037238","WR","Drake London","Drake","London",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2023-11-10 18:56:44
+2023,"REG","ATL",10,"00-0030968","FB","Keith Smith","Keith","Smith",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-11-08 21:23:17
+2023,"REG","ATL",10,"00-0037034","CB","Dee Alford","Dee","Alford","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-11-10 18:59:51
+2023,"REG","ATL",10,"00-0033555","WR","Mack Hollins","Mack","Hollins","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-11-10 19:00:01
+2023,"REG","ATL",10,"00-0033051","DT","David Onyemata","David","Onyemata","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-11-10 18:59:41
+2023,"REG","ATL",12,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-22 21:15:20
+2023,"REG","ATL",12,"00-0037034","CB","Dee Alford","Dee","Alford",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-11-24 18:24:01
+2023,"REG","ATL",12,"00-0033702","K","Younghoe Koo","Younghoe","Koo",NA,NA,NA,"Back",NA,"Full Participation in Practice",2023-11-24 18:23:56
+2023,"REG","ATL",12,"00-0033051","DT","David Onyemata","David","Onyemata",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-11-24 18:24:06
+2023,"REG","ATL",12,"00-0033555","WR","Mack Hollins","Mack","Hollins","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-11-24 18:24:43
+2023,"REG","ATL",12,"00-0031800","QB","Taylor Heinicke","Taylor","Heinicke","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-11-24 18:24:28
+2023,"REG","ATL",13,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-29 21:14:55
+2023,"REG","ATL",13,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-29 21:14:39
+2023,"REG","ATL",13,"00-0031279","T","Jake Matthews","Jake","Matthews",NA,NA,NA,"Hip",NA,"Full Participation in Practice",2023-12-01 19:33:01
+2023,"REG","ATL",13,"00-0037587","LB","Nate Landman","Nate","Landman",NA,NA,NA,"Thigh",NA,"Limited Participation in Practice",2023-12-01 19:32:54
+2023,"REG","ATL",13,"00-0034843","CB","Mike Hughes","Mike","Hughes","Hand",NA,"Questionable","Hand",NA,"Full Participation in Practice",2023-12-01 19:33:23
+2023,"REG","ATL",13,"00-0033555","WR","Mack Hollins","Mack","Hollins","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-01 19:33:45
+2023,"REG","ATL",14,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-06 21:09:40
+2023,"REG","ATL",14,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson",NA,NA,NA,"Illness",NA,"Did Not Participate In Practice",2023-12-08 19:02:41
+2023,"REG","ATL",14,"00-0037587","LB","Nate Landman","Nate","Landman","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-12-08 19:03:13
+2023,"REG","ATL",14,"00-0035235","T","Kaleb McGary","Kaleb","McGary","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-12-08 19:03:33
+2023,"REG","ATL",14,"00-0033051","DT","David Onyemata","David","Onyemata","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-12-08 19:04:36
+2023,"REG","ATL",14,"00-0036204","DT","Lacale London","Lacale","London","Knee",NA,"Out","Knee",NA,"Full Participation in Practice",2023-12-08 19:03:24
+2023,"REG","ATL",14,"00-0033555","WR","Mack Hollins","Mack","Hollins","Ankle",NA,"Questionable","Ankle",NA,"Full Participation in Practice",2023-12-08 19:05:10
+2023,"REG","ATL",14,"00-0034843","CB","Mike Hughes","Mike","Hughes","Hand",NA,"Questionable","Hand",NA,"Full Participation in Practice",2023-12-08 19:05:22
+2023,"REG","ATL",14,"00-0036285","CB","A.J. Terrell","A.J.","Terrell","Concussion",NA,"Questionable","Concussion",NA,"Full Participation in Practice",2023-12-08 19:04:58
+2023,"REG","ATL",14,"00-0036957","C","Drew Dalman","Drew","Dalman","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-08 19:05:46
+2023,"REG","ATL",14,"00-0036274","CB","Jeff Okudah","Jeff","Okudah","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-08 19:04:49
+2023,"REG","ATL",15,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-13 21:13:40
+2023,"REG","ATL",15,"00-0036274","CB","Jeff Okudah","Jeff","Okudah",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-15 20:01:05
+2023,"REG","ATL",15,"00-0035235","T","Kaleb McGary","Kaleb","McGary","Knee","Illness","Out","Knee","Illness","Did Not Participate In Practice",2023-12-15 20:05:36
+2023,"REG","ATL",15,"00-0034320","DT","Kentavius Street","Kentavius","Street","Pectoral",NA,"Out","Pectoral",NA,"Did Not Participate In Practice",2023-12-15 20:05:21
+2023,"REG","ATL",15,"00-0033702","K","Younghoe Koo","Younghoe","Koo","Illness",NA,"Questionable",NA,NA,"
+    ",2023-12-16 20:51:31
+2023,"REG","ATL",15,"00-0036204","DT","Lacale London","Lacale","London","Knee",NA,"Questionable","Knee",NA,"Full Participation in Practice",2023-12-15 20:05:00
+2023,"REG","ATL",15,"00-0036957","C","Drew Dalman","Drew","Dalman","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-15 20:03:58
+2023,"REG","ATL",15,"00-0032146","LB","Bud Dupree","Bud","Dupree","Back",NA,"Questionable","Back",NA,"Limited Participation in Practice",2023-12-15 20:03:11
+2023,"REG","ATL",15,"00-0037587","LB","Nate Landman","Nate","Landman","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-12-15 20:03:30
+2023,"REG","ATL",15,"00-0035630","G","Chris Lindstrom","Chris","Lindstrom","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-15 20:04:30
+2023,"REG","ATL",15,"00-0031279","T","Jake Matthews","Jake","Matthews","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-12-15 20:04:44
+2023,"REG","ATL",15,"00-0033051","DT","David Onyemata","David","Onyemata","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-15 20:05:11
+2023,"REG","ATL",16,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-20 21:03:47
+2023,"REG","ATL",16,"00-0032065","P","Bradley Pinion","Bradley","Pinion",NA,NA,NA,"Not injury related - personal matter",NA,"Did Not Participate In Practice",2023-12-22 20:27:45
+2023,"REG","ATL",16,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Illness",NA,"Full Participation in Practice",2023-12-22 20:28:05
+2023,"REG","ATL",16,"00-0036957","C","Drew Dalman","Drew","Dalman",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-22 20:27:54
+2023,"REG","ATL",16,"00-0035630","G","Chris Lindstrom","Chris","Lindstrom",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-22 20:27:50
+2023,"REG","ATL",16,"00-0031279","T","Jake Matthews","Jake","Matthews",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-22 20:27:59
+2023,"REG","ATL",16,"00-0036833","C","Ryan Neuzil","Ryan","Neuzil",NA,NA,NA,"Illness",NA,"Full Participation in Practice",2023-12-22 20:28:10
+2023,"REG","ATL",16,"00-0030968","FB","Keith Smith","Keith","Smith","Ankle",NA,"Doubtful","Ankle",NA,"Did Not Participate In Practice",2023-12-22 20:29:44
+2023,"REG","ATL",16,"00-0032146","LB","Bud Dupree","Bud","Dupree","Back",NA,"Questionable","Back",NA,"Limited Participation in Practice",2023-12-22 20:29:10
+2023,"REG","ATL",16,"00-0035235","T","Kaleb McGary","Kaleb","McGary","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-12-22 20:29:22
+2023,"REG","ATL",16,"00-0033051","DT","David Onyemata","David","Onyemata","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-22 20:29:34
+2023,"REG","ATL",17,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-27 21:01:57
+2023,"REG","ATL",17,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-27 21:01:47
+2023,"REG","ATL",17,"00-0034360","LB","Lorenzo Carter","Lorenzo","Carter",NA,NA,NA,"Neck",NA,"Full Participation in Practice",2023-12-29 18:23:59
+2023,"REG","ATL",17,"00-0036957","C","Drew Dalman","Drew","Dalman",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-29 18:24:02
+2023,"REG","ATL",17,"00-0031800","QB","Taylor Heinicke","Taylor","Heinicke",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-29 18:24:06
+2023,"REG","ATL",17,"00-0035630","G","Chris Lindstrom","Chris","Lindstrom",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-29 18:24:11
+2023,"REG","ATL",17,"00-0031279","T","Jake Matthews","Jake","Matthews",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-29 18:24:16
+2023,"REG","ATL",17,"00-0033051","DT","David Onyemata","David","Onyemata",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-29 18:24:20
+2023,"REG","ATL",17,"00-0035235","T","Kaleb McGary","Kaleb","McGary","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-12-29 18:24:34
+2023,"REG","ATL",18,"00-0026190","DE","Calais Campbell","Calais","Campbell",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2024-01-03 21:05:19
+2023,"REG","ATL",18,"00-0030578","RB","Cordarrelle Patterson","Cordarrelle","Patterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2024-01-03 21:05:08
+2023,"REG","ATL",18,"00-0036957","C","Drew Dalman","Drew","Dalman","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2024-01-05 18:50:39
+2023,"REG","ATL",18,"00-0038628","S","DeMarcco Hellams","DeMarcco","Hellams","Concussion",NA,"Out","Concussion",NA,"Did Not Participate In Practice",2024-01-05 18:50:14
+2023,"REG","ATL",18,"00-0037810","LB","Troy Andersen","Troy","Andersen","Pectoral",NA,"Out","Pectoral",NA,"Limited Participation in Practice",2024-01-05 18:50:27
+2023,"REG","ATL",18,"00-0034843","CB","Mike Hughes","Mike","Hughes","Concussion",NA,"Questionable","Concussion",NA,"Full Participation in Practice",2024-01-05 18:49:45
+2023,"REG","ATL",18,"00-0038980","DE","Zach Harrison","Zach","Harrison","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2024-01-05 18:49:59
+2023,"REG","ATL",18,"00-0031800","QB","Taylor Heinicke","Taylor","Heinicke","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2024-01-05 18:49:25

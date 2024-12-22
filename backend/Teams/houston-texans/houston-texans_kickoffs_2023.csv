@@ -1,6 +1,6 @@
-KICKOFFS_2023_KICKOFFS_2023_Rank,KICKOFFS_2023_KICKOFFS_2023_Player,KICKOFFS_2023_KICKOFFS_2023_JerseyNumber,KICKOFFS_2023_KICKOFFS_2023_Position,KICKOFFS_2023_KICKOFFS_2023_GamesPlayed,KICKOFFS_2023_KICKOFFS_2023_KickoffsGrade,KICKOFFS_2023_KICKOFFS_2023_KickoffsTotal,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsPerAttempt,KICKOFFS_2023_KICKOFFS_2023_KickoffsAverageFieldPosition,KICKOFFS_2023_KICKOFFS_2023_KickoffsOnsideAttempts,KICKOFFS_2023_KICKOFFS_2023_KickoffsReturnPercentage,KICKOFFS_2023_KICKOFFS_2023_KickoffsReturned,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsAllowed,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsPerReturnAllowed,KICKOFFS_2023_KICKOFFS_2023_KickoffsTouchbacks,KICKOFFS_2023_KICKOFFS_2023_KickoffsFairCatches,KICKOFFS_2023_KICKOFFS_2023_KickoffsHangtimeAverage,KICKOFFS_2023_KICKOFFS_2023_KickoffsHangtimeAverage.1
-1.0,Ka'imi Fairbairn,#15,K,14.0,69.6,69.0,66.6,26.1,2.0,27.5,19.0,445.0,23.4,46.0,3.0,66.0,4.09
-2.0,Matt Ammendola,#16,K,5.0,63.1,22.0,67.5,23.9,0.0,27.3,6.0,112.0,18.7,16.0,0.0,20.0,3.98
-3.0,Dare Ogunbowale,#33,HB,1.0,60.0,6.0,57.7,24.7,0.0,50.0,3.0,54.0,18.0,3.0,0.0,5.0,3.38
-3.0,Cameron Johnston,#11,P,1.0,60.0,1.0,67.0,42.0,0.0,100.0,1.0,14.0,14.0,0.0,0.0,1.0,4.38
-,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickoffsGrade,KickoffsTotal,KickoffsYardsPerAttempt,KickoffsAverageFieldPosition,KickoffsOnsideAttempts,KickoffsReturnPercentage,KickoffsReturned,KickoffsYardsAllowed,KickoffsYardsPerReturnAllowed,KickoffsTouchbacks,KickoffsFairCatches,KickoffsHangtimeAverage,KickoffsHangtimeAverage.1
+Ka'imi Fairbairn,#15,K,14.0,69.6,69.0,66.6,26.1,2.0,27.5,19.0,445.0,23.4,46.0,3.0,66.0,4.09
+Matt Ammendola,#16,K,5.0,63.1,22.0,67.5,23.9,0.0,27.3,6.0,112.0,18.7,16.0,0.0,20.0,3.98
+Dare Ogunbowale,#33,HB,1.0,60.0,6.0,57.7,24.7,0.0,50.0,3.0,54.0,18.0,3.0,0.0,5.0,3.38
+Cameron Johnston,#11,P,1.0,60.0,1.0,67.0,42.0,0.0,100.0,1.0,14.0,14.0,0.0,0.0,1.0,4.38
+,,,,,,,,,,,,,,,,

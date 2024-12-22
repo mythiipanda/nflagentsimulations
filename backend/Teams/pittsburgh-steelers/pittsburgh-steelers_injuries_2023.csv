@@ -1,0 +1,156 @@
+"season","game_type","team","week","gsis_id","position","full_name","first_name","last_name","report_primary_injury","report_secondary_injury","report_status","practice_primary_injury","practice_secondary_injury","practice_status","date_modified"
+2023,"REG","PIT",1,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Not injury related - resting player","Stomach","Full Participation in Practice",2023-09-08 19:26:09
+2023,"REG","PIT",1,"00-0033905","DT","Larry Ogunjobi","Larry","Ogunjobi","Foot",NA,"Questionable","Foot",NA,"Limited Participation in Practice",2023-09-08 19:26:55
+2023,"REG","PIT",2,"00-0034347","G","James Daniels","James","Daniels",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-09-16 17:45:54
+2023,"REG","PIT",2,"00-0036894","TE","Pat Freiermuth","Pat","Freiermuth",NA,NA,NA,"Chest",NA,"Full Participation in Practice",2023-09-16 17:45:41
+2023,"REG","PIT",2,"00-0033905","DT","Larry Ogunjobi","Larry","Ogunjobi",NA,NA,NA,"Foot",NA,"Full Participation in Practice",2023-09-16 17:46:08
+2023,"REG","PIT",2,"00-0034768","T","Chukwuma Okorafor","Chukwuma","Okorafor",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-09-16 17:46:15
+2023,"REG","PIT",2,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Not injury related - resting player",NA,"Full Participation in Practice",2023-09-16 17:46:27
+2023,"REG","PIT",2,"00-0037247","WR","George Pickens","George","Pickens",NA,NA,NA,"Hamstring",NA,"Limited Participation in Practice",2023-09-16 17:46:46
+2023,"REG","PIT",2,"00-0035216","WR","Diontae Johnson","Diontae","Johnson","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-09-16 17:47:16
+2023,"REG","PIT",2,"00-0036336","RB","Anthony McFarland","Anthony","McFarland","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-09-16 17:48:01
+2023,"REG","PIT",3,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick",NA,NA,NA,"Chest",NA,"Full Participation in Practice",2023-09-22 18:51:10
+2023,"REG","PIT",3,"00-0032127","LB","Markus Golden","Markus","Golden",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-09-22 18:51:16
+2023,"REG","PIT",3,"00-0033512","S","Damontae Kazee","Damontae","Kazee",NA,NA,NA,"Calf",NA,"Full Participation in Practice",2023-09-22 18:51:21
+2023,"REG","PIT",3,"00-0033905","DT","Larry Ogunjobi","Larry","Ogunjobi",NA,NA,NA,"Foot",NA,"Full Participation in Practice",2023-09-22 18:51:26
+2023,"REG","PIT",3,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Full Participation in Practice",2023-09-21 20:29:30
+2023,"REG","PIT",3,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Not injury related - resting player",NA,"Full Participation in Practice",2023-09-21 20:29:41
+2023,"REG","PIT",3,"00-0038558","TE","Darnell Washington","Darnell","Washington",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-09-22 18:51:36
+2023,"REG","PIT",3,"00-0035645","WR","Gunner Olszewski","Gunner","Olszewski","Concussion",NA,"Out","Concussion",NA,"Did Not Participate In Practice",2023-09-22 18:52:15
+2023,"REG","PIT",4,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-09-27 21:39:57
+2023,"REG","PIT",4,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-09-27 21:41:22
+2023,"REG","PIT",4,"00-0037304","TE","Connor Heyward","Connor","Heyward",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-09-29 19:16:01
+2023,"REG","PIT",4,"00-0032399","S","Miles Killebrew","Miles","Killebrew",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-09-29 19:16:01
+2023,"REG","PIT",4,"00-0033905","DT","Larry Ogunjobi","Larry","Ogunjobi",NA,NA,NA,"Foot",NA,"Full Participation in Practice",2023-09-29 19:16:11
+2023,"REG","PIT",4,"00-0034768","T","Chukwuma Okorafor","Chukwuma","Okorafor",NA,NA,NA,"Elbow",NA,"Full Participation in Practice",2023-09-29 19:16:01
+2023,"REG","PIT",4,"00-0035645","WR","Gunner Olszewski","Gunner","Olszewski",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-09-29 19:16:01
+2023,"REG","PIT",4,"00-0031428","WR","Allen Robinson","Allen","Robinson",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-09-29 19:16:18
+2023,"REG","PIT",4,"00-0038558","TE","Darnell Washington","Darnell","Washington",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-09-29 19:16:24
+2023,"REG","PIT",4,"00-0034347","G","James Daniels","James","Daniels","Groin",NA,"Out","Groin",NA,"Did Not Participate In Practice",2023-09-29 19:17:00
+2023,"REG","PIT",4,"00-0036847","P","Pressley Harvin","Pressley","Harvin","right Hamstring",NA,"Out","right Hamstring",NA,"Did Not Participate In Practice",2023-09-29 19:17:43
+2023,"REG","PIT",5,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-04 20:07:45
+2023,"REG","PIT",5,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-04 20:09:01
+2023,"REG","PIT",5,"00-0035286","LB","Cole Holcomb","Cole","Holcomb",NA,NA,NA,"Back",NA,"Full Participation in Practice",2023-10-06 18:32:00
+2023,"REG","PIT",5,"00-0034768","T","Chukwuma Okorafor","Chukwuma","Okorafor",NA,NA,NA,"Elbow",NA,"Full Participation in Practice",2023-10-06 18:32:00
+2023,"REG","PIT",5,"00-0038102","QB","Kenny Pickett","Kenny","Pickett",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-10-06 18:32:00
+2023,"REG","PIT",5,"00-0036893","RB","Najee Harris","Najee","Harris",NA,NA,NA,"Hamstring",NA,"Limited Participation in Practice",2023-10-06 18:33:15
+2023,"REG","PIT",5,"00-0034347","G","James Daniels","James","Daniels","Groin",NA,"Out","Groin",NA,"Did Not Participate In Practice",2023-10-06 18:35:27
+2023,"REG","PIT",5,"00-0036894","TE","Pat Freiermuth","Pat","Freiermuth","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-10-06 18:35:54
+2023,"REG","PIT",5,"00-0036847","P","Pressley Harvin","Pressley","Harvin","right Hamstring",NA,"Out","right Hamstring",NA,"Did Not Participate In Practice",2023-10-06 21:48:11
+2023,"REG","PIT",5,"00-0037759","DE","DeMarvin Leal","DeMarvin","Leal","Concussion",NA,"Out","Concussion",NA,"Did Not Participate In Practice",2023-10-06 18:36:06
+2023,"REG","PIT",5,"00-0036869","T","Dan Moore","Dan","Moore","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-10-06 18:35:09
+2023,"REG","PIT",5,"00-0036333","LB","Alex Highsmith","Alex","Highsmith","Groin",NA,"Questionable","Groin",NA,"Limited Participation in Practice",2023-10-06 18:34:44
+2023,"REG","PIT",7,"00-0034347","G","James Daniels","James","Daniels",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2023-10-20 20:01:56
+2023,"REG","PIT",7,"00-0036847","P","Pressley Harvin","Pressley","Harvin",NA,NA,NA,"right Hamstring",NA,"Full Participation in Practice",2023-10-20 20:01:56
+2023,"REG","PIT",7,"00-0038577","LB","Nick Herbig","Nick","Herbig",NA,NA,NA,"Quadricep",NA,"Full Participation in Practice",2023-10-20 20:02:18
+2023,"REG","PIT",7,"00-0035216","WR","Diontae Johnson","Diontae","Johnson",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-10-20 20:01:56
+2023,"REG","PIT",7,"00-0036336","RB","Anthony McFarland","Anthony","McFarland",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-10-20 20:01:56
+2023,"REG","PIT",7,"00-0036869","T","Dan Moore","Dan","Moore",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-10-20 20:01:56
+2023,"REG","PIT",7,"00-0033886","LB","T.J. Watt","T.J.","Watt",NA,NA,NA,"Heel",NA,"Full Participation in Practice",2023-10-20 20:02:12
+2023,"REG","PIT",7,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Limited Participation in Practice",2023-10-18 21:35:59
+2023,"REG","PIT",7,"00-0036894","TE","Pat Freiermuth","Pat","Freiermuth","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-10-20 20:02:37
+2023,"REG","PIT",8,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-25 20:04:04
+2023,"REG","PIT",8,"00-0035383","G","Nate Herbig","Nate","Herbig",NA,NA,NA,"Illness",NA,"Full Participation in Practice",2023-10-27 19:01:24
+2023,"REG","PIT",8,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2023-10-27 19:01:46
+2023,"REG","PIT",8,"00-0035286","LB","Cole Holcomb","Cole","Holcomb",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-10-27 19:01:24
+2023,"REG","PIT",8,"00-0035216","WR","Diontae Johnson","Diontae","Johnson",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-10-27 19:01:40
+2023,"REG","PIT",8,"00-0036336","RB","Anthony McFarland","Anthony","McFarland",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-10-27 19:01:24
+2023,"REG","PIT",8,"00-0033905","DT","Larry Ogunjobi","Larry","Ogunjobi",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-10-27 19:01:53
+2023,"REG","PIT",8,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Limited Participation in Practice",2023-10-25 20:02:46
+2023,"REG","PIT",8,"00-0033886","LB","T.J. Watt","T.J.","Watt",NA,NA,NA,"Heel",NA,"Limited Participation in Practice",2023-10-27 19:02:28
+2023,"REG","PIT",8,"00-0035795","CB","James Pierre","James","Pierre","Ankle",NA,"Questionable","Ankle",NA,"Did Not Participate In Practice",2023-10-27 19:03:34
+2023,"REG","PIT",8,"00-0039167","CB","Joey Porter","Joey","Porter","Calf",NA,"Questionable","Calf",NA,"Limited Participation in Practice",2023-10-27 19:03:19
+2023,"REG","PIT",8,"00-0034514","CB","Levi Wallace","Levi","Wallace","Foot",NA,"Questionable","Foot",NA,"Limited Participation in Practice",2023-10-27 19:03:00
+2023,"REG","PIT",9,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2023-11-01 20:04:43
+2023,"REG","PIT",9,"00-0033512","S","Damontae Kazee","Damontae","Kazee",NA,NA,NA,"Hand",NA,"Full Participation in Practice",2023-11-01 20:04:43
+2023,"REG","PIT",9,"00-0036336","RB","Anthony McFarland","Anthony","McFarland",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-11-01 20:04:43
+2023,"REG","PIT",9,"00-0038102","QB","Kenny Pickett","Kenny","Pickett",NA,NA,NA,"Rib",NA,"Full Participation in Practice",2023-11-01 20:04:53
+2023,"REG","PIT",9,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-11-01 20:05:20
+2023,"REG","PIT",9,"00-0034514","CB","Levi Wallace","Levi","Wallace","Foot",NA,"Questionable","Foot",NA,"Limited Participation in Practice",2023-11-01 20:05:37
+2023,"REG","PIT",10,"00-0032442","LB","Elandon Roberts","Elandon","Roberts",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-11-10 20:32:48
+2023,"REG","PIT",10,"00-0038577","LB","Nick Herbig","Nick","Herbig",NA,NA,NA,"Calf",NA,"Limited Participation in Practice",2023-11-10 20:33:07
+2023,"REG","PIT",10,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Groin",NA,"Limited Participation in Practice",2023-11-10 20:32:43
+2023,"REG","PIT",10,"00-0033929","DT","Montravius Adams","Montravius","Adams","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-11-10 20:34:12
+2023,"REG","PIT",10,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-11-10 20:33:49
+2023,"REG","PIT",11,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-15 20:59:03
+2023,"REG","PIT",11,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-15 21:03:08
+2023,"REG","PIT",11,"00-0035216","WR","Diontae Johnson","Diontae","Johnson",NA,NA,NA,"Thumb",NA,"Full Participation in Practice",2023-11-17 20:00:44
+2023,"REG","PIT",11,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Groin",NA,"Limited Participation in Practice",2023-11-17 20:00:44
+2023,"REG","PIT",11,"00-0033929","DT","Montravius Adams","Montravius","Adams","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-11-17 20:01:24
+2023,"REG","PIT",11,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-11-17 20:01:12
+2023,"REG","PIT",11,"00-0032382","S","Keanu Neal","Keanu","Neal","Rib",NA,"Out","Rib",NA,"Did Not Participate In Practice",2023-11-17 20:01:47
+2023,"REG","PIT",11,"00-0036894","TE","Pat Freiermuth","Pat","Freiermuth","Hamstring",NA,"Questionable","Hamstring",NA,"Full Participation in Practice",2023-11-17 20:02:07
+2023,"REG","PIT",12,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-22 20:31:31
+2023,"REG","PIT",12,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-22 20:34:32
+2023,"REG","PIT",12,"00-0034514","CB","Levi Wallace","Levi","Wallace",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-22 20:31:55
+2023,"REG","PIT",12,"00-0038577","LB","Nick Herbig","Nick","Herbig",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-11-24 19:01:01
+2023,"REG","PIT",12,"00-0037247","WR","George Pickens","George","Pickens",NA,NA,NA,"Shin",NA,"Full Participation in Practice",2023-11-24 19:00:39
+2023,"REG","PIT",12,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Not injury related - resting player","Groin","Limited Participation in Practice",2023-11-24 18:59:57
+2023,"REG","PIT",12,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-11-24 19:01:39
+2023,"REG","PIT",12,"00-0033929","DT","Montravius Adams","Montravius","Adams","Ankle",NA,"Out","Ankle",NA,"Limited Participation in Practice",2023-11-24 19:01:57
+2023,"REG","PIT",12,"00-0035795","CB","James Pierre","James","Pierre","Shoulder",NA,"Questionable","Shoulder",NA,"Did Not Participate In Practice",2023-11-24 19:02:18
+2023,"REG","PIT",13,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-29 21:03:09
+2023,"REG","PIT",13,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-29 21:04:12
+2023,"REG","PIT",13,"00-0037837","WR","Calvin Austin","Calvin","Austin",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-01 19:56:54
+2023,"REG","PIT",13,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-12-01 19:56:44
+2023,"REG","PIT",13,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Not injury related - resting player","Groin","Full Participation in Practice",2023-12-01 19:57:02
+2023,"REG","PIT",13,"00-0035216","WR","Diontae Johnson","Diontae","Johnson",NA,NA,NA,"Illness",NA,"Full Participation in Practice",2023-12-01 19:57:07
+2023,"REG","PIT",13,"00-0038102","QB","Kenny Pickett","Kenny","Pickett",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-01 19:56:44
+2023,"REG","PIT",13,"00-0031428","WR","Allen Robinson","Allen","Robinson",NA,NA,NA,"Not injury related - resting player","Foot","Full Participation in Practice",2023-12-01 19:56:44
+2023,"REG","PIT",13,"00-0035795","CB","James Pierre","James","Pierre",NA,NA,NA,"Shoulder",NA,"Limited Participation in Practice",2023-12-01 19:57:12
+2023,"REG","PIT",13,"00-0033929","DT","Montravius Adams","Montravius","Adams","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-01 19:57:35
+2023,"REG","PIT",14,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-04 19:46:04
+2023,"REG","PIT",14,"00-0033929","DT","Montravius Adams","Montravius","Adams",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-06 21:01:40
+2023,"REG","PIT",14,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick",NA,NA,NA,"Hand",NA,"Full Participation in Practice",2023-12-06 21:01:40
+2023,"REG","PIT",14,"00-0039110","DT","Keeanu Benton","Keeanu","Benton",NA,NA,NA,"Oblique",NA,"Limited Participation in Practice",2023-12-06 21:01:40
+2023,"REG","PIT",14,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Not injury related - resting player","Groin","Limited Participation in Practice",2023-12-06 21:01:40
+2023,"REG","PIT",14,"00-0038102","QB","Kenny Pickett","Kenny","Pickett","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-12-06 21:05:48
+2023,"REG","PIT",14,"00-0035795","CB","James Pierre","James","Pierre","Shoulder",NA,"Out","Shoulder",NA,"Did Not Participate In Practice",2023-12-06 21:06:26
+2023,"REG","PIT",14,"00-0036893","RB","Najee Harris","Najee","Harris","Knee",NA,"Questionable","Knee",NA,"Did Not Participate In Practice",2023-12-06 21:06:12
+2023,"REG","PIT",14,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo","Shoulder",NA,"Questionable","Shoulder",NA,"Did Not Participate In Practice",2023-12-06 21:07:26
+2023,"REG","PIT",14,"00-0034785","C","Mason Cole","Mason","Cole","Neck",NA,"Questionable","Neck",NA,"Limited Participation in Practice",2023-12-06 21:07:06
+2023,"REG","PIT",14,"00-0032442","LB","Elandon Roberts","Elandon","Roberts","Groin",NA,"Questionable","Groin",NA,"Limited Participation in Practice",2023-12-06 21:06:48
+2023,"REG","PIT",15,"00-0039110","DT","Keeanu Benton","Keeanu","Benton",NA,NA,NA,"Oblique",NA,"Full Participation in Practice",2023-12-14 19:56:17
+2023,"REG","PIT",15,"00-0036893","RB","Najee Harris","Najee","Harris",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-14 19:56:11
+2023,"REG","PIT",15,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2023-12-14 19:56:11
+2023,"REG","PIT",15,"00-0036333","LB","Alex Highsmith","Alex","Highsmith",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-12-14 19:56:24
+2023,"REG","PIT",15,"00-0035216","WR","Diontae Johnson","Diontae","Johnson",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-14 19:56:28
+2023,"REG","PIT",15,"00-0033512","S","Damontae Kazee","Damontae","Kazee",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-14 19:56:11
+2023,"REG","PIT",15,"00-0035795","CB","James Pierre","James","Pierre",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-12-14 19:56:11
+2023,"REG","PIT",15,"00-0032442","LB","Elandon Roberts","Elandon","Roberts",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2023-12-14 19:56:36
+2023,"REG","PIT",15,"00-0033886","LB","T.J. Watt","T.J.","Watt",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-12-14 19:56:11
+2023,"REG","PIT",15,"00-0038102","QB","Kenny Pickett","Kenny","Pickett","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-12-14 19:57:21
+2023,"REG","PIT",15,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo","Shoulder",NA,"Questionable","Shoulder",NA,"Did Not Participate In Practice",2023-12-14 19:57:57
+2023,"REG","PIT",16,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Shoulder",NA,"Did Not Participate In Practice",2023-12-21 19:53:56
+2023,"REG","PIT",16,"00-0036894","TE","Pat Freiermuth","Pat","Freiermuth",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-21 19:53:34
+2023,"REG","PIT",16,"00-0036893","RB","Najee Harris","Najee","Harris",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-21 19:53:34
+2023,"REG","PIT",16,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-12-21 19:53:34
+2023,"REG","PIT",16,"00-0039109","T","Broderick Jones","Broderick","Jones",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-21 19:53:34
+2023,"REG","PIT",16,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-12-21 20:00:24
+2023,"REG","PIT",16,"00-0037377","S","Trenton Thompson","Trenton","Thompson","Neck",NA,"Out","Neck",NA,"Did Not Participate In Practice",2023-12-21 20:00:51
+2023,"REG","PIT",16,"00-0038102","QB","Kenny Pickett","Kenny","Pickett","Ankle",NA,"Out","Ankle",NA,"Limited Participation in Practice",2023-12-21 20:12:48
+2023,"REG","PIT",16,"00-0036002","S","Elijah Riley","Elijah","Riley","Ankle",NA,"Questionable","Ankle",NA,"Full Participation in Practice",2023-12-21 20:00:11
+2023,"REG","PIT",17,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Shoulder",NA,"Did Not Participate In Practice",2023-12-29 20:30:17
+2023,"REG","PIT",17,"00-0036893","RB","Najee Harris","Najee","Harris",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-29 20:30:29
+2023,"REG","PIT",17,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-12-29 20:30:52
+2023,"REG","PIT",17,"00-0032442","LB","Elandon Roberts","Elandon","Roberts","Pectoral",NA,"Out","Pectoral",NA,"Did Not Participate In Practice",2023-12-29 20:30:46
+2023,"REG","PIT",17,"00-0037377","S","Trenton Thompson","Trenton","Thompson","Neck",NA,"Out","Neck",NA,"Did Not Participate In Practice",2023-12-29 20:31:00
+2023,"REG","PIT",17,"00-0038102","QB","Kenny Pickett","Kenny","Pickett","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2023-12-29 20:29:37
+2023,"REG","PIT",18,"00-0032968","LB","Myles Jack","Myles","Jack",NA,NA,NA,"Not injury related - personal matter",NA,"Did Not Participate In Practice",2024-01-04 20:52:18
+2023,"REG","PIT",18,"00-0033905","DT","Larry Ogunjobi","Larry","Ogunjobi",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2024-01-03 20:38:02
+2023,"REG","PIT",18,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Shoulder",NA,"Did Not Participate In Practice",2024-01-04 20:51:21
+2023,"REG","PIT",18,"00-0036893","RB","Najee Harris","Najee","Harris",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2024-01-04 20:51:35
+2023,"REG","PIT",18,"00-0038102","QB","Kenny Pickett","Kenny","Pickett",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2024-01-04 20:49:21
+2023,"REG","PIT",18,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Groin",NA,"Limited Participation in Practice",2024-01-04 20:49:21
+2023,"REG","PIT",18,"00-0033886","LB","T.J. Watt","T.J.","Watt",NA,NA,NA,"Not injury related - resting player",NA,"Limited Participation in Practice",2024-01-04 20:49:21
+2023,"REG","PIT",18,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2024-01-04 20:54:16
+2023,"REG","PIT",18,"00-0032442","LB","Elandon Roberts","Elandon","Roberts","Pectoral",NA,"Questionable","Pectoral",NA,"Limited Participation in Practice",2024-01-04 20:54:16
+2023,"REG","PIT",18,"00-0037377","S","Trenton Thompson","Trenton","Thompson","Neck",NA,"Questionable","Neck",NA,"Limited Participation in Practice",2024-01-04 20:54:16
+2023,"WC","PIT",19,"00-0032954","G","Isaac Seumalo","Isaac","Seumalo",NA,NA,NA,"Shoulder",NA,"Did Not Participate In Practice",2024-01-12 19:28:13
+2023,"WC","PIT",19,"00-0034789","S","Minkah Fitzpatrick","Minkah","Fitzpatrick",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2024-01-12 19:26:24
+2023,"WC","PIT",19,"00-0036893","RB","Najee Harris","Najee","Harris",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2024-01-12 19:26:24
+2023,"WC","PIT",19,"00-0032442","LB","Elandon Roberts","Elandon","Roberts",NA,NA,NA,"Pectoral",NA,"Full Participation in Practice",2024-01-12 19:26:24
+2023,"WC","PIT",19,"00-0027969","DT","Cameron Heyward","Cameron","Heyward",NA,NA,NA,"Not injury related - resting player",NA,"Limited Participation in Practice",2024-01-11 20:28:26
+2023,"WC","PIT",19,"00-0033905","DT","Larry Ogunjobi","Larry","Ogunjobi",NA,NA,NA,"Not injury related - resting player",NA,"Limited Participation in Practice",2024-01-10 20:57:25
+2023,"WC","PIT",19,"00-0027943","CB","Patrick Peterson","Patrick","Peterson",NA,NA,NA,"Not injury related - resting player",NA,"Limited Participation in Practice",2024-01-10 20:54:03
+2023,"WC","PIT",19,"00-0033886","LB","T.J. Watt","T.J.","Watt","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2024-01-12 19:29:37

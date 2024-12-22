@@ -1,0 +1,184 @@
+"season","game_type","team","week","gsis_id","position","full_name","first_name","last_name","report_primary_injury","report_secondary_injury","report_status","practice_primary_injury","practice_secondary_injury","practice_status","date_modified"
+2023,"REG","LAC",1,"00-0038553","LB","Daiyan Henley","Daiyan","Henley","Hamstring",NA,"Doubtful","Hamstring",NA,"Did Not Participate In Practice",2023-09-08 20:17:56
+2023,"REG","LAC",1,"00-0036867","LB","Chris Rumph","Chris","Rumph","Hamstring",NA,"Doubtful","Hamstring",NA,"Did Not Participate In Practice",2023-09-08 20:18:00
+2023,"REG","LAC",2,"00-0033699","RB","Austin Ekeler","Austin","Ekeler","Ankle",NA,"Doubtful","Ankle",NA,"Did Not Participate In Practice",2023-09-15 20:03:32
+2023,"REG","LAC",2,"00-0031554","LB","Eric Kendricks","Eric","Kendricks","Hamstring","Not injury related - personal matter","Doubtful","Hamstring","Not injury related - personal ","Did Not Participate In Practice",2023-09-15 20:03:44
+2023,"REG","LAC",2,"00-0038553","LB","Daiyan Henley","Daiyan","Henley","Hamstring",NA,"Doubtful","Hamstring",NA,"Limited Participation in Practice",2023-09-15 20:03:53
+2023,"REG","LAC",2,"00-0036867","DE","Chris Rumph","Chris","Rumph","Hamstring",NA,"Doubtful","Hamstring",NA,"Limited Participation in Practice",2023-09-15 20:03:38
+2023,"REG","LAC",2,"00-0033156","DE","Joey Bosa","Joey","Bosa","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-09-15 20:03:27
+2023,"REG","LAC",3,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Full Participation in Practice",2023-09-21 21:21:51
+2023,"REG","LAC",3,"00-0033536","WR","Mike Williams","Mike","Williams",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-09-22 20:06:35
+2023,"REG","LAC",3,"00-0033699","RB","Austin Ekeler","Austin","Ekeler","Ankle",NA,"Out","Ankle",NA,"Did Not Participate In Practice",2023-09-22 20:07:40
+2023,"REG","LAC",3,"00-0031554","LB","Eric Kendricks","Eric","Kendricks","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-09-22 20:07:46
+2023,"REG","LAC",3,"00-0038553","LB","Daiyan Henley","Daiyan","Henley","Hamstring",NA,"Questionable","Hamstring",NA,"Full Participation in Practice",2023-09-22 20:07:33
+2023,"REG","LAC",3,"00-0036867","DE","Chris Rumph","Chris","Rumph","Hamstring",NA,"Questionable","Hamstring",NA,"Full Participation in Practice",2023-09-22 20:07:33
+2023,"REG","LAC",3,"00-0033156","DE","Joey Bosa","Joey","Bosa","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-09-22 20:07:33
+2023,"REG","LAC",3,"00-0037375","DT","Christopher Hinton","Christopher","Hinton","Back",NA,"Questionable","Back",NA,"Limited Participation in Practice",2023-09-22 20:07:33
+2023,"REG","LAC",4,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-09-27 20:52:27
+2023,"REG","LAC",4,"00-0033895","TE","Gerald Everett","Gerald","Everett",NA,NA,NA,"Illness",NA,"Full Participation in Practice",2023-09-29 20:07:18
+2023,"REG","LAC",4,"00-0031554","LB","Eric Kendricks","Eric","Kendricks",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-09-29 20:07:29
+2023,"REG","LAC",4,"00-0036441","LB","Kenneth Murray","Kenneth","Murray",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2023-09-29 20:07:58
+2023,"REG","LAC",4,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-09-29 20:08:02
+2023,"REG","LAC",4,"00-0030279","WR","Keenan Allen","Keenan","Allen",NA,NA,NA,"Hip",NA,"Limited Participation in Practice",2023-09-29 20:07:10
+2023,"REG","LAC",4,"00-0031019","C","Corey Linsley","Corey","Linsley","Illness",NA,"Out","Illness",NA,"Did Not Participate In Practice",2023-09-29 20:08:54
+2023,"REG","LAC",4,"00-0038091","S","J.T. Woods","J.T.","Woods","Illness",NA,"Out","Illness",NA,"Did Not Participate In Practice",2023-09-29 20:09:05
+2023,"REG","LAC",4,"00-0034790","S","Derwin James","Derwin","James","Hamstring",NA,"Doubtful","Hamstring",NA,"Did Not Participate In Practice",2023-09-29 20:08:38
+2023,"REG","LAC",4,"00-0037320","CB","Deane Leonard","Deane","Leonard","Hamstring",NA,"Doubtful","Hamstring",NA,"Did Not Participate In Practice",2023-09-29 20:08:48
+2023,"REG","LAC",4,"00-0033699","RB","Austin Ekeler","Austin","Ekeler","Ankle",NA,"Doubtful","Ankle",NA,"Limited Participation in Practice",2023-09-29 20:08:29
+2023,"REG","LAC",4,"00-0033156","DE","Joey Bosa","Joey","Bosa","Hamstring","Toe","Questionable","Hamstring","Toe","Did Not Participate In Practice",2023-09-29 20:08:21
+2023,"REG","LAC",4,"00-0036380","S","Alohi Gilman","Alohi","Gilman","Heel",NA,"Questionable","Heel",NA,"Limited Participation in Practice",2023-09-29 20:08:21
+2023,"REG","LAC",6,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-12 20:56:51
+2023,"REG","LAC",6,"00-0033699","RB","Austin Ekeler","Austin","Ekeler",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-10-14 20:00:06
+2023,"REG","LAC",6,"00-0036355","QB","Justin Herbert","Justin","Herbert",NA,NA,NA,"left Finger",NA,"Full Participation in Practice",2023-10-14 20:00:06
+2023,"REG","LAC",6,"00-0034790","S","Derwin James","Derwin","James",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-10-14 20:00:06
+2023,"REG","LAC",6,"00-0035688","T","Trey Pipkins","Trey","Pipkins",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-10-14 20:00:06
+2023,"REG","LAC",6,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-10-14 20:00:06
+2023,"REG","LAC",6,"00-0036380","S","Alohi Gilman","Alohi","Gilman","Heel",NA,"Doubtful","Heel",NA,"Did Not Participate In Practice",2023-10-14 20:00:26
+2023,"REG","LAC",6,"00-0037320","CB","Deane Leonard","Deane","Leonard","Hamstring",NA,"Doubtful","Hamstring",NA,"Did Not Participate In Practice",2023-10-14 20:00:34
+2023,"REG","LAC",6,"00-0035329","TE","Donald Parham","Donald","Parham","Wrist",NA,"Questionable","Wrist",NA,"Full Participation in Practice",2023-10-14 20:00:15
+2023,"REG","LAC",6,"00-0033156","DE","Joey Bosa","Joey","Bosa","Toe",NA,"Questionable","Toe",NA,"Limited Participation in Practice",2023-10-14 20:00:15
+2023,"REG","LAC",6,"00-0030500","DT","Nicholas Williams","Nicholas","Williams","Back",NA,"Questionable","Back",NA,"Limited Participation in Practice",2023-10-14 20:00:15
+2023,"REG","LAC",7,"00-0030279","WR","Keenan Allen","Keenan","Allen",NA,NA,NA,"Not injury related - personal matter",NA,"Did Not Participate In Practice",2023-10-19 21:19:21
+2023,"REG","LAC",7,"00-0037468","S","Raheem Layne","Raheem","Layne",NA,NA,NA,"Knee",NA,"Did Not Participate In Practice",2023-10-18 19:37:35
+2023,"REG","LAC",7,"00-0033156","DE","Joey Bosa","Joey","Bosa",NA,NA,NA,"Toe",NA,"Full Participation in Practice",2023-10-20 20:15:54
+2023,"REG","LAC",7,"00-0034436","C","Will Clapp","Will","Clapp",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-10-20 20:15:40
+2023,"REG","LAC",7,"00-0036355","QB","Justin Herbert","Justin","Herbert",NA,NA,NA,"left Finger",NA,"Full Participation in Practice",2023-10-20 20:15:40
+2023,"REG","LAC",7,"00-0034810","DT","Sebastian Joseph","Sebastian","Joseph",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-10-20 20:16:16
+2023,"REG","LAC",7,"00-0035329","TE","Donald Parham","Donald","Parham",NA,NA,NA,"Wrist",NA,"Full Participation in Practice",2023-10-20 20:15:40
+2023,"REG","LAC",7,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-10-20 20:15:40
+2023,"REG","LAC",7,"00-0036302","S","Jaylinn Hawkins","Jaylinn","Hawkins",NA,NA,NA,"Illness",NA,"Limited Participation in Practice",2023-10-20 20:15:40
+2023,"REG","LAC",7,"00-0036380","S","Alohi Gilman","Alohi","Gilman","Heel",NA,"Out","Heel",NA,"Did Not Participate In Practice",2023-10-20 20:16:42
+2023,"REG","LAC",7,"00-0037320","CB","Deane Leonard","Deane","Leonard","Hamstring",NA,"Out","Hamstring",NA,"Did Not Participate In Practice",2023-10-20 20:17:00
+2023,"REG","LAC",7,"00-0035414","WR","Jalen Guyton","Jalen","Guyton","Knee",NA,"Out","Knee",NA,"Limited Participation in Practice",2023-10-20 20:16:48
+2023,"REG","LAC",7,"00-0037270","DT","Otito Ogbonnia","Otito","Ogbonnia","Knee",NA,"Out","Knee",NA,"Limited Participation in Practice",2023-10-20 20:17:11
+2023,"REG","LAC",7,"00-0034790","S","Derwin James","Derwin","James","Ankle",NA,"Questionable","Ankle",NA,"Did Not Participate In Practice",2023-10-20 20:16:31
+2023,"REG","LAC",7,"00-0036716","LB","Amen Ogbongbemiga","Amen","Ogbongbemiga","Groin",NA,"Questionable","Groin",NA,"Did Not Participate In Practice",2023-10-20 20:16:31
+2023,"REG","LAC",8,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-10-25 20:31:26
+2023,"REG","LAC",8,"00-0033699","RB","Austin Ekeler","Austin","Ekeler",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-10-27 20:21:53
+2023,"REG","LAC",8,"00-0036355","QB","Justin Herbert","Justin","Herbert",NA,NA,NA,"left Finger",NA,"Full Participation in Practice",2023-10-27 20:21:53
+2023,"REG","LAC",8,"00-0034810","DT","Sebastian Joseph","Sebastian","Joseph",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-10-27 20:21:53
+2023,"REG","LAC",8,"00-0036716","LB","Amen Ogbongbemiga","Amen","Ogbongbemiga",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2023-10-27 20:21:53
+2023,"REG","LAC",8,"00-0035688","T","Trey Pipkins","Trey","Pipkins",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-10-27 20:21:53
+2023,"REG","LAC",8,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-10-27 20:21:53
+2023,"REG","LAC",8,"00-0030279","WR","Keenan Allen","Keenan","Allen",NA,NA,NA,"Back",NA,"Limited Participation in Practice",2023-10-27 20:22:10
+2023,"REG","LAC",8,"00-0033895","TE","Gerald Everett","Gerald","Everett","Hip",NA,"Questionable","Hip",NA,"Full Participation in Practice",2023-10-27 20:24:34
+2023,"REG","LAC",8,"00-0036380","S","Alohi Gilman","Alohi","Gilman","Heel",NA,"Questionable","Heel",NA,"Full Participation in Practice",2023-10-27 20:24:34
+2023,"REG","LAC",8,"00-0035414","WR","Jalen Guyton","Jalen","Guyton","Knee",NA,"Questionable","Knee",NA,"Full Participation in Practice",2023-10-27 20:24:34
+2023,"REG","LAC",8,"00-0037270","DT","Otito Ogbonnia","Otito","Ogbonnia","Knee",NA,"Questionable","Knee",NA,"Full Participation in Practice",2023-10-27 20:24:34
+2023,"REG","LAC",8,"00-0037320","CB","Deane Leonard","Deane","Leonard","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-10-27 20:24:34
+2023,"REG","LAC",8,"00-0036988","WR","Josh Palmer","Josh","Palmer","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-10-27 20:24:34
+2023,"REG","LAC",9,"00-0033895","TE","Gerald Everett","Gerald","Everett",NA,NA,NA,"Hip",NA,"Full Participation in Practice",2023-11-04 20:18:03
+2023,"REG","LAC",9,"00-0036355","QB","Justin Herbert","Justin","Herbert",NA,NA,NA,"left Finger",NA,"Full Participation in Practice",2023-11-04 20:18:03
+2023,"REG","LAC",9,"00-0036988","WR","Josh Palmer","Josh","Palmer","Knee",NA,"Out","Knee",NA,"Did Not Participate In Practice",2023-11-04 20:18:59
+2023,"REG","LAC",9,"00-0034810","DT","Sebastian Joseph","Sebastian","Joseph","Illness",NA,"Questionable","Illness",NA,"Did Not Participate In Practice",2023-11-04 20:18:38
+2023,"REG","LAC",9,"00-0032671","DT","Morgan Fox","Morgan","Fox","Oblique",NA,"Questionable","Oblique",NA,"Full Participation in Practice",2023-11-04 20:18:38
+2023,"REG","LAC",9,"00-0035414","WR","Jalen Guyton","Jalen","Guyton","Knee",NA,"Questionable","Knee",NA,"Full Participation in Practice",2023-11-04 20:18:38
+2023,"REG","LAC",9,"00-0031554","LB","Eric Kendricks","Eric","Kendricks","Ribs",NA,"Questionable","Ribs",NA,"Full Participation in Practice",2023-11-04 20:18:38
+2023,"REG","LAC",9,"00-0037270","DT","Otito Ogbonnia","Otito","Ogbonnia","Knee",NA,"Questionable","Knee",NA,"Full Participation in Practice",2023-11-04 20:18:38
+2023,"REG","LAC",9,"00-0036441","LB","Kenneth Murray","Kenneth","Murray","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-11-04 20:18:38
+2023,"REG","LAC",10,"00-0033697","CB","Michael Davis","Michael","Davis",NA,NA,NA,"Illness",NA,"Did Not Participate In Practice",2023-11-10 21:33:29
+2023,"REG","LAC",10,"00-0033156","DE","Joey Bosa","Joey","Bosa",NA,NA,NA,"Illness",NA,"Full Participation in Practice",2023-11-10 21:33:17
+2023,"REG","LAC",10,"00-0036355","QB","Justin Herbert","Justin","Herbert",NA,NA,NA,"left Finger",NA,"Full Participation in Practice",2023-11-10 21:33:06
+2023,"REG","LAC",11,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-15 21:35:27
+2023,"REG","LAC",11,"00-0033156","DE","Joey Bosa","Joey","Bosa",NA,NA,NA,"Hand",NA,"Full Participation in Practice",2023-11-17 21:12:08
+2023,"REG","LAC",11,"00-0036380","S","Alohi Gilman","Alohi","Gilman",NA,NA,NA,"Elbow",NA,"Full Participation in Practice",2023-11-17 21:12:08
+2023,"REG","LAC",11,"00-0034810","DT","Sebastian Joseph","Sebastian","Joseph",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-11-17 21:12:34
+2023,"REG","LAC",11,"00-0035329","TE","Donald Parham","Donald","Parham",NA,NA,NA,"Hip",NA,"Full Participation in Practice",2023-11-17 21:12:38
+2023,"REG","LAC",11,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-11-17 21:12:08
+2023,"REG","LAC",11,"00-0033895","TE","Gerald Everett","Gerald","Everett","Chest",NA,"Out","Chest",NA,"Did Not Participate In Practice",2023-11-17 21:18:33
+2023,"REG","LAC",11,"00-0038091","S","J.T. Woods","J.T.","Woods","Illness",NA,"Out","Illness",NA,"Limited Participation in Practice",2023-11-17 21:18:49
+2023,"REG","LAC",11,"00-0038045","RB","Isaiah Spiller","Isaiah","Spiller","Illness",NA,"Questionable","Illness",NA,"Did Not Participate In Practice",2023-11-17 21:18:27
+2023,"REG","LAC",11,"00-0030279","WR","Keenan Allen","Keenan","Allen","Shoulder",NA,"Questionable","Shoulder",NA,"Full Participation in Practice",2023-11-17 21:18:27
+2023,"REG","LAC",11,"00-0035414","WR","Jalen Guyton","Jalen","Guyton","Groin",NA,"Questionable","Groin",NA,"Limited Participation in Practice",2023-11-17 21:18:27
+2023,"REG","LAC",12,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-22 21:29:08
+2023,"REG","LAC",12,"00-0030279","WR","Keenan Allen","Keenan","Allen",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-11-24 21:13:55
+2023,"REG","LAC",12,"00-0034436","C","Will Clapp","Will","Clapp",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-11-24 21:13:55
+2023,"REG","LAC",12,"00-0036380","S","Alohi Gilman","Alohi","Gilman",NA,NA,NA,"Elbow",NA,"Full Participation in Practice",2023-11-24 21:13:55
+2023,"REG","LAC",12,"00-0036355","QB","Justin Herbert","Justin","Herbert",NA,NA,NA,"left Finger",NA,"Full Participation in Practice",2023-11-24 21:13:55
+2023,"REG","LAC",12,"00-0034810","DT","Sebastian Joseph","Sebastian","Joseph",NA,NA,NA,"Wrist",NA,"Full Participation in Practice",2023-11-24 21:13:55
+2023,"REG","LAC",12,"00-0035329","TE","Donald Parham","Donald","Parham",NA,NA,NA,"Hip",NA,"Full Participation in Practice",2023-11-24 21:13:55
+2023,"REG","LAC",12,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-11-24 21:13:55
+2023,"REG","LAC",12,"00-0032394","TE","Nick Vannett","Nick","Vannett","Concussion",NA,"Out","Concussion",NA,"Did Not Participate In Practice",2023-11-24 21:14:20
+2023,"REG","LAC",12,"00-0038091","S","J.T. Woods","J.T.","Woods","Illness",NA,"Out","Illness",NA,"Limited Participation in Practice",2023-11-24 21:14:25
+2023,"REG","LAC",12,"00-0033895","TE","Gerald Everett","Gerald","Everett","Chest",NA,"Questionable","Chest",NA,"Full Participation in Practice",2023-11-24 21:14:07
+2023,"REG","LAC",12,"00-0035414","WR","Jalen Guyton","Jalen","Guyton","Groin",NA,"Questionable","Groin",NA,"Limited Participation in Practice",2023-11-24 21:14:07
+2023,"REG","LAC",13,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-11-29 21:17:47
+2023,"REG","LAC",13,"00-0033895","TE","Gerald Everett","Gerald","Everett",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-12-01 22:14:09
+2023,"REG","LAC",13,"00-0038544","WR","Quentin Johnston","Quentin","Johnston",NA,NA,NA,"Ribs","Finger","Full Participation in Practice",2023-12-01 22:14:09
+2023,"REG","LAC",13,"00-0031554","LB","Eric Kendricks","Eric","Kendricks",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-01 22:14:09
+2023,"REG","LAC",13,"00-0036441","LB","Kenneth Murray","Kenneth","Murray",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-12-01 22:14:09
+2023,"REG","LAC",13,"00-0037270","DT","Otito Ogbonnia","Otito","Ogbonnia",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-01 22:14:09
+2023,"REG","LAC",13,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Back",NA,"Full Participation in Practice",2023-12-01 22:14:09
+2023,"REG","LAC",13,"00-0035468","G","Zack Bailey","Zack","Bailey","Back",NA,"Out","Back",NA,"Did Not Participate In Practice",2023-12-01 22:14:36
+2023,"REG","LAC",13,"00-0037307","CB","Ja'Sir Taylor","Ja'Sir","Taylor","Illness",NA,"Out","Illness",NA,"Did Not Participate In Practice",2023-12-01 22:14:56
+2023,"REG","LAC",13,"00-0032394","TE","Nick Vannett","Nick","Vannett","Concussion",NA,"Out","Concussion",NA,"Did Not Participate In Practice",2023-12-01 22:14:53
+2023,"REG","LAC",13,"00-0038091","S","J.T. Woods","J.T.","Woods","Illness",NA,"Out","Illness",NA,"Limited Participation in Practice",2023-12-01 22:14:49
+2023,"REG","LAC",13,"00-0030279","WR","Keenan Allen","Keenan","Allen","Quadricep",NA,"Questionable","Quadricep",NA,"Limited Participation in Practice",2023-12-01 22:14:30
+2023,"REG","LAC",13,"00-0035688","T","Trey Pipkins","Trey","Pipkins","Wrist",NA,"Questionable","Wrist",NA,"Limited Participation in Practice",2023-12-01 22:14:30
+2023,"REG","LAC",14,"00-0030279","WR","Keenan Allen","Keenan","Allen",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-06 21:19:24
+2023,"REG","LAC",14,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-06 21:21:13
+2023,"REG","LAC",14,"00-0035591","LB","Justin Hollins","Justin","Hollins",NA,NA,NA,"Chest",NA,"Full Participation in Practice",2023-12-08 21:12:40
+2023,"REG","LAC",14,"00-0034810","DT","Sebastian Joseph","Sebastian","Joseph",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-08 21:12:40
+2023,"REG","LAC",14,"00-0036441","LB","Kenneth Murray","Kenneth","Murray",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-12-08 21:12:40
+2023,"REG","LAC",14,"00-0035688","T","Trey Pipkins","Trey","Pipkins",NA,NA,NA,"Wrist",NA,"Full Participation in Practice",2023-12-08 21:13:52
+2023,"REG","LAC",14,"00-0037307","CB","Ja'Sir Taylor","Ja'Sir","Taylor",NA,NA,NA,"Illness",NA,"Full Participation in Practice",2023-12-08 21:12:40
+2023,"REG","LAC",14,"00-0032394","TE","Nick Vannett","Nick","Vannett",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2023-12-08 21:12:40
+2023,"REG","LAC",14,"00-0030500","DT","Nicholas Williams","Nicholas","Williams",NA,NA,NA,"Foot",NA,"Full Participation in Practice",2023-12-08 21:13:58
+2023,"REG","LAC",14,"00-0035984","LB","Blake Lynch","Blake","Lynch",NA,NA,NA,"Ankle",NA,"Limited Participation in Practice",2023-12-08 21:13:06
+2023,"REG","LAC",14,"00-0035468","G","Zack Bailey","Zack","Bailey","Back",NA,"Out","Back",NA,"Did Not Participate In Practice",2023-12-08 21:14:10
+2023,"REG","LAC",14,"00-0037320","CB","Deane Leonard","Deane","Leonard","Ankle","Heel","Out","Ankle","Heel","Did Not Participate In Practice",2023-12-08 21:14:22
+2023,"REG","LAC",14,"00-0036988","WR","Josh Palmer","Josh","Palmer","Knee",NA,"Out","Knee",NA,"Limited Participation in Practice",2023-12-08 21:14:42
+2023,"REG","LAC",14,"00-0036716","LB","Amen Ogbongbemiga","Amen","Ogbongbemiga","Hamstring",NA,"Questionable","Hamstring",NA,"Did Not Participate In Practice",2023-12-08 21:14:04
+2023,"REG","LAC",14,"00-0037270","DT","Otito Ogbonnia","Otito","Ogbonnia","Knee",NA,"Questionable","Knee",NA,"Limited Participation in Practice",2023-12-08 21:14:04
+2023,"REG","LAC",15,"00-0036355","QB","Justin Herbert","Justin","Herbert",NA,NA,NA,"right Finger",NA,"Did Not Participate In Practice",2023-12-11 21:01:30
+2023,"REG","LAC",15,"00-0033895","TE","Gerald Everett","Gerald","Everett",NA,NA,NA,"Hip",NA,"Full Participation in Practice",2023-12-13 22:28:32
+2023,"REG","LAC",15,"00-0035591","LB","Justin Hollins","Justin","Hollins",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-13 22:28:28
+2023,"REG","LAC",15,"00-0037818","G","Zion Johnson","Zion","Johnson",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-13 22:28:40
+2023,"REG","LAC",15,"00-0034810","DT","Sebastian Joseph","Sebastian","Joseph",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-13 22:28:48
+2023,"REG","LAC",15,"00-0036441","LB","Kenneth Murray","Kenneth","Murray",NA,NA,NA,"Shoulder",NA,"Full Participation in Practice",2023-12-13 22:28:28
+2023,"REG","LAC",15,"00-0036988","WR","Josh Palmer","Josh","Palmer",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2023-12-13 22:28:28
+2023,"REG","LAC",15,"00-0030279","WR","Keenan Allen","Keenan","Allen","Heel",NA,"Out","Heel",NA,"Did Not Participate In Practice",2023-12-13 22:29:21
+2023,"REG","LAC",15,"00-0037320","CB","Deane Leonard","Deane","Leonard","Ankle","Heel","Out","Ankle","Heel","Did Not Participate In Practice",2023-12-13 22:29:28
+2023,"REG","LAC",15,"00-0037270","DT","Otito Ogbonnia","Otito","Ogbonnia","Knee",NA,"Questionable","Knee",NA,"Full Participation in Practice",2023-12-13 22:29:10
+2023,"REG","LAC",15,"00-0036716","LB","Amen Ogbongbemiga","Amen","Ogbongbemiga","Hamstring",NA,"Questionable","Hamstring",NA,"Limited Participation in Practice",2023-12-13 22:29:10
+2023,"REG","LAC",15,"00-0035329","TE","Donald Parham","Donald","Parham","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-12-13 22:29:10
+2023,"REG","LAC",15,"00-0030500","DT","Nicholas Williams","Nicholas","Williams","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-12-14 23:34:17
+2023,"REG","LAC",16,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-19 21:37:13
+2023,"REG","LAC",16,"00-0037818","G","Zion Johnson","Zion","Johnson",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-21 20:10:24
+2023,"REG","LAC",16,"00-0036716","LB","Amen Ogbongbemiga","Amen","Ogbongbemiga",NA,NA,NA,"Hamstring",NA,"Full Participation in Practice",2023-12-21 20:11:17
+2023,"REG","LAC",16,"00-0035688","T","Trey Pipkins","Trey","Pipkins",NA,NA,NA,"Wrist",NA,"Full Participation in Practice",2023-12-21 20:11:30
+2023,"REG","LAC",16,"00-0030279","WR","Keenan Allen","Keenan","Allen","Heel",NA,"Out","Heel",NA,"Did Not Participate In Practice",2023-12-21 20:11:48
+2023,"REG","LAC",16,"00-0033156","DE","Joey Bosa","Joey","Bosa","Foot",NA,"Out","Foot",NA,"Limited Participation in Practice",2023-12-21 20:11:54
+2023,"REG","LAC",16,"00-0036368","LB","Tanner Muse","Tanner","Muse","Knee",NA,"Doubtful","Knee",NA,"Full Participation in Practice",2023-12-21 20:12:09
+2023,"REG","LAC",16,"00-0037320","CB","Deane Leonard","Deane","Leonard","Heel",NA,"Doubtful","Heel",NA,"Limited Participation in Practice",2023-12-21 20:12:02
+2023,"REG","LAC",16,"00-0035862","CB","Essang Bassey","Essang","Bassey","Concussion",NA,"Questionable","Concussion",NA,"Full Participation in Practice",2023-12-21 20:11:44
+2023,"REG","LAC",16,"00-0032394","TE","Nick Vannett","Nick","Vannett","Back",NA,"Questionable","Back",NA,"Limited Participation in Practice",2023-12-21 20:11:44
+2023,"REG","LAC",16,"00-0030500","DT","Nicholas Williams","Nicholas","Williams","Shoulder",NA,"Questionable","Shoulder",NA,"Limited Participation in Practice",2023-12-21 20:11:44
+2023,"REG","LAC",17,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2023-12-27 21:24:24
+2023,"REG","LAC",17,"00-0033697","CB","Michael Davis","Michael","Davis",NA,NA,NA,"Not injury related - personal matter",NA,"Full Participation in Practice",2023-12-29 20:22:46
+2023,"REG","LAC",17,"00-0035688","T","Trey Pipkins","Trey","Pipkins",NA,NA,NA,"Wrist",NA,"Full Participation in Practice",2023-12-29 20:23:10
+2023,"REG","LAC",17,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Ankle",NA,"Full Participation in Practice",2023-12-29 20:22:29
+2023,"REG","LAC",17,"00-0030279","WR","Keenan Allen","Keenan","Allen","Heel",NA,"Out","Heel",NA,"Did Not Participate In Practice",2023-12-29 20:23:32
+2023,"REG","LAC",17,"00-0036988","WR","Josh Palmer","Josh","Palmer","Concussion",NA,"Out","Concussion",NA,"Did Not Participate In Practice",2023-12-29 20:23:58
+2023,"REG","LAC",17,"00-0033156","DE","Joey Bosa","Joey","Bosa","Foot",NA,"Out","Foot",NA,"Limited Participation in Practice",2023-12-29 20:23:37
+2023,"REG","LAC",17,"00-0036441","LB","Kenneth Murray","Kenneth","Murray","Shoulder",NA,"Doubtful","Shoulder",NA,"Did Not Participate In Practice",2023-12-29 20:23:46
+2023,"REG","LAC",17,"00-0030500","DT","Nicholas Williams","Nicholas","Williams","Shoulder",NA,"Doubtful","Shoulder",NA,"Did Not Participate In Practice",2023-12-29 20:24:06
+2023,"REG","LAC",17,"00-0036368","LB","Tanner Muse","Tanner","Muse","Knee",NA,"Doubtful","Knee",NA,"Full Participation in Practice",2023-12-29 20:23:50
+2023,"REG","LAC",17,"00-0037818","G","Zion Johnson","Zion","Johnson","Neck",NA,"Questionable","Neck",NA,"Did Not Participate In Practice",2023-12-29 20:23:25
+2023,"REG","LAC",17,"00-0032394","TE","Nick Vannett","Nick","Vannett","Back",NA,"Questionable","Back",NA,"Full Participation in Practice",2023-12-29 20:23:25
+2023,"REG","LAC",17,"00-0037320","CB","Deane Leonard","Deane","Leonard","Heel",NA,"Questionable","Heel",NA,"Limited Participation in Practice",2023-12-29 20:23:25
+2023,"REG","LAC",18,"00-0031040","DE","Khalil Mack","Khalil","Mack",NA,NA,NA,"Not injury related - resting player",NA,"Did Not Participate In Practice",2024-01-03 21:28:46
+2023,"REG","LAC",18,"00-0038553","LB","Daiyan Henley","Daiyan","Henley",NA,NA,NA,"Groin",NA,"Full Participation in Practice",2024-01-05 20:04:18
+2023,"REG","LAC",18,"00-0036988","WR","Josh Palmer","Josh","Palmer",NA,NA,NA,"Concussion",NA,"Full Participation in Practice",2024-01-05 20:04:45
+2023,"REG","LAC",18,"00-0035688","T","Trey Pipkins","Trey","Pipkins",NA,NA,NA,"Wrist",NA,"Full Participation in Practice",2024-01-05 20:04:51
+2023,"REG","LAC",18,"00-0037009","T","Rashawn Slater","Rashawn","Slater",NA,NA,NA,"Knee",NA,"Full Participation in Practice",2024-01-05 20:04:18
+2023,"REG","LAC",18,"00-0030279","WR","Keenan Allen","Keenan","Allen","Heel",NA,"Out","Heel",NA,"Did Not Participate In Practice",2024-01-05 20:05:06
+2023,"REG","LAC",18,"00-0033156","DE","Joey Bosa","Joey","Bosa","Foot",NA,"Out","Foot",NA,"Did Not Participate In Practice",2024-01-05 20:05:11
+2023,"REG","LAC",18,"00-0035591","LB","Justin Hollins","Justin","Hollins","Shoulder",NA,"Out","Shoulder",NA,"Did Not Participate In Practice",2024-01-05 20:05:18
+2023,"REG","LAC",18,"00-0030500","DT","Nicholas Williams","Nicholas","Williams","Shoulder",NA,"Out","Shoulder",NA,"Did Not Participate In Practice",2024-01-05 20:05:48
+2023,"REG","LAC",18,"00-0036441","LB","Kenneth Murray","Kenneth","Murray","Shoulder",NA,"Doubtful","Shoulder",NA,"Did Not Participate In Practice",2024-01-05 20:05:32
+2023,"REG","LAC",18,"00-0037818","G","Zion Johnson","Zion","Johnson","Neck",NA,"Doubtful","Neck",NA,"Limited Participation in Practice",2024-01-05 20:05:24
+2023,"REG","LAC",18,"00-0037320","CB","Deane Leonard","Deane","Leonard","Heel",NA,"Questionable","Heel",NA,"Full Participation in Practice",2024-01-05 20:05:02
+2023,"REG","LAC",18,"00-0036368","LB","Tanner Muse","Tanner","Muse","Knee",NA,"Questionable","Knee",NA,"Full Participation in Practice",2024-01-05 20:05:02
+2023,"REG","LAC",18,"00-0037475","TE","Stone Smartt","Stone","Smartt","Shoulder",NA,"Questionable","Shoulder",NA,"Full Participation in Practice",2024-01-05 20:05:02
+2023,"REG","LAC",18,"00-0039111","DE","Tuli Tuipulotu","Tuli","Tuipulotu","Ankle",NA,"Questionable","Ankle",NA,"Limited Participation in Practice",2024-01-05 20:05:02

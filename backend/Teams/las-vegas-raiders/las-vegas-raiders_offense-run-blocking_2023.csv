@@ -1,35 +1,35 @@
-OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_Rank,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_Player,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_JerseyNumber,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_Position,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_GamesPlayed,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingTotalSnaps,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingTotalSnaps.1,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingTotalSnapsPercentage,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingGrade,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingPenalties,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingTotalSnapsInZoneScheme,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingTotalSnapsInZoneSchemePercentage,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingGradeInZoneScheme,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingTotalSnapsInGapScheme,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingTotalSnapsInGapSchemePercentage,OFFENSE-RUN-BLOCKING_2023_OFFENSE-RUN-BLOCKING_2023_RunBlockingGradeInGapScheme
-1.0,Thayer Munford Jr.,#77,T,13.0,218.0,218.0,100.0,80.4,1 (0),96.0,44.0,66.5,78.0,35.8,90.2
-2.0,DJ Turner,#19,WR,4.0,12.0,12.0,100.0,78.4,0 (0),2.0,16.7,59.7,4.0,33.3,83.7
-3.0,Andre James,#68,C,16.0,380.0,380.0,100.0,75.0,0 (0),154.0,40.5,72.5,159.0,41.8,75.5
-4.0,Kolton Miller,#74,T,13.0,277.0,277.0,100.0,73.3,0 (0),95.0,34.3,65.4,128.0,46.2,69.6
-5.0,Jermaine Eluemunor,#72,T,17.0,353.0,353.0,100.0,71.5,0 (0),150.0,42.5,68.4,146.0,41.4,66.3
-6.0,Greg Van Roten,#70,G,17.0,399.0,399.0,100.0,68.5,0 (0),161.0,40.4,64.5,167.0,41.9,71.5
-7.0,Justin Herron,#71,T,4.0,9.0,9.0,100.0,61.6,0 (0),0.0,0.0,-,8.0,88.9,61.9
-8.0,Zach Gentry,#88,TE,1.0,14.0,14.0,100.0,60.5,0 (0),6.0,42.9,60.1,4.0,28.6,61.0
-9.0,Aidan O'Connell,#04,QB,10.0,256.0,239.0,93.4,60.3,0 (0),120.0,50.2,60.1,100.0,41.8,60.5
-10.0,Jordan Meredith,#61,G,7.0,37.0,37.0,100.0,60.1,0 (0),14.0,37.8,39.7,14.0,37.8,76.0
-11.0,Netane Muti,#54,G,1.0,1.0,1.0,100.0,60.0,0 (0),0.0,0.0,-,1.0,100.0,60.0
-11.0,Jacob Bobenmoyer,#50,LS,1.0,1.0,1.0,100.0,60.0,0 (0),0.0,0.0,-,0.0,0.0,-
-11.0,Daniel Carlson,#02,K,1.0,1.0,1.0,100.0,60.0,0 (0),0.0,0.0,-,0.0,0.0,-
-11.0,Adam Butler,#69,DI,1.0,1.0,1.0,100.0,60.0,0 (0),0.0,0.0,-,0.0,0.0,-
-11.0,Ameer Abdullah,#22,HB,9.0,17.0,2.0,11.8,60.0,0 (0),1.0,50.0,60.0,0.0,0.0,-
-11.0,Brian Hoyer,#07,QB,3.0,33.0,30.0,90.9,60.0,0 (0),11.0,36.7,60.0,16.0,53.3,60.0
-11.0,Jimmy Garoppolo,#10,QB,7.0,121.0,109.0,90.1,60.0,0 (0),33.0,30.3,60.0,55.0,50.5,60.0
-18.0,Zamir White,#35,HB,14.0,118.0,14.0,11.9,59.8,0 (0),0.0,0.0,-,0.0,0.0,-
-19.0,Jesper Horsted,#80,TE,1.0,1.0,1.0,100.0,59.7,0 (0),0.0,0.0,-,1.0,100.0,59.7
-19.0,Tre Tucker,#11,WR,14.0,98.0,88.0,89.8,59.7,0 (0),47.0,53.4,59.6,30.0,34.1,84.9
-21.0,Dylan Parham,#66,G,17.0,409.0,409.0,100.0,57.6,3 (0),163.0,39.9,55.9,172.0,42.1,60.9
-22.0,Brandon Parker,#75,T,2.0,10.0,10.0,100.0,57.3,0 (0),1.0,10.0,60.0,8.0,80.0,59.4
-23.0,Kristian Wilkerson,#83,WR,2.0,14.0,14.0,100.0,55.6,0 (0),3.0,21.4,56.2,6.0,42.9,61.2
-24.0,Josh Jacobs,#08,HB,13.0,271.0,33.0,12.2,55.3,0 (0),2.0,6.1,60.0,1.0,3.0,60.0
-25.0,Austin Hooper,#81,TE,17.0,225.0,225.0,100.0,50.6,1 (0),97.0,43.1,60.1,90.0,40.0,52.3
-26.0,Jakob Johnson,#45,FB,12.0,119.0,119.0,100.0,49.9,1 (0),33.0,27.7,58.2,56.0,47.1,45.1
-27.0,Davante Adams,#17,WR,17.0,356.0,356.0,100.0,49.4,0 (0),155.0,43.5,62.0,151.0,42.4,66.0
-28.0,Cole Fotheringham,#85,TE,1.0,13.0,13.0,100.0,47.9,0 (0),4.0,30.8,51.3,4.0,30.8,51.0
-29.0,Michael Mayer,#87,TE,14.0,260.0,260.0,100.0,47.6,3 (1),105.0,40.4,46.0,109.0,41.9,55.7
-30.0,Hroniss Grasu,#65,C,1.0,8.0,8.0,100.0,45.7,0 (0),3.0,37.5,53.3,4.0,50.0,39.5
-31.0,DeAndre Carter,#03,WR,15.0,50.0,47.0,94.0,38.7,0 (0),13.0,27.7,53.6,21.0,44.7,54.3
-32.0,Jakobi Meyers,#16,WR,16.0,341.0,338.0,99.1,36.7,2 (0),140.0,41.4,45.3,150.0,44.4,55.2
-33.0,Hunter Renfrow,#13,WR,16.0,92.0,92.0,100.0,31.3,0 (0),41.0,44.6,50.9,37.0,40.2,56.4
-,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,RunBlockingTotalSnaps,RunBlockingTotalSnaps.1,RunBlockingTotalSnapsPercentage,RunBlockingGrade,RunBlockingPenalties,RunBlockingTotalSnapsInZoneScheme,RunBlockingTotalSnapsInZoneSchemePercentage,RunBlockingGradeInZoneScheme,RunBlockingTotalSnapsInGapScheme,RunBlockingTotalSnapsInGapSchemePercentage,RunBlockingGradeInGapScheme
+Thayer Munford Jr.,#77,T,13.0,218.0,218.0,100.0,80.4,1 (0),96.0,44.0,66.5,78.0,35.8,90.2
+DJ Turner,#19,WR,4.0,12.0,12.0,100.0,78.4,0 (0),2.0,16.7,59.7,4.0,33.3,83.7
+Andre James,#68,C,16.0,380.0,380.0,100.0,75.0,0 (0),154.0,40.5,72.5,159.0,41.8,75.5
+Kolton Miller,#74,T,13.0,277.0,277.0,100.0,73.3,0 (0),95.0,34.3,65.4,128.0,46.2,69.6
+Jermaine Eluemunor,#72,T,17.0,353.0,353.0,100.0,71.5,0 (0),150.0,42.5,68.4,146.0,41.4,66.3
+Greg Van Roten,#70,G,17.0,399.0,399.0,100.0,68.5,0 (0),161.0,40.4,64.5,167.0,41.9,71.5
+Justin Herron,#71,T,4.0,9.0,9.0,100.0,61.6,0 (0),0.0,0.0,-,8.0,88.9,61.9
+Zach Gentry,#88,TE,1.0,14.0,14.0,100.0,60.5,0 (0),6.0,42.9,60.1,4.0,28.6,61.0
+Aidan O'Connell,#04,QB,10.0,256.0,239.0,93.4,60.3,0 (0),120.0,50.2,60.1,100.0,41.8,60.5
+Jordan Meredith,#61,G,7.0,37.0,37.0,100.0,60.1,0 (0),14.0,37.8,39.7,14.0,37.8,76.0
+Netane Muti,#54,G,1.0,1.0,1.0,100.0,60.0,0 (0),0.0,0.0,-,1.0,100.0,60.0
+Jacob Bobenmoyer,#50,LS,1.0,1.0,1.0,100.0,60.0,0 (0),0.0,0.0,-,0.0,0.0,-
+Daniel Carlson,#02,K,1.0,1.0,1.0,100.0,60.0,0 (0),0.0,0.0,-,0.0,0.0,-
+Adam Butler,#69,DI,1.0,1.0,1.0,100.0,60.0,0 (0),0.0,0.0,-,0.0,0.0,-
+Ameer Abdullah,#22,HB,9.0,17.0,2.0,11.8,60.0,0 (0),1.0,50.0,60.0,0.0,0.0,-
+Brian Hoyer,#07,QB,3.0,33.0,30.0,90.9,60.0,0 (0),11.0,36.7,60.0,16.0,53.3,60.0
+Jimmy Garoppolo,#10,QB,7.0,121.0,109.0,90.1,60.0,0 (0),33.0,30.3,60.0,55.0,50.5,60.0
+Zamir White,#35,HB,14.0,118.0,14.0,11.9,59.8,0 (0),0.0,0.0,-,0.0,0.0,-
+Jesper Horsted,#80,TE,1.0,1.0,1.0,100.0,59.7,0 (0),0.0,0.0,-,1.0,100.0,59.7
+Tre Tucker,#11,WR,14.0,98.0,88.0,89.8,59.7,0 (0),47.0,53.4,59.6,30.0,34.1,84.9
+Dylan Parham,#66,G,17.0,409.0,409.0,100.0,57.6,3 (0),163.0,39.9,55.9,172.0,42.1,60.9
+Brandon Parker,#75,T,2.0,10.0,10.0,100.0,57.3,0 (0),1.0,10.0,60.0,8.0,80.0,59.4
+Kristian Wilkerson,#83,WR,2.0,14.0,14.0,100.0,55.6,0 (0),3.0,21.4,56.2,6.0,42.9,61.2
+Josh Jacobs,#08,HB,13.0,271.0,33.0,12.2,55.3,0 (0),2.0,6.1,60.0,1.0,3.0,60.0
+Austin Hooper,#81,TE,17.0,225.0,225.0,100.0,50.6,1 (0),97.0,43.1,60.1,90.0,40.0,52.3
+Jakob Johnson,#45,FB,12.0,119.0,119.0,100.0,49.9,1 (0),33.0,27.7,58.2,56.0,47.1,45.1
+Davante Adams,#17,WR,17.0,356.0,356.0,100.0,49.4,0 (0),155.0,43.5,62.0,151.0,42.4,66.0
+Cole Fotheringham,#85,TE,1.0,13.0,13.0,100.0,47.9,0 (0),4.0,30.8,51.3,4.0,30.8,51.0
+Michael Mayer,#87,TE,14.0,260.0,260.0,100.0,47.6,3 (1),105.0,40.4,46.0,109.0,41.9,55.7
+Hroniss Grasu,#65,C,1.0,8.0,8.0,100.0,45.7,0 (0),3.0,37.5,53.3,4.0,50.0,39.5
+DeAndre Carter,#03,WR,15.0,50.0,47.0,94.0,38.7,0 (0),13.0,27.7,53.6,21.0,44.7,54.3
+Jakobi Meyers,#16,WR,16.0,341.0,338.0,99.1,36.7,2 (0),140.0,41.4,45.3,150.0,44.4,55.2
+Hunter Renfrow,#13,WR,16.0,92.0,92.0,100.0,31.3,0 (0),41.0,44.6,50.9,37.0,40.2,56.4
+,,,,,,,,,,,,,,

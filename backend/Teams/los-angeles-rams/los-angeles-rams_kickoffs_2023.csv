@@ -1,5 +1,5 @@
-KICKOFFS_2023_KICKOFFS_2023_Rank,KICKOFFS_2023_KICKOFFS_2023_Player,KICKOFFS_2023_KICKOFFS_2023_JerseyNumber,KICKOFFS_2023_KICKOFFS_2023_Position,KICKOFFS_2023_KICKOFFS_2023_GamesPlayed,KICKOFFS_2023_KICKOFFS_2023_KickoffsGrade,KICKOFFS_2023_KICKOFFS_2023_KickoffsTotal,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsPerAttempt,KICKOFFS_2023_KICKOFFS_2023_KickoffsAverageFieldPosition,KICKOFFS_2023_KICKOFFS_2023_KickoffsOnsideAttempts,KICKOFFS_2023_KICKOFFS_2023_KickoffsReturnPercentage,KICKOFFS_2023_KICKOFFS_2023_KickoffsReturned,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsAllowed,KICKOFFS_2023_KICKOFFS_2023_KickoffsYardsPerReturnAllowed,KICKOFFS_2023_KICKOFFS_2023_KickoffsTouchbacks,KICKOFFS_2023_KICKOFFS_2023_KickoffsFairCatches,KICKOFFS_2023_KICKOFFS_2023_KickoffsHangtimeAverage,KICKOFFS_2023_KICKOFFS_2023_KickoffsHangtimeAverage.1
-1.0,Ethan Evans,#42,P,16.0,88.5,88.0,72.0,25.8,0.0,10.2,9.0,229.0,25.4,79.0,0.0,82.0,3.97
-2.0,Lucas Havrisik,#08,K,3.0,63.3,8.0,73.0,27.8,0.0,12.5,1.0,51.0,51.0,7.0,0.0,8.0,4.08
-3.0,Brett Maher,#08,K,2.0,60.0,2.0,28.0,45.0,1.0,100.0,2.0,16.0,8.0,0.0,0.0,0.0,
-,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickoffsGrade,KickoffsTotal,KickoffsYardsPerAttempt,KickoffsAverageFieldPosition,KickoffsOnsideAttempts,KickoffsReturnPercentage,KickoffsReturned,KickoffsYardsAllowed,KickoffsYardsPerReturnAllowed,KickoffsTouchbacks,KickoffsFairCatches,KickoffsHangtimeAverage,KickoffsHangtimeAverage.1
+Ethan Evans,#42,P,16.0,88.5,88.0,72.0,25.8,0.0,10.2,9.0,229.0,25.4,79.0,0.0,82.0,3.97
+Lucas Havrisik,#08,K,3.0,63.3,8.0,73.0,27.8,0.0,12.5,1.0,51.0,51.0,7.0,0.0,8.0,4.08
+Brett Maher,#08,K,2.0,60.0,2.0,28.0,45.0,1.0,100.0,2.0,16.0,8.0,0.0,0.0,0.0,
+,,,,,,,,,,,,,,,,

@@ -1,11 +1,11 @@
-KICK-RETURNING_2023_KICK-RETURNING_2023_Rank,KICK-RETURNING_2023_KICK-RETURNING_2023_Player,KICK-RETURNING_2023_KICK-RETURNING_2023_JerseyNumber,KICK-RETURNING_2023_KICK-RETURNING_2023_Position,KICK-RETURNING_2023_KICK-RETURNING_2023_GamesPlayed,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotalGrade,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards.1,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsMuffed,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalReturns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalMuffed
-1.0,Britain Covey,#18,WR,17.0,73.6,31.0,62.9,1.0,30.0,30.0,30.0,0.0,0.0,0.0,76.5,30.0,418.0,20.0,54.0,13.9,0.0,2.0
-2.0,DeVonta Smith,#06,WR,17.0,68.1,2.0,67.4,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-3.0,Eli Ricks,#39,CB,17.0,59.9,1.0,59.9,1.0,1.0,1.0,1.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-3.0,Sydney Brown,#21,S,14.0,59.9,1.0,59.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-3.0,Quez Watkins,#16,WR,10.0,59.9,1.0,59.9,1.0,11.0,11.0,11.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-6.0,Devon Allen,#82,WR,2.0,59.4,1.0,59.5,1.0,17.0,17.0,17.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-7.0,Olamide Zaccheaus,#13,WR,18.0,57.4,1.0,57.6,1.0,7.0,7.0,7.0,0.0,3.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-8.0,Kenneth Gainwell,#14,HB,17.0,55.7,1.0,56.1,1.0,19.0,19.0,19.0,0.0,2.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-9.0,Boston Scott,#35,HB,16.0,44.9,9.0,46.4,9.0,187.0,38.0,20.8,0.0,5.0,1.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-,,,,,,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickReturnsTotal,KickReturnsTotalGrade,KickoffReturnsTotal,KickoffReturnsTotalYards,KickoffReturnsTotalYards.1,KickoffReturnsLongestReturn,KickoffReturnsYardsPerAttempt,KickoffReturnsTouchdowns,KickoffReturnsFairCatches,KickoffReturnsMuffed,PuntReturnsTotal,PuntReturnsTotalReturns,PuntReturnsTotalYards,PuntReturnsTotalFairCatches,PuntReturnsTotalLongestReturn,PuntReturnsTotalYardsPerAttempt,PuntReturnsTotalTouchdowns,PuntReturnsTotalMuffed
+Britain Covey,#18,WR,17.0,73.6,31.0,62.9,1.0,30.0,30.0,30.0,0.0,0.0,0.0,76.5,30.0,418.0,20.0,54.0,13.9,0.0,2.0
+DeVonta Smith,#06,WR,17.0,68.1,2.0,67.4,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Eli Ricks,#39,CB,17.0,59.9,1.0,59.9,1.0,1.0,1.0,1.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Sydney Brown,#21,S,14.0,59.9,1.0,59.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Quez Watkins,#16,WR,10.0,59.9,1.0,59.9,1.0,11.0,11.0,11.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Devon Allen,#82,WR,2.0,59.4,1.0,59.5,1.0,17.0,17.0,17.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Olamide Zaccheaus,#13,WR,18.0,57.4,1.0,57.6,1.0,7.0,7.0,7.0,0.0,3.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Kenneth Gainwell,#14,HB,17.0,55.7,1.0,56.1,1.0,19.0,19.0,19.0,0.0,2.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Boston Scott,#35,HB,16.0,44.9,9.0,46.4,9.0,187.0,38.0,20.8,0.0,5.0,1.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+,,,,,,,,,,,,,,,,,,,,,

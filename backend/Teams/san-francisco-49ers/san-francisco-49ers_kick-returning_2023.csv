@@ -1,10 +1,10 @@
-KICK-RETURNING_2023_KICK-RETURNING_2023_Rank,KICK-RETURNING_2023_KICK-RETURNING_2023_Player,KICK-RETURNING_2023_KICK-RETURNING_2023_JerseyNumber,KICK-RETURNING_2023_KICK-RETURNING_2023_Position,KICK-RETURNING_2023_KICK-RETURNING_2023_GamesPlayed,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotalGrade,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards.1,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsMuffed,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalReturns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalMuffed
-1.0,Jordan Mason,#24,HB,20.0,63.0,2.0,62.8,2.0,40.0,28.0,20.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-2.0,Brandon Aiyuk,#11,WR,19.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-2.0,Christian McCaffrey,#23,HB,19.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-4.0,Deebo Samuel,#19,WR,18.0,60.4,7.0,60.4,7.0,175.0,34.0,25.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-5.0,Kyle Juszczyk,#44,FB,20.0,59.9,1.0,59.9,1.0,18.0,18.0,18.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-6.0,Ray-Ray McCloud III,#03,WR,15.0,59.1,37.0,58.1,12.0,276.0,34.0,23.0,0.0,0.0,0.0,60.9,25.0,203.0,14.0,19.0,8.1,0.0,0.0
-7.0,Darrell Luter Jr.,#28,CB,10.0,57.2,1.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,58.4,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-8.0,Ronnie Bell,#10,WR,17.0,50.7,11.0,54.9,1.0,0.0,0.0,0.0,0.0,0.0,1.0,60.5,10.0,70.0,4.0,17.0,7.0,0.0,1.0
-,,,,,,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickReturnsTotal,KickReturnsTotalGrade,KickoffReturnsTotal,KickoffReturnsTotalYards,KickoffReturnsTotalYards.1,KickoffReturnsLongestReturn,KickoffReturnsYardsPerAttempt,KickoffReturnsTouchdowns,KickoffReturnsFairCatches,KickoffReturnsMuffed,PuntReturnsTotal,PuntReturnsTotalReturns,PuntReturnsTotalYards,PuntReturnsTotalFairCatches,PuntReturnsTotalLongestReturn,PuntReturnsTotalYardsPerAttempt,PuntReturnsTotalTouchdowns,PuntReturnsTotalMuffed
+Jordan Mason,#24,HB,20.0,63.0,2.0,62.8,2.0,40.0,28.0,20.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Brandon Aiyuk,#11,WR,19.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Christian McCaffrey,#23,HB,19.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Deebo Samuel,#19,WR,18.0,60.4,7.0,60.4,7.0,175.0,34.0,25.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Kyle Juszczyk,#44,FB,20.0,59.9,1.0,59.9,1.0,18.0,18.0,18.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Ray-Ray McCloud III,#03,WR,15.0,59.1,37.0,58.1,12.0,276.0,34.0,23.0,0.0,0.0,0.0,60.9,25.0,203.0,14.0,19.0,8.1,0.0,0.0
+Darrell Luter Jr.,#28,CB,10.0,57.2,1.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,58.4,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Ronnie Bell,#10,WR,17.0,50.7,11.0,54.9,1.0,0.0,0.0,0.0,0.0,0.0,1.0,60.5,10.0,70.0,4.0,17.0,7.0,0.0,1.0
+,,,,,,,,,,,,,,,,,,,,,

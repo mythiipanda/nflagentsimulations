@@ -1,25 +1,25 @@
-DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_Rank,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_Player,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_JerseyNumber,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_Position,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_GamesPlayed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_PassRushSnaps,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageSnaps,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageSnapsPercentage,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageGrade,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoveragePenalties,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageTargets,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageReceptionsAllowed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageReceptionPercentage,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageYardsAllowed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageYardsPerReceptionAllowed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageYardsAfterCatchAllowed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageAverageDepthOfTarget,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageLongestReceptionAllowed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageForcedIncompletions,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageForcedIncompletionPercentage,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoveragePassBreakups,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageInterceptions,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageDrops,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageTouchdownsAllowed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoveragePasserRatingAllowed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageSnapsPerTarget,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageSnapsPerReceptionAllowed,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageTackles,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageAssists,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageMissedTackles,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageMissedTacklePercentage,DEFENSE-COVERAGE_2023_DEFENSE-COVERAGE_2023_CoverageStops
-1.0,Jermaine Johnson,#11,ED,17.0,452.0,7.0,1.5,95.1,3 (0),1.0,0.0,0.0,0.0,,0.0,1.0,,1.0,100.0,1.0,1.0,0.0,0.0,0.0,7.0,,7.0,0.0,2.0,22.2,11.0
-2.0,Sauce Gardner,#01,CB,16.0,586.0,583.0,99.5,90.8,5 (0),51.0,29.0,56.9,251.0,8.7,90.0,10.6,32.0,11.0,22.0,10.0,0.0,3.0,1.0,76.5,10.8,18.9,32.0,5.0,7.0,15.9,13.0
-3.0,C.J. Mosley,#57,LB,17.0,641.0,600.0,93.6,90.6,4 (0),66.0,53.0,80.3,570.0,10.8,416.0,3.3,43.0,5.0,8.0,5.0,1.0,4.0,1.0,101.4,8.6,10.8,58.0,16.0,8.0,9.8,28.0
-4.0,Quincy Williams,#56,LB,17.0,617.0,576.0,93.4,88.7,5 (1),92.0,67.0,72.8,516.0,7.7,454.0,2.2,50.0,9.0,10.0,8.0,1.0,1.0,4.0,96.1,5.9,8.2,43.0,6.0,8.0,14.0,28.0
-5.0,Michael Carter II,#30,CB,15.0,452.0,434.0,96.0,83.3,1 (0),57.0,32.0,56.1,258.0,8.1,178.0,9.0,29.0,8.0,14.0,4.0,0.0,2.0,1.0,73.6,7.3,12.9,28.0,3.0,5.0,13.9,11.0
-6.0,Craig James,#31,CB,1.0,27.0,27.0,100.0,79.8,0 (0),2.0,0.0,0.0,0.0,,0.0,10.5,,1.0,50.0,1.0,0.0,0.0,0.0,39.6,13.0,,1.0,0.0,0.0,0.0,1.0
-7.0,D.J. Reed,#04,CB,15.0,544.0,542.0,99.6,79.5,8 (2),70.0,43.0,61.4,475.0,11.0,183.0,11.1,60.0,10.0,14.0,6.0,1.0,0.0,2.0,85.1,7.3,11.9,42.0,5.0,4.0,7.8,11.0
-8.0,John Franklin-Myers,#91,ED,17.0,363.0,4.0,1.1,77.4,2 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,0.0,4.0,3.0,42.9,3.0
-9.0,Ashtyn Davis,#21,S,17.0,113.0,110.0,97.3,75.2,0 (0),22.0,13.0,59.1,107.0,8.2,86.0,7.0,15.0,4.0,18.0,4.0,3.0,0.0,0.0,32.0,4.8,8.1,8.0,2.0,3.0,23.1,3.0
-10.0,Jordan Whitehead,#03,S,17.0,603.0,598.0,99.2,68.9,1 (0),32.0,20.0,62.5,349.0,17.5,195.0,10.9,81.0,3.0,9.0,3.0,4.0,1.0,7.0,99.6,17.6,28.2,31.0,3.0,10.0,22.7,6.0
-11.0,Bryce Huff,#47,ED,17.0,347.0,13.0,3.7,68.2,3 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,1.0,3.0,1.0,20.0,9.0
-12.0,Tony Adams,#22,S,15.0,514.0,506.0,98.4,65.2,2 (0),28.0,18.0,64.3,239.0,13.3,66.0,10.6,23.0,3.0,11.0,2.0,3.0,0.0,1.0,63.5,17.2,26.8,25.0,2.0,7.0,20.6,7.0
-13.0,Will McDonald IV,#99,ED,15.0,101.0,2.0,2.0,63.1,0 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,2.0,0.0,0.0,0.0,5.0
-13.0,Micheal Clemons,#72,ED,16.0,158.0,1.0,0.6,63.1,1 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,1.0
-15.0,Quinnen Williams,#95,DI,17.0,471.0,6.0,1.3,63.0,5 (2),0.0,0.0,,0.0,,0.0,,,1.0,,0.0,1.0,0.0,0.0,0.0,,,3.0,0.0,5.0,62.5,7.0
-16.0,Bryce Hall,#37,CB,5.0,101.0,101.0,100.0,62.8,1 (0),12.0,7.0,58.3,96.0,13.7,44.0,11.7,49.0,1.0,8.0,0.0,1.0,0.0,0.0,49.3,7.8,13.4,4.0,0.0,1.0,20.0,1.0
-17.0,Adrian Amos,#00,S,7.0,126.0,126.0,100.0,61.0,0 (0),10.0,6.0,60.0,53.0,8.8,39.0,4.5,18.0,2.0,20.0,2.0,0.0,0.0,0.0,74.2,11.6,19.3,7.0,3.0,2.0,16.7,2.0
-18.0,Quinton Jefferson,#70,DI,14.0,243.0,3.0,1.2,60.8,2 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,2.0,0.0,1.0,33.3,8.0
-19.0,Solomon Thomas,#94,DI,17.0,227.0,4.0,1.8,60.6,4 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,2.0,100.0,4.0
-20.0,Jamien Sherwood,#44,LB,15.0,52.0,45.0,86.5,56.7,0 (0),8.0,8.0,100.0,89.0,11.1,41.0,6.3,42.0,0.0,0.0,0.0,0.0,0.0,1.0,152.6,5.1,5.1,7.0,4.0,0.0,0.0,2.0
-21.0,Brandin Echols,#26,CB,11.0,96.0,94.0,97.9,53.2,3 (1),17.0,14.0,82.4,125.0,8.9,70.0,5.5,21.0,1.0,6.0,0.0,1.0,0.0,1.0,92.4,5.1,6.1,5.0,1.0,5.0,45.5,2.0
-22.0,Sam Eguavoen,#52,LB,2.0,2.0,2.0,100.0,39.8,1 (1),1.0,0.0,0.0,0.0,,0.0,9.0,,0.0,0.0,0.0,0.0,0.0,0.0,39.6,2.0,,0.0,0.0,0.0,,0.0
-23.0,Tae Hayes,#27,CB,1.0,13.0,13.0,100.0,34.2,0 (0),3.0,3.0,100.0,54.0,18.0,0.0,18.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,118.8,4.3,4.3,2.0,0.0,0.0,0.0,0.0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,PassRushSnaps,CoverageSnaps,CoverageSnapsPercentage,CoverageGrade,CoveragePenalties,CoverageTargets,CoverageReceptionsAllowed,CoverageReceptionPercentage,CoverageYardsAllowed,CoverageYardsPerReceptionAllowed,CoverageYardsAfterCatchAllowed,CoverageAverageDepthOfTarget,CoverageLongestReceptionAllowed,CoverageForcedIncompletions,CoverageForcedIncompletionPercentage,CoveragePassBreakups,CoverageInterceptions,CoverageDrops,CoverageTouchdownsAllowed,CoveragePasserRatingAllowed,CoverageSnapsPerTarget,CoverageSnapsPerReceptionAllowed,CoverageTackles,CoverageAssists,CoverageMissedTackles,CoverageMissedTacklePercentage,CoverageStops
+Jermaine Johnson,#11,ED,17.0,452.0,7.0,1.5,95.1,3 (0),1.0,0.0,0.0,0.0,,0.0,1.0,,1.0,100.0,1.0,1.0,0.0,0.0,0.0,7.0,,7.0,0.0,2.0,22.2,11.0
+Sauce Gardner,#01,CB,16.0,586.0,583.0,99.5,90.8,5 (0),51.0,29.0,56.9,251.0,8.7,90.0,10.6,32.0,11.0,22.0,10.0,0.0,3.0,1.0,76.5,10.8,18.9,32.0,5.0,7.0,15.9,13.0
+C.J. Mosley,#57,LB,17.0,641.0,600.0,93.6,90.6,4 (0),66.0,53.0,80.3,570.0,10.8,416.0,3.3,43.0,5.0,8.0,5.0,1.0,4.0,1.0,101.4,8.6,10.8,58.0,16.0,8.0,9.8,28.0
+Quincy Williams,#56,LB,17.0,617.0,576.0,93.4,88.7,5 (1),92.0,67.0,72.8,516.0,7.7,454.0,2.2,50.0,9.0,10.0,8.0,1.0,1.0,4.0,96.1,5.9,8.2,43.0,6.0,8.0,14.0,28.0
+Michael Carter II,#30,CB,15.0,452.0,434.0,96.0,83.3,1 (0),57.0,32.0,56.1,258.0,8.1,178.0,9.0,29.0,8.0,14.0,4.0,0.0,2.0,1.0,73.6,7.3,12.9,28.0,3.0,5.0,13.9,11.0
+Craig James,#31,CB,1.0,27.0,27.0,100.0,79.8,0 (0),2.0,0.0,0.0,0.0,,0.0,10.5,,1.0,50.0,1.0,0.0,0.0,0.0,39.6,13.0,,1.0,0.0,0.0,0.0,1.0
+D.J. Reed,#04,CB,15.0,544.0,542.0,99.6,79.5,8 (2),70.0,43.0,61.4,475.0,11.0,183.0,11.1,60.0,10.0,14.0,6.0,1.0,0.0,2.0,85.1,7.3,11.9,42.0,5.0,4.0,7.8,11.0
+John Franklin-Myers,#91,ED,17.0,363.0,4.0,1.1,77.4,2 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,0.0,4.0,3.0,42.9,3.0
+Ashtyn Davis,#21,S,17.0,113.0,110.0,97.3,75.2,0 (0),22.0,13.0,59.1,107.0,8.2,86.0,7.0,15.0,4.0,18.0,4.0,3.0,0.0,0.0,32.0,4.8,8.1,8.0,2.0,3.0,23.1,3.0
+Jordan Whitehead,#03,S,17.0,603.0,598.0,99.2,68.9,1 (0),32.0,20.0,62.5,349.0,17.5,195.0,10.9,81.0,3.0,9.0,3.0,4.0,1.0,7.0,99.6,17.6,28.2,31.0,3.0,10.0,22.7,6.0
+Bryce Huff,#47,ED,17.0,347.0,13.0,3.7,68.2,3 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,1.0,3.0,1.0,20.0,9.0
+Tony Adams,#22,S,15.0,514.0,506.0,98.4,65.2,2 (0),28.0,18.0,64.3,239.0,13.3,66.0,10.6,23.0,3.0,11.0,2.0,3.0,0.0,1.0,63.5,17.2,26.8,25.0,2.0,7.0,20.6,7.0
+Will McDonald IV,#99,ED,15.0,101.0,2.0,2.0,63.1,0 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,2.0,0.0,0.0,0.0,5.0
+Micheal Clemons,#72,ED,16.0,158.0,1.0,0.6,63.1,1 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,,1.0
+Quinnen Williams,#95,DI,17.0,471.0,6.0,1.3,63.0,5 (2),0.0,0.0,,0.0,,0.0,,,1.0,,0.0,1.0,0.0,0.0,0.0,,,3.0,0.0,5.0,62.5,7.0
+Bryce Hall,#37,CB,5.0,101.0,101.0,100.0,62.8,1 (0),12.0,7.0,58.3,96.0,13.7,44.0,11.7,49.0,1.0,8.0,0.0,1.0,0.0,0.0,49.3,7.8,13.4,4.0,0.0,1.0,20.0,1.0
+Adrian Amos,#00,S,7.0,126.0,126.0,100.0,61.0,0 (0),10.0,6.0,60.0,53.0,8.8,39.0,4.5,18.0,2.0,20.0,2.0,0.0,0.0,0.0,74.2,11.6,19.3,7.0,3.0,2.0,16.7,2.0
+Quinton Jefferson,#70,DI,14.0,243.0,3.0,1.2,60.8,2 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,2.0,0.0,1.0,33.3,8.0
+Solomon Thomas,#94,DI,17.0,227.0,4.0,1.8,60.6,4 (0),0.0,0.0,,0.0,,0.0,,,0.0,,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,2.0,100.0,4.0
+Jamien Sherwood,#44,LB,15.0,52.0,45.0,86.5,56.7,0 (0),8.0,8.0,100.0,89.0,11.1,41.0,6.3,42.0,0.0,0.0,0.0,0.0,0.0,1.0,152.6,5.1,5.1,7.0,4.0,0.0,0.0,2.0
+Brandin Echols,#26,CB,11.0,96.0,94.0,97.9,53.2,3 (1),17.0,14.0,82.4,125.0,8.9,70.0,5.5,21.0,1.0,6.0,0.0,1.0,0.0,1.0,92.4,5.1,6.1,5.0,1.0,5.0,45.5,2.0
+Sam Eguavoen,#52,LB,2.0,2.0,2.0,100.0,39.8,1 (1),1.0,0.0,0.0,0.0,,0.0,9.0,,0.0,0.0,0.0,0.0,0.0,0.0,39.6,2.0,,0.0,0.0,0.0,,0.0
+Tae Hayes,#27,CB,1.0,13.0,13.0,100.0,34.2,0 (0),3.0,3.0,100.0,54.0,18.0,0.0,18.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,118.8,4.3,4.3,2.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

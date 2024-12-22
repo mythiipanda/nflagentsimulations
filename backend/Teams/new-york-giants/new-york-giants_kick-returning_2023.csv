@@ -1,11 +1,11 @@
-KICK-RETURNING_2023_KICK-RETURNING_2023_Rank,KICK-RETURNING_2023_KICK-RETURNING_2023_Player,KICK-RETURNING_2023_KICK-RETURNING_2023_JerseyNumber,KICK-RETURNING_2023_KICK-RETURNING_2023_Position,KICK-RETURNING_2023_KICK-RETURNING_2023_GamesPlayed,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotalGrade,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards.1,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsMuffed,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalReturns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalMuffed
-1.0,Parris Campbell,#00,WR,12.0,63.8,8.0,63.4,8.0,191.0,36.0,23.9,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-2.0,Adoree' Jackson,#22,CB,14.0,61.0,0.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,61.2,0.0,0.0,1.0,0.0,,0.0,0.0
-3.0,Darius Slayton,#86,WR,17.0,60.5,0.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,60.5,0.0,0.0,1.0,0.0,,0.0,0.0
-4.0,Nick McCloud,#44,CB,17.0,60.2,1.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,60.1,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-5.0,Lawrence Cager,#83,TE,11.0,58.7,1.0,58.7,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-6.0,Gunner Olszewski,#80,WR,10.0,54.0,23.0,53.8,0.0,0.0,0.0,,0.0,2.0,0.0,56.9,23.0,282.0,7.0,94.0,12.3,1.0,0.0
-7.0,Bobby McCain,#21,CB,9.0,48.2,1.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,53.3,1.0,0.0,0.0,0.0,0.0,0.0,1.0
-8.0,Sterling Shepard,#03,WR,15.0,43.0,3.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,37.7,3.0,10.0,2.0,5.0,3.3,0.0,1.0
-9.0,Eric Gray,#20,HB,13.0,36.8,11.0,53.2,4.0,58.0,20.0,14.5,0.0,1.0,0.0,28.9,7.0,28.0,5.0,14.0,4.0,0.0,2.0
-,,,,,,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickReturnsTotal,KickReturnsTotalGrade,KickoffReturnsTotal,KickoffReturnsTotalYards,KickoffReturnsTotalYards.1,KickoffReturnsLongestReturn,KickoffReturnsYardsPerAttempt,KickoffReturnsTouchdowns,KickoffReturnsFairCatches,KickoffReturnsMuffed,PuntReturnsTotal,PuntReturnsTotalReturns,PuntReturnsTotalYards,PuntReturnsTotalFairCatches,PuntReturnsTotalLongestReturn,PuntReturnsTotalYardsPerAttempt,PuntReturnsTotalTouchdowns,PuntReturnsTotalMuffed
+Parris Campbell,#00,WR,12.0,63.8,8.0,63.4,8.0,191.0,36.0,23.9,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Adoree' Jackson,#22,CB,14.0,61.0,0.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,61.2,0.0,0.0,1.0,0.0,,0.0,0.0
+Darius Slayton,#86,WR,17.0,60.5,0.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,60.5,0.0,0.0,1.0,0.0,,0.0,0.0
+Nick McCloud,#44,CB,17.0,60.2,1.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,60.1,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Lawrence Cager,#83,TE,11.0,58.7,1.0,58.7,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Gunner Olszewski,#80,WR,10.0,54.0,23.0,53.8,0.0,0.0,0.0,,0.0,2.0,0.0,56.9,23.0,282.0,7.0,94.0,12.3,1.0,0.0
+Bobby McCain,#21,CB,9.0,48.2,1.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,53.3,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Sterling Shepard,#03,WR,15.0,43.0,3.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,37.7,3.0,10.0,2.0,5.0,3.3,0.0,1.0
+Eric Gray,#20,HB,13.0,36.8,11.0,53.2,4.0,58.0,20.0,14.5,0.0,1.0,0.0,28.9,7.0,28.0,5.0,14.0,4.0,0.0,2.0
+,,,,,,,,,,,,,,,,,,,,,

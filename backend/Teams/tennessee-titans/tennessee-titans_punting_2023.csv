@@ -1,5 +1,5 @@
-PUNTING_2023_PUNTING_2023_Rank,PUNTING_2023_PUNTING_2023_Player,PUNTING_2023_PUNTING_2023_JerseyNumber,PUNTING_2023_PUNTING_2023_Position,PUNTING_2023_PUNTING_2023_GamesPlayed,PUNTING_2023_PUNTING_2023_PuntingGrade,PUNTING_2023_PUNTING_2023_PuntingTotalPunts,PUNTING_2023_PUNTING_2023_PuntingTotalYards,PUNTING_2023_PUNTING_2023_PuntingYardsPerAttempt,PUNTING_2023_PUNTING_2023_PuntingNetYardsPerAttempt,PUNTING_2023_PUNTING_2023_PuntingLongestPunt,PUNTING_2023_PUNTING_2023_PuntingInsideThe20,PUNTING_2023_PUNTING_2023_PuntingBlocked,PUNTING_2023_PUNTING_2023_PuntingReturnPercentage,PUNTING_2023_PUNTING_2023_PuntingReturned,PUNTING_2023_PUNTING_2023_PuntingYardsAllowed,PUNTING_2023_PUNTING_2023_PuntingYardsPerReturnAllowed,PUNTING_2023_PUNTING_2023_PuntingTouchbacks,PUNTING_2023_PUNTING_2023_PuntingOutOfBounds,PUNTING_2023_PUNTING_2023_PuntingDowned,PUNTING_2023_PUNTING_2023_PuntingFairCatches,PUNTING_2023_PUNTING_2023_PuntingHangtimeAverage,PUNTING_2023_PUNTING_2023_PuntingHangtimeAverage.1
-1.0,Ryan Stonehouse,#04,P,12.0,73.8,53.0,"2,812",53.1,44.7,74.0,30.0,2.0,41.5,22.0,243.0,11.0,10.0,8.0,6.0,7.0,53.0,4.27
-2.0,Nick Folk,#06,K,1.0,59.0,2.0,81,40.5,39.0,41.0,0.0,0.0,50.0,1.0,3.0,3.0,0.0,0.0,0.0,1.0,2.0,3.96
-3.0,Ty Zentner,#13,P,5.0,49.2,24.0,"1,115",46.5,41.4,64.0,9.0,0.0,25.0,6.0,82.0,13.7,2.0,2.0,3.0,11.0,24.0,4.18
-,,,,,,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,PuntingGrade,PuntingTotalPunts,PuntingTotalYards,PuntingYardsPerAttempt,PuntingNetYardsPerAttempt,PuntingLongestPunt,PuntingInsideThe20,PuntingBlocked,PuntingReturnPercentage,PuntingReturned,PuntingYardsAllowed,PuntingYardsPerReturnAllowed,PuntingTouchbacks,PuntingOutOfBounds,PuntingDowned,PuntingFairCatches,PuntingHangtimeAverage,PuntingHangtimeAverage.1
+Ryan Stonehouse,#04,P,12.0,73.8,53.0,"2,812",53.1,44.7,74.0,30.0,2.0,41.5,22.0,243.0,11.0,10.0,8.0,6.0,7.0,53.0,4.27
+Nick Folk,#06,K,1.0,59.0,2.0,81,40.5,39.0,41.0,0.0,0.0,50.0,1.0,3.0,3.0,0.0,0.0,0.0,1.0,2.0,3.96
+Ty Zentner,#13,P,5.0,49.2,24.0,"1,115",46.5,41.4,64.0,9.0,0.0,25.0,6.0,82.0,13.7,2.0,2.0,3.0,11.0,24.0,4.18
+,,,,,,,,,,,,,,,,,,,,,

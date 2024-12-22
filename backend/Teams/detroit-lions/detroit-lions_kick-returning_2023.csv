@@ -1,11 +1,11 @@
-KICK-RETURNING_2023_KICK-RETURNING_2023_Rank,KICK-RETURNING_2023_KICK-RETURNING_2023_Player,KICK-RETURNING_2023_KICK-RETURNING_2023_JerseyNumber,KICK-RETURNING_2023_KICK-RETURNING_2023_Position,KICK-RETURNING_2023_KICK-RETURNING_2023_GamesPlayed,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickReturnsTotalGrade,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTotalYards.1,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_KickoffReturnsMuffed,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotal,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalReturns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYards,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalFairCatches,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalLongestReturn,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalYardsPerAttempt,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalTouchdowns,KICK-RETURNING_2023_KICK-RETURNING_2023_PuntReturnsTotalMuffed
-1.0,Kalif Raymond,#11,WR,17.0,73.0,29.0,58.1,0.0,0.0,0.0,,0.0,1.0,0.0,78.4,29.0,331.0,23.0,42.0,11.4,0.0,1.0
-2.0,Donovan Peoples-Jones,#19,WR,11.0,61.6,4.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,62.1,4.0,32.0,0.0,10.0,8.0,0.0,0.0
-3.0,Sam LaPorta,#87,TE,20.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-3.0,Amon-Ra St. Brown,#14,WR,19.0,61.2,0.0,61.2,0.0,0.0,0.0,,0.0,1.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-3.0,Malcolm Rodriguez,#44,LB,20.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-3.0,Mohamed Ibrahim,#35,HB,1.0,61.2,1.0,61.2,1.0,22.0,22.0,22.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-7.0,Khalil Dorsey,#30,CB,16.0,59.9,12.0,59.9,12.0,244.0,30.0,20.3,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-8.0,Zonovan Knight,#28,HB,2.0,57.9,1.0,58.1,1.0,22.0,22.0,22.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-9.0,Craig Reynolds,#13,HB,20.0,44.3,5.0,45.9,5.0,133.0,31.0,26.6,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
-,,,,,,,,,,,,,,,,,,,,,,
+Player,JerseyNumber,Position,GamesPlayed,KickReturnsTotal,KickReturnsTotalGrade,KickoffReturnsTotal,KickoffReturnsTotalYards,KickoffReturnsTotalYards.1,KickoffReturnsLongestReturn,KickoffReturnsYardsPerAttempt,KickoffReturnsTouchdowns,KickoffReturnsFairCatches,KickoffReturnsMuffed,PuntReturnsTotal,PuntReturnsTotalReturns,PuntReturnsTotalYards,PuntReturnsTotalFairCatches,PuntReturnsTotalLongestReturn,PuntReturnsTotalYardsPerAttempt,PuntReturnsTotalTouchdowns,PuntReturnsTotalMuffed
+Kalif Raymond,#11,WR,17.0,73.0,29.0,58.1,0.0,0.0,0.0,,0.0,1.0,0.0,78.4,29.0,331.0,23.0,42.0,11.4,0.0,1.0
+Donovan Peoples-Jones,#19,WR,11.0,61.6,4.0,-,0.0,0.0,0.0,,0.0,0.0,0.0,62.1,4.0,32.0,0.0,10.0,8.0,0.0,0.0
+Sam LaPorta,#87,TE,20.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Amon-Ra St. Brown,#14,WR,19.0,61.2,0.0,61.2,0.0,0.0,0.0,,0.0,1.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Malcolm Rodriguez,#44,LB,20.0,61.2,1.0,61.2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Mohamed Ibrahim,#35,HB,1.0,61.2,1.0,61.2,1.0,22.0,22.0,22.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Khalil Dorsey,#30,CB,16.0,59.9,12.0,59.9,12.0,244.0,30.0,20.3,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Zonovan Knight,#28,HB,2.0,57.9,1.0,58.1,1.0,22.0,22.0,22.0,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+Craig Reynolds,#13,HB,20.0,44.3,5.0,45.9,5.0,133.0,31.0,26.6,0.0,0.0,0.0,-,0.0,0.0,0.0,0.0,,0.0,0.0
+,,,,,,,,,,,,,,,,,,,,,
