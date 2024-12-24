@@ -1,0 +1,350 @@
+2024-12-24 05:25:13,256:INFO:Setting up TestAgent instance
+2024-12-24 05:25:13,774:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:13,860:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:13,951:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:14,038:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:14,135:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:14,136:INFO:TestAgent instance setup completed
+2024-12-24 05:25:14,137:INFO:Testing react_loop_get_draft_order
+2024-12-24 05:25:14,137:INFO:Iteration: 1
+2024-12-24 05:25:14,137:INFO:Thought: I should use get_draft_order to get the current draft order.
+2024-12-24 05:25:14,137:INFO:Action: get_draft_order()
+2024-12-24 05:25:14,137:INFO:Executing action: get_draft_order()
+2024-12-24 05:25:14,139:INFO:Observation: Observation: Current draft order:
+Pick 1: Chicago Bears
+Pick 2: Washington Commanders
+Pick 3: New England Patriots
+Pick 4: Arizona Cardinals
+Pick 5: Los Angeles Chargers
+Pick 6: New York Giants
+Pick 7: Tennessee Titans
+Pick 8: Atlanta Falcons
+Pick 9: Chicago Bears
+Pick 10: Minnesota Vikings
+Pick 11: New York Jets
+Pick 12: Denver Broncos
+Pick 13: Las Vegas Raiders
+Pick 14: New Orleans Saints
+Pick 15: Indianapolis Colts
+Pick 16: Seattle Seahawks
+Pick 17: Minnesota Vikings
+Pick 18: Cincinnati Bengals
+Pick 19: Los Angeles Rams
+Pick 20: Pittsburgh Steelers
+Pick 21: Miami Dolphins
+Pick 22: Philadelphia Eagles
+Pick 23: Jacksonville Jaguars
+Pick 24: Detroit Lions
+Pick 25: Green Bay Packers
+Pick 26: Tampa Bay Buccaneers
+Pick 27: Arizona Cardinals
+Pick 28: Kansas City Chiefs
+Pick 29: Dallas Cowboys
+Pick 30: Baltimore Ravens
+Pick 31: San Francisco 49ers
+Pick 32: Carolina Panthers
+2024-12-24 05:25:14,139:INFO:Iteration: 2
+2024-12-24 05:25:14,139:INFO:Thought: I should use get_draft_order to get the current draft order.
+2024-12-24 05:25:14,139:INFO:Action: get_draft_order()
+2024-12-24 05:25:14,139:INFO:Executing action: get_draft_order()
+2024-12-24 05:25:14,140:INFO:Observation: Observation: Current draft order:
+Pick 1: Chicago Bears
+Pick 2: Washington Commanders
+Pick 3: New England Patriots
+Pick 4: Arizona Cardinals
+Pick 5: Los Angeles Chargers
+Pick 6: New York Giants
+Pick 7: Tennessee Titans
+Pick 8: Atlanta Falcons
+Pick 9: Chicago Bears
+Pick 10: Minnesota Vikings
+Pick 11: New York Jets
+Pick 12: Denver Broncos
+Pick 13: Las Vegas Raiders
+Pick 14: New Orleans Saints
+Pick 15: Indianapolis Colts
+Pick 16: Seattle Seahawks
+Pick 17: Minnesota Vikings
+Pick 18: Cincinnati Bengals
+Pick 19: Los Angeles Rams
+Pick 20: Pittsburgh Steelers
+Pick 21: Miami Dolphins
+Pick 22: Philadelphia Eagles
+Pick 23: Jacksonville Jaguars
+Pick 24: Detroit Lions
+Pick 25: Green Bay Packers
+Pick 26: Tampa Bay Buccaneers
+Pick 27: Arizona Cardinals
+Pick 28: Kansas City Chiefs
+Pick 29: Dallas Cowboys
+Pick 30: Baltimore Ravens
+Pick 31: San Francisco 49ers
+Pick 32: Carolina Panthers
+2024-12-24 05:25:14,140:INFO:Iteration: 3
+2024-12-24 05:25:14,140:INFO:Thought: I should use get_draft_order to get the current draft order.
+2024-12-24 05:25:14,140:INFO:Action: get_draft_order()
+2024-12-24 05:25:14,140:INFO:Executing action: get_draft_order()
+2024-12-24 05:25:14,141:INFO:Observation: Observation: Current draft order:
+Pick 1: Chicago Bears
+Pick 2: Washington Commanders
+Pick 3: New England Patriots
+Pick 4: Arizona Cardinals
+Pick 5: Los Angeles Chargers
+Pick 6: New York Giants
+Pick 7: Tennessee Titans
+Pick 8: Atlanta Falcons
+Pick 9: Chicago Bears
+Pick 10: Minnesota Vikings
+Pick 11: New York Jets
+Pick 12: Denver Broncos
+Pick 13: Las Vegas Raiders
+Pick 14: New Orleans Saints
+Pick 15: Indianapolis Colts
+Pick 16: Seattle Seahawks
+Pick 17: Minnesota Vikings
+Pick 18: Cincinnati Bengals
+Pick 19: Los Angeles Rams
+Pick 20: Pittsburgh Steelers
+Pick 21: Miami Dolphins
+Pick 22: Philadelphia Eagles
+Pick 23: Jacksonville Jaguars
+Pick 24: Detroit Lions
+Pick 25: Green Bay Packers
+Pick 26: Tampa Bay Buccaneers
+Pick 27: Arizona Cardinals
+Pick 28: Kansas City Chiefs
+Pick 29: Dallas Cowboys
+Pick 30: Baltimore Ravens
+Pick 31: San Francisco 49ers
+Pick 32: Carolina Panthers
+2024-12-24 05:25:14,141:INFO:Iteration: 4
+2024-12-24 05:25:14,141:INFO:Thought: I should use get_draft_order to get the current draft order.
+2024-12-24 05:25:14,141:INFO:Action: get_draft_order()
+2024-12-24 05:25:14,141:INFO:Executing action: get_draft_order()
+2024-12-24 05:25:14,142:INFO:Observation: Observation: Current draft order:
+Pick 1: Chicago Bears
+Pick 2: Washington Commanders
+Pick 3: New England Patriots
+Pick 4: Arizona Cardinals
+Pick 5: Los Angeles Chargers
+Pick 6: New York Giants
+Pick 7: Tennessee Titans
+Pick 8: Atlanta Falcons
+Pick 9: Chicago Bears
+Pick 10: Minnesota Vikings
+Pick 11: New York Jets
+Pick 12: Denver Broncos
+Pick 13: Las Vegas Raiders
+Pick 14: New Orleans Saints
+Pick 15: Indianapolis Colts
+Pick 16: Seattle Seahawks
+Pick 17: Minnesota Vikings
+Pick 18: Cincinnati Bengals
+Pick 19: Los Angeles Rams
+Pick 20: Pittsburgh Steelers
+Pick 21: Miami Dolphins
+Pick 22: Philadelphia Eagles
+Pick 23: Jacksonville Jaguars
+Pick 24: Detroit Lions
+Pick 25: Green Bay Packers
+Pick 26: Tampa Bay Buccaneers
+Pick 27: Arizona Cardinals
+Pick 28: Kansas City Chiefs
+Pick 29: Dallas Cowboys
+Pick 30: Baltimore Ravens
+Pick 31: San Francisco 49ers
+Pick 32: Carolina Panthers
+2024-12-24 05:25:14,142:INFO:Iteration: 5
+2024-12-24 05:25:14,142:INFO:Thought: I should use get_draft_order to get the current draft order.
+2024-12-24 05:25:14,142:INFO:Action: get_draft_order()
+2024-12-24 05:25:14,142:INFO:Executing action: get_draft_order()
+2024-12-24 05:25:14,142:INFO:Observation: Observation: Current draft order:
+Pick 1: Chicago Bears
+Pick 2: Washington Commanders
+Pick 3: New England Patriots
+Pick 4: Arizona Cardinals
+Pick 5: Los Angeles Chargers
+Pick 6: New York Giants
+Pick 7: Tennessee Titans
+Pick 8: Atlanta Falcons
+Pick 9: Chicago Bears
+Pick 10: Minnesota Vikings
+Pick 11: New York Jets
+Pick 12: Denver Broncos
+Pick 13: Las Vegas Raiders
+Pick 14: New Orleans Saints
+Pick 15: Indianapolis Colts
+Pick 16: Seattle Seahawks
+Pick 17: Minnesota Vikings
+Pick 18: Cincinnati Bengals
+Pick 19: Los Angeles Rams
+Pick 20: Pittsburgh Steelers
+Pick 21: Miami Dolphins
+Pick 22: Philadelphia Eagles
+Pick 23: Jacksonville Jaguars
+Pick 24: Detroit Lions
+Pick 25: Green Bay Packers
+Pick 26: Tampa Bay Buccaneers
+Pick 27: Arizona Cardinals
+Pick 28: Kansas City Chiefs
+Pick 29: Dallas Cowboys
+Pick 30: Baltimore Ravens
+Pick 31: San Francisco 49ers
+Pick 32: Carolina Panthers
+2024-12-24 05:25:14,145:INFO:Setting up TestAgent instance
+2024-12-24 05:25:14,568:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:14,654:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:14,743:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:14,956:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:15,169:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:15,170:INFO:TestAgent instance setup completed
+2024-12-24 05:25:15,170:INFO:Testing react_loop_get_player_stats for player: Marvin Harrison Jr.
+2024-12-24 05:25:15,171:INFO:Iteration: 1
+2024-12-24 05:25:15,171:INFO:Thought: I should use get_player_stats to get the stats for Marvin Harrison Jr..
+2024-12-24 05:25:15,171:INFO:Action: get_player_stats('')
+2024-12-24 05:25:15,171:INFO:Executing action: get_player_stats('')
+2024-12-24 05:25:15,171:INFO:Observation: Observation: Player: James Conner
+Position: HB
+Games Played: 13.0
+Overall Grade: 89.2
+Total Snaps: 531
+2024-12-24 05:25:15,172:INFO:Iteration: 2
+2024-12-24 05:25:15,172:INFO:Thought: I should use get_player_stats to get the stats for Marvin Harrison Jr..
+2024-12-24 05:25:15,172:INFO:Action: get_player_stats('')
+2024-12-24 05:25:15,172:INFO:Executing action: get_player_stats('')
+2024-12-24 05:25:15,172:INFO:Observation: Observation: Player: James Conner
+Position: HB
+Games Played: 13.0
+Overall Grade: 89.2
+Total Snaps: 531
+2024-12-24 05:25:15,172:INFO:Iteration: 3
+2024-12-24 05:25:15,173:INFO:Thought: I should use get_player_stats to get the stats for Marvin Harrison Jr..
+2024-12-24 05:25:15,173:INFO:Action: get_player_stats('')
+2024-12-24 05:25:15,173:INFO:Executing action: get_player_stats('')
+2024-12-24 05:25:15,173:INFO:Observation: Observation: Player: James Conner
+Position: HB
+Games Played: 13.0
+Overall Grade: 89.2
+Total Snaps: 531
+2024-12-24 05:25:15,173:INFO:Iteration: 4
+2024-12-24 05:25:15,173:INFO:Thought: I should use get_player_stats to get the stats for Marvin Harrison Jr..
+2024-12-24 05:25:15,174:INFO:Action: get_player_stats('')
+2024-12-24 05:25:15,174:INFO:Executing action: get_player_stats('')
+2024-12-24 05:25:15,174:INFO:Observation: Observation: Player: James Conner
+Position: HB
+Games Played: 13.0
+Overall Grade: 89.2
+Total Snaps: 531
+2024-12-24 05:25:15,174:INFO:Iteration: 5
+2024-12-24 05:25:15,174:INFO:Thought: I should use get_player_stats to get the stats for Marvin Harrison Jr..
+2024-12-24 05:25:15,174:INFO:Action: get_player_stats('')
+2024-12-24 05:25:15,174:INFO:Executing action: get_player_stats('')
+2024-12-24 05:25:15,175:INFO:Observation: Observation: Player: James Conner
+Position: HB
+Games Played: 13.0
+Overall Grade: 89.2
+Total Snaps: 531
+2024-12-24 05:25:15,176:INFO:Setting up TestAgent instance
+2024-12-24 05:25:15,589:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:15,680:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:15,890:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:15,983:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:16,073:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:16,074:INFO:TestAgent instance setup completed
+2024-12-24 05:25:16,074:INFO:Testing react_loop_get_remaining_needs for team: arizona-cardinals
+2024-12-24 05:25:16,074:INFO:Iteration: 1
+2024-12-24 05:25:16,075:INFO:Thought: I should use get_remaining_needs to get the remaining needs for arizona-cardinals.
+2024-12-24 05:25:16,075:INFO:Action: get_remaining_needs('to')
+2024-12-24 05:25:16,075:INFO:Executing action: get_remaining_needs('to')
+2024-12-24 05:25:16,076:INFO:Observation: Observation: Error analyzing team needs: near "-": syntax error
+2024-12-24 05:25:16,076:INFO:Iteration: 2
+2024-12-24 05:25:16,076:INFO:Thought: I should use get_remaining_needs to get the remaining needs for arizona-cardinals.
+2024-12-24 05:25:16,076:INFO:Action: get_remaining_needs('to')
+2024-12-24 05:25:16,076:INFO:Executing action: get_remaining_needs('to')
+2024-12-24 05:25:16,077:INFO:Observation: Observation: Error analyzing team needs: near "-": syntax error
+2024-12-24 05:25:16,077:INFO:Iteration: 3
+2024-12-24 05:25:16,077:INFO:Thought: I should use get_remaining_needs to get the remaining needs for arizona-cardinals.
+2024-12-24 05:25:16,077:INFO:Action: get_remaining_needs('to')
+2024-12-24 05:25:16,077:INFO:Executing action: get_remaining_needs('to')
+2024-12-24 05:25:16,078:INFO:Observation: Observation: Error analyzing team needs: near "-": syntax error
+2024-12-24 05:25:16,079:INFO:Iteration: 4
+2024-12-24 05:25:16,079:INFO:Thought: I should use get_remaining_needs to get the remaining needs for arizona-cardinals.
+2024-12-24 05:25:16,079:INFO:Action: get_remaining_needs('to')
+2024-12-24 05:25:16,079:INFO:Executing action: get_remaining_needs('to')
+2024-12-24 05:25:16,080:INFO:Observation: Observation: Error analyzing team needs: near "-": syntax error
+2024-12-24 05:25:16,080:INFO:Iteration: 5
+2024-12-24 05:25:16,080:INFO:Thought: I should use get_remaining_needs to get the remaining needs for arizona-cardinals.
+2024-12-24 05:25:16,080:INFO:Action: get_remaining_needs('to')
+2024-12-24 05:25:16,080:INFO:Executing action: get_remaining_needs('to')
+2024-12-24 05:25:16,081:INFO:Observation: Observation: Error analyzing team needs: near "-": syntax error
+2024-12-24 05:25:16,081:INFO:Setting up TestAgent instance
+2024-12-24 05:25:16,484:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:16,575:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:16,668:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:16,769:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:16,863:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:16,864:INFO:TestAgent instance setup completed
+2024-12-24 05:25:16,865:INFO:Testing react_loop_get_team_roster with team: arizona-cardinals
+2024-12-24 05:25:16,865:INFO:Iteration: 1
+2024-12-24 05:25:16,865:INFO:Thought: I should use get_team_roster to get the roster for arizona-cardinals.
+2024-12-24 05:25:16,865:INFO:Action: get_team_roster('to')
+2024-12-24 05:25:16,865:INFO:Executing action: get_team_roster('to')
+2024-12-24 05:25:16,867:INFO:Observation: Observation: Error retrieving roster: near "-": syntax error
+2024-12-24 05:25:16,867:INFO:Iteration: 2
+2024-12-24 05:25:16,867:INFO:Thought: I should use get_team_roster to get the roster for arizona-cardinals.
+2024-12-24 05:25:16,867:INFO:Action: get_team_roster('to')
+2024-12-24 05:25:16,867:INFO:Executing action: get_team_roster('to')
+2024-12-24 05:25:16,869:INFO:Observation: Observation: Error retrieving roster: near "-": syntax error
+2024-12-24 05:25:16,869:INFO:Iteration: 3
+2024-12-24 05:25:16,869:INFO:Thought: I should use get_team_roster to get the roster for arizona-cardinals.
+2024-12-24 05:25:16,869:INFO:Action: get_team_roster('to')
+2024-12-24 05:25:16,869:INFO:Executing action: get_team_roster('to')
+2024-12-24 05:25:16,870:INFO:Observation: Observation: Error retrieving roster: near "-": syntax error
+2024-12-24 05:25:16,870:INFO:Iteration: 4
+2024-12-24 05:25:16,870:INFO:Thought: I should use get_team_roster to get the roster for arizona-cardinals.
+2024-12-24 05:25:16,870:INFO:Action: get_team_roster('to')
+2024-12-24 05:25:16,870:INFO:Executing action: get_team_roster('to')
+2024-12-24 05:25:16,871:INFO:Observation: Observation: Error retrieving roster: near "-": syntax error
+2024-12-24 05:25:16,871:INFO:Iteration: 5
+2024-12-24 05:25:16,871:INFO:Thought: I should use get_team_roster to get the roster for arizona-cardinals.
+2024-12-24 05:25:16,871:INFO:Action: get_team_roster('to')
+2024-12-24 05:25:16,871:INFO:Executing action: get_team_roster('to')
+2024-12-24 05:25:16,873:INFO:Observation: Observation: Error retrieving roster: near "-": syntax error
+2024-12-24 05:25:16,874:INFO:Setting up TestAgent instance
+2024-12-24 05:25:17,289:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:17,376:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:17,469:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:17,559:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:17,648:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:25:17,691:INFO:TestAgent instance setup completed
+2024-12-24 05:25:17,691:INFO:Testing react_loop_make_draft_pick for team: arizona-cardinals and player: Marvin Harrison Jr.
+2024-12-24 05:25:17,691:INFO:Iteration: 1
+2024-12-24 05:25:17,691:INFO:Thought: I should use make_draft_pick to draft Marvin Harrison Jr..
+2024-12-24 05:25:17,691:INFO:Action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,692:INFO:Executing action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,692:INFO:Observation: Observation: It is not _pick's turn to pick. Current pick belongs to Chicago Bears
+2024-12-24 05:25:17,692:INFO:Iteration: 2
+2024-12-24 05:25:17,692:INFO:Thought: I should use make_draft_pick to draft Marvin Harrison Jr..
+2024-12-24 05:25:17,693:INFO:Action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,693:INFO:Executing action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,693:INFO:Observation: Observation: It is not _pick's turn to pick. Current pick belongs to Chicago Bears
+2024-12-24 05:25:17,693:INFO:Iteration: 3
+2024-12-24 05:25:17,693:INFO:Thought: I should use make_draft_pick to draft Marvin Harrison Jr..
+2024-12-24 05:25:17,693:INFO:Action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,694:INFO:Executing action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,694:INFO:Observation: Observation: It is not _pick's turn to pick. Current pick belongs to Chicago Bears
+2024-12-24 05:25:17,695:INFO:Iteration: 4
+2024-12-24 05:25:17,695:INFO:Thought: I should use make_draft_pick to draft Marvin Harrison Jr..
+2024-12-24 05:25:17,695:INFO:Action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,695:INFO:Executing action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,696:INFO:Observation: Observation: It is not _pick's turn to pick. Current pick belongs to Chicago Bears
+2024-12-24 05:25:17,696:INFO:Iteration: 5
+2024-12-24 05:25:17,696:INFO:Thought: I should use make_draft_pick to draft Marvin Harrison Jr..
+2024-12-24 05:25:17,696:INFO:Action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,696:INFO:Executing action: make_draft_pick('_pick', '')
+2024-12-24 05:25:17,696:INFO:Observation: Observation: It is not _pick's turn to pick. Current pick belongs to Chicago Bears
+2024-12-24 05:25:17,697:INFO:Setting up TestTools class
+2024-12-24 05:25:17,697:WARNING:Could not delete test_nfl_draft.db: [WinError 32] The process cannot access the file because it is being used by another process: 'test_nfl_draft.db'
+2024-12-24 05:25:17,704:INFO:Test database setup completed
+2024-12-24 05:25:17,704:INFO:Database Structure: Main Test Database
+2024-12-24 05:25:17,704:ERROR:Error during database setup: 'NoneType' object has no attribute 'cursor'

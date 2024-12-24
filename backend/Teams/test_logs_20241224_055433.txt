@@ -1,0 +1,230 @@
+2024-12-24 05:54:33,270:INFO:Setting up TestAgent instance
+2024-12-24 05:54:33,856:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:34,079:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:34,300:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:34,399:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:34,497:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:34,498:INFO:TestAgent instance setup completed
+2024-12-24 05:54:34,499:INFO:Testing react_loop_get_draft_order
+2024-12-24 05:54:34,499:INFO:Iteration: 1
+2024-12-24 05:54:34,499:INFO:Thought: I should use get_draft_order to get the current draft order.
+2024-12-24 05:54:34,499:INFO:Sending tool selection prompt to LLM: 
+Given the following thought and available tools, determine the most appropriate tool to use and its arguments.
+
+Thought: I should use get_draft_order to get the current draft order.
+
+Available Tools:
+- get_team_roster(team_name: str, team_db_path: Optional[str] = None) -> str: Retrieves the roster for a given team.
+- get_player_stats(player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Retrieves stats for a given player.
+- get_draft_order(db_path: Optional[str] = None) -> str: Retrieves the current draft order.
+- get_remaining_needs(team_name: str, team_db_path: Optional[str] = None) -> str: Analyzes a team's roster and identifies positional needs.
+- make_draft_pick(team_name: str, player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Makes a draft pick.
+
+
+Respond in the format 'Tool: tool_name(arg1, arg2, ...)' if a tool is appropriate, or 'Respond: ...' if no tool is needed or you are unsure. Do not make up any tools or arguments.
+
+2024-12-24 05:54:34,699:INFO:HTTP Request: POST https://api.cerebras.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-24 05:54:34,716:INFO:LLM tool selection response: Tool: get_draft_order()
+2024-12-24 05:54:34,716:INFO:Action: Action: get_draft_order()
+2024-12-24 05:54:34,716:INFO:Executing action: Action: get_draft_order()
+2024-12-24 05:54:34,716:INFO:DB path: test_nfl_draft.db
+2024-12-24 05:54:34,716:INFO:Team DB path: None
+2024-12-24 05:54:34,718:INFO:Observation: Observation: Current draft order:
+Pick 1: Chicago Bears
+Pick 2: Washington Commanders
+Pick 3: New England Patriots
+Pick 4: Arizona Cardinals
+Pick 5: Los Angeles Chargers
+Pick 6: New York Giants
+Pick 7: Tennessee Titans
+Pick 8: Atlanta Falcons
+Pick 9: Chicago Bears
+Pick 10: Minnesota Vikings
+Pick 11: New York Jets
+Pick 12: Denver Broncos
+Pick 13: Las Vegas Raiders
+Pick 14: New Orleans Saints
+Pick 15: Indianapolis Colts
+Pick 16: Seattle Seahawks
+Pick 17: Minnesota Vikings
+Pick 18: Cincinnati Bengals
+Pick 19: Los Angeles Rams
+Pick 20: Pittsburgh Steelers
+Pick 21: Miami Dolphins
+Pick 22: Philadelphia Eagles
+Pick 23: Jacksonville Jaguars
+Pick 24: Detroit Lions
+Pick 25: Green Bay Packers
+Pick 26: Tampa Bay Buccaneers
+Pick 27: Arizona Cardinals
+Pick 28: Kansas City Chiefs
+Pick 29: Dallas Cowboys
+Pick 30: Baltimore Ravens
+Pick 31: San Francisco 49ers
+Pick 32: Carolina Panthers
+2024-12-24 05:54:34,719:INFO:Iteration: 2
+2024-12-24 05:54:34,719:INFO:Thought: I should use get_draft_order to get the current draft order.
+2024-12-24 05:54:34,719:INFO:Sending tool selection prompt to LLM: 
+Given the following thought and available tools, determine the most appropriate tool to use and its arguments.
+
+Thought: I should use get_draft_order to get the current draft order.
+
+Available Tools:
+- get_team_roster(team_name: str, team_db_path: Optional[str] = None) -> str: Retrieves the roster for a given team.
+- get_player_stats(player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Retrieves stats for a given player.
+- get_draft_order(db_path: Optional[str] = None) -> str: Retrieves the current draft order.
+- get_remaining_needs(team_name: str, team_db_path: Optional[str] = None) -> str: Analyzes a team's roster and identifies positional needs.
+- make_draft_pick(team_name: str, player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Makes a draft pick.
+
+
+Respond in the format 'Tool: tool_name(arg1, arg2, ...)' if a tool is appropriate, or 'Respond: ...' if no tool is needed or you are unsure. Do not make up any tools or arguments.
+
+2024-12-24 05:54:35,073:INFO:HTTP Request: POST https://api.cerebras.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-24 05:54:35,074:INFO:LLM tool selection response: Tool: get_draft_order() 
+
+Since you want to get the current draft order, the get_draft_order function seems like the most suitable option. It is specifically designed to retrieve the current draft order.
+2024-12-24 05:54:35,074:INFO:Action: Action: get_draft_order() 
+
+Since you want to get the current draft order, the get_draft_order function seems like the most suitable option. It is specifically designed to retrieve the current draft order.
+2024-12-24 05:54:35,074:INFO:Executing action: Action: get_draft_order() 
+
+Since you want to get the current draft order, the get_draft_order function seems like the most suitable option. It is specifically designed to retrieve the current draft order.
+2024-12-24 05:54:35,074:INFO:DB path: test_nfl_draft.db
+2024-12-24 05:54:35,074:INFO:Team DB path: None
+2024-12-24 05:54:35,074:ERROR:Error executing action: get_draft_order() got multiple values for argument 'db_path'
+2024-12-24 05:54:35,074:INFO:Observation: Error executing action: get_draft_order() got multiple values for argument 'db_path'
+2024-12-24 05:54:35,076:INFO:Setting up TestAgent instance
+2024-12-24 05:54:35,533:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:35,629:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:35,720:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:35,809:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:35,898:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:35,899:INFO:TestAgent instance setup completed
+2024-12-24 05:54:35,900:INFO:Testing react_loop_get_player_stats for player: Kyler Murray
+2024-12-24 05:54:35,900:INFO:Iteration: 1
+2024-12-24 05:54:35,900:INFO:Thought: I should use get_player_stats to get the stats for Kyler Murray.
+2024-12-24 05:54:35,901:INFO:Sending tool selection prompt to LLM: 
+Given the following thought and available tools, determine the most appropriate tool to use and its arguments.
+
+Thought: I should use get_player_stats to get the stats for Kyler Murray.
+
+Available Tools:
+- get_team_roster(team_name: str, team_db_path: Optional[str] = None) -> str: Retrieves the roster for a given team.
+- get_player_stats(player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Retrieves stats for a given player.
+- get_draft_order(db_path: Optional[str] = None) -> str: Retrieves the current draft order.
+- get_remaining_needs(team_name: str, team_db_path: Optional[str] = None) -> str: Analyzes a team's roster and identifies positional needs.
+- make_draft_pick(team_name: str, player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Makes a draft pick.
+
+
+Respond in the format 'Tool: tool_name(arg1, arg2, ...)' if a tool is appropriate, or 'Respond: ...' if no tool is needed or you are unsure. Do not make up any tools or arguments.
+
+2024-12-24 05:54:36,233:INFO:HTTP Request: POST https://api.cerebras.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-24 05:54:36,234:INFO:LLM tool selection response: Tool: get_player_stats(player_name='Kyler Murray')
+2024-12-24 05:54:36,234:INFO:Action: Action: get_player_stats(player_name='Kyler Murray')
+2024-12-24 05:54:36,234:INFO:Executing action: Action: get_player_stats(player_name='Kyler Murray')
+2024-12-24 05:54:36,234:INFO:DB path: test_nfl_draft.db
+2024-12-24 05:54:36,234:INFO:Team DB path: test_team_databases\arizona-cardinals\team_data.db
+2024-12-24 05:54:36,235:INFO:Observation: Observation: Error retrieving stats: no such table: special_teams
+2024-12-24 05:54:36,236:INFO:Setting up TestAgent instance
+2024-12-24 05:54:36,751:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:36,857:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:36,955:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:37,182:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:37,400:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:37,401:INFO:TestAgent instance setup completed
+2024-12-24 05:54:37,402:INFO:Testing react_loop_get_remaining_needs for team: arizona-cardinals
+2024-12-24 05:54:37,402:INFO:Iteration: 1
+2024-12-24 05:54:37,402:INFO:Thought: I should use get_remaining_needs to get the remaining needs for arizona-cardinals.
+2024-12-24 05:54:37,402:INFO:Sending tool selection prompt to LLM: 
+Given the following thought and available tools, determine the most appropriate tool to use and its arguments.
+
+Thought: I should use get_remaining_needs to get the remaining needs for arizona-cardinals.
+
+Available Tools:
+- get_team_roster(team_name: str, team_db_path: Optional[str] = None) -> str: Retrieves the roster for a given team.
+- get_player_stats(player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Retrieves stats for a given player.
+- get_draft_order(db_path: Optional[str] = None) -> str: Retrieves the current draft order.
+- get_remaining_needs(team_name: str, team_db_path: Optional[str] = None) -> str: Analyzes a team's roster and identifies positional needs.
+- make_draft_pick(team_name: str, player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Makes a draft pick.
+
+
+Respond in the format 'Tool: tool_name(arg1, arg2, ...)' if a tool is appropriate, or 'Respond: ...' if no tool is needed or you are unsure. Do not make up any tools or arguments.
+
+2024-12-24 05:54:37,613:INFO:HTTP Request: POST https://api.cerebras.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-24 05:54:37,613:INFO:LLM tool selection response: Tool: get_remaining_needs(team_name="arizona-cardinals")
+2024-12-24 05:54:37,614:INFO:Action: Action: get_remaining_needs(team_name="arizona-cardinals")
+2024-12-24 05:54:37,614:INFO:Executing action: Action: get_remaining_needs(team_name="arizona-cardinals")
+2024-12-24 05:54:37,614:INFO:DB path: test_nfl_draft.db
+2024-12-24 05:54:37,614:INFO:Team DB path: test_team_databases\arizona-cardinals\team_data.db
+2024-12-24 05:54:37,615:INFO:Observation: Observation: Error analyzing team needs: no such table: special_teams
+2024-12-24 05:54:37,616:INFO:Setting up TestAgent instance
+2024-12-24 05:54:38,061:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:38,196:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:38,297:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:38,392:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:38,487:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:38,488:INFO:TestAgent instance setup completed
+2024-12-24 05:54:38,489:INFO:Testing react_loop_get_team_roster with team: arizona-cardinals
+2024-12-24 05:54:38,489:INFO:Iteration: 1
+2024-12-24 05:54:38,489:INFO:Thought: I should use get_team_roster to get the roster for arizona-cardinals.
+2024-12-24 05:54:38,489:INFO:Sending tool selection prompt to LLM: 
+Given the following thought and available tools, determine the most appropriate tool to use and its arguments.
+
+Thought: I should use get_team_roster to get the roster for arizona-cardinals.
+
+Available Tools:
+- get_team_roster(team_name: str, team_db_path: Optional[str] = None) -> str: Retrieves the roster for a given team.
+- get_player_stats(player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Retrieves stats for a given player.
+- get_draft_order(db_path: Optional[str] = None) -> str: Retrieves the current draft order.
+- get_remaining_needs(team_name: str, team_db_path: Optional[str] = None) -> str: Analyzes a team's roster and identifies positional needs.
+- make_draft_pick(team_name: str, player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Makes a draft pick.
+
+
+Respond in the format 'Tool: tool_name(arg1, arg2, ...)' if a tool is appropriate, or 'Respond: ...' if no tool is needed or you are unsure. Do not make up any tools or arguments.
+
+2024-12-24 05:54:38,619:INFO:HTTP Request: POST https://api.cerebras.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-24 05:54:38,619:INFO:LLM tool selection response: Tool: get_team_roster(team_name="arizona-cardinals", team_db_path=None)
+2024-12-24 05:54:38,619:INFO:Action: Action: get_team_roster(team_name="arizona-cardinals", team_db_path=None)
+2024-12-24 05:54:38,619:INFO:Executing action: Action: get_team_roster(team_name="arizona-cardinals", team_db_path=None)
+2024-12-24 05:54:38,619:INFO:DB path: test_nfl_draft.db
+2024-12-24 05:54:38,619:INFO:Team DB path: test_team_databases\arizona-cardinals\team_data.db
+2024-12-24 05:54:38,619:ERROR:Error executing action: get_team_roster() got multiple values for argument 'team_db_path'
+2024-12-24 05:54:38,619:INFO:Observation: Error executing action: get_team_roster() got multiple values for argument 'team_db_path'
+2024-12-24 05:54:38,620:INFO:Setting up TestAgent instance
+2024-12-24 05:54:39,046:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:39,143:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:39,231:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:39,322:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:39,417:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 05:54:39,418:INFO:TestAgent instance setup completed
+2024-12-24 05:54:39,418:INFO:Testing react_loop_make_draft_pick for team: arizona-cardinals and player: Kyler Murray
+2024-12-24 05:54:39,418:INFO:Iteration: 1
+2024-12-24 05:54:39,419:INFO:Thought: I should use make_draft_pick to draft Kyler Murray.
+2024-12-24 05:54:39,419:INFO:Sending tool selection prompt to LLM: 
+Given the following thought and available tools, determine the most appropriate tool to use and its arguments.
+
+Thought: I should use make_draft_pick to draft Kyler Murray.
+
+Available Tools:
+- get_team_roster(team_name: str, team_db_path: Optional[str] = None) -> str: Retrieves the roster for a given team.
+- get_player_stats(player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Retrieves stats for a given player.
+- get_draft_order(db_path: Optional[str] = None) -> str: Retrieves the current draft order.
+- get_remaining_needs(team_name: str, team_db_path: Optional[str] = None) -> str: Analyzes a team's roster and identifies positional needs.
+- make_draft_pick(team_name: str, player_name: str, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str: Makes a draft pick.
+
+
+Respond in the format 'Tool: tool_name(arg1, arg2, ...)' if a tool is appropriate, or 'Respond: ...' if no tool is needed or you are unsure. Do not make up any tools or arguments.
+
+2024-12-24 05:54:39,635:INFO:HTTP Request: POST https://api.cerebras.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-24 05:54:39,636:INFO:LLM tool selection response: Tool: make_draft_pick(team_name='your_team_name', player_name='Kyler Murray', db_path='your_database_path', team_db_path='your_team_database_path')
+2024-12-24 05:54:39,636:INFO:Action: Action: make_draft_pick(team_name='your_team_name', player_name='Kyler Murray', db_path='your_database_path', team_db_path='your_team_database_path')
+2024-12-24 05:54:39,636:INFO:Executing action: Action: make_draft_pick(team_name='your_team_name', player_name='Kyler Murray', db_path='your_database_path', team_db_path='your_team_database_path')
+2024-12-24 05:54:39,636:INFO:DB path: test_nfl_draft.db
+2024-12-24 05:54:39,636:INFO:Team DB path: test_team_databases\arizona-cardinals\team_data.db
+2024-12-24 05:54:39,636:ERROR:Error executing action: make_draft_pick() got multiple values for argument 'db_path'
+2024-12-24 05:54:39,636:INFO:Observation: Error executing action: make_draft_pick() got multiple values for argument 'db_path'
+2024-12-24 05:54:39,637:INFO:Setting up TestTools class
+2024-12-24 05:54:39,637:WARNING:Could not delete test_nfl_draft.db: [WinError 32] The process cannot access the file because it is being used by another process: 'test_nfl_draft.db'
+2024-12-24 05:54:39,643:INFO:Test database setup completed
+2024-12-24 05:54:39,643:INFO:Database Structure: Main Test Database
+2024-12-24 05:54:39,643:ERROR:Error during database setup: 'NoneType' object has no attribute 'cursor'

@@ -1,0 +1,29 @@
+Team: arizona-cardinals\n==================================================\n\nBased on the provided information, the schema for the table that contains offensive, defensive, and special teams data for the Arizona Cardinals is as follows:
+
+- The table name is not explicitly mentioned, but based on the column names, it appears to be related to the team's depth chart.
+- The table has 44 columns, including:
+  - Player name
+  - Jersey number
+  - Position
+  - Games played
+  - Snaps played (offense, defense, and special teams)
+  - Grades (offense, defense, and special teams)
+  - Penalties
+  - Defensive statistics (tackles, assists, missed tackles, stops, forced fumbles, targets, receptions allowed, yards allowed, etc.)
+  - Special teams statistics (returns, yards, touchdowns, etc.)
+
+Since the table does not contain any information about the special teams depth chart, the final answer is that the table does not have a special teams depth chart.
+
+However, to determine the offensive and defensive depth charts, we can use the following SQL queries:
+
+```
+SELECT Player, Position, GamesPlayed, OffenseOverallGrade 
+FROM offense_depth_chart 
+ORDER BY OffenseOverallGrade DESC;
+
+SELECT Player, Position, GamesPlayed, DefenseOverallGrade 
+FROM defense_depth_chart 
+ORDER BY DefenseOverallGrade DESC;
+```
+
+These queries will return the players with the highest grades for offense and defense, which can be used to determine the depth chart.

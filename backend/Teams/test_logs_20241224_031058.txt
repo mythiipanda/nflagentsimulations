@@ -1,0 +1,40 @@
+2024-12-24 03:10:58,550:INFO:Setting up TestAgent instance
+2024-12-24 03:10:59,038:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:10:59,137:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:10:59,224:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:10:59,312:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:10:59,525:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:10:59,526:INFO:TestAgent instance setup completed
+2024-12-24 03:10:59,526:INFO:Testing react_loop_get_player_stats for player: Marvin Harrison Jr.
+2024-12-24 03:10:59,527:INFO:Setting up TestAgent instance
+2024-12-24 03:10:59,983:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:11:00,069:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:11:00,283:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:11:00,378:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:11:00,465:INFO:HTTP Request: GET https://api.cerebras.ai/v1/models "HTTP/1.1 200 OK"
+2024-12-24 03:11:00,466:INFO:TestAgent instance setup completed
+2024-12-24 03:11:00,466:INFO:Testing react_loop_get_team_roster with team: arizona-cardinals
+2024-12-24 03:11:00,466:INFO:Setting up TestTools class
+2024-12-24 03:11:00,466:WARNING:Could not delete test_nfl_draft.db: [WinError 32] The process cannot access the file because it is being used by another process: 'test_nfl_draft.db'
+2024-12-24 03:11:00,473:INFO:Test database setup completed
+2024-12-24 03:11:00,473:INFO:Ensured test team database directory exists: test_team_databases
+2024-12-24 03:11:00,473:INFO:Removed existing team database: test_team_databases\arizona-cardinals\team_data.db
+2024-12-24 03:11:00,478:INFO:Copied team database to: test_team_databases\arizona-cardinals\team_data.db
+2024-12-24 03:11:00,478:INFO:Testing get_draft_order
+2024-12-24 03:11:00,479:INFO:Retrieved draft order: [(1, 'Chicago Bears'), (2, 'Washington Commanders'), (3, 'New England Patriots'), (4, 'Arizona Cardinals'), (5, 'Los Angeles Chargers'), (6, 'New York Giants'), (7, 'Tennessee Titans'), (8, 'Atlanta Falcons'), (9, 'Chicago Bears'), (10, 'Minnesota Vikings'), (11, 'New York Jets'), (12, 'Denver Broncos'), (13, 'Las Vegas Raiders'), (14, 'New Orleans Saints'), (15, 'Indianapolis Colts'), (16, 'Seattle Seahawks'), (17, 'Minnesota Vikings'), (18, 'Cincinnati Bengals'), (19, 'Los Angeles Rams'), (20, 'Pittsburgh Steelers'), (21, 'Miami Dolphins'), (22, 'Philadelphia Eagles'), (23, 'Jacksonville Jaguars'), (24, 'Detroit Lions'), (25, 'Green Bay Packers'), (26, 'Tampa Bay Buccaneers'), (27, 'Arizona Cardinals'), (28, 'Kansas City Chiefs'), (29, 'Dallas Cowboys'), (30, 'Baltimore Ravens'), (31, 'San Francisco 49ers'), (32, 'Carolina Panthers')]
+2024-12-24 03:11:00,479:INFO:test_get_draft_order passed
+2024-12-24 03:11:00,479:INFO:Testing get_player_stats for player: Marvin Harrison Jr.
+2024-12-24 03:11:00,480:WARNING:Player Marvin Harrison Jr. not found in the database.
+2024-12-24 03:11:00,480:INFO:test_get_player_stats passed
+2024-12-24 03:11:00,480:INFO:Testing get_remaining_needs for team: arizona-cardinals
+2024-12-24 03:11:00,480:INFO:Remaining needs for arizona-cardinals: [placeholder]
+2024-12-24 03:11:00,480:INFO:test_get_remaining_needs passed
+2024-12-24 03:11:00,480:INFO:Testing get_team_roster for team: arizona-cardinals
+2024-12-24 03:11:00,481:ERROR:Error retrieving roster for arizona-cardinals: no such table: roster
+2024-12-24 03:11:00,481:INFO:test_get_team_roster passed
+2024-12-24 03:11:00,481:INFO:Testing make_draft_pick for team: arizona-cardinals and player: Marvin Harrison Jr.
+2024-12-24 03:11:00,481:ERROR:Error making draft pick: no such column: player_id
+2024-12-24 03:11:00,483:INFO:Tearing down TestTools class
+2024-12-24 03:11:00,483:INFO:Closed test database connection
+2024-12-24 03:11:00,483:ERROR:Error cleaning up test database: [WinError 32] The process cannot access the file because it is being used by another process: 'test_nfl_draft.db'
+2024-12-24 03:11:00,483:ERROR:Error cleaning up test team database directory: [WinError 32] The process cannot access the file because it is being used by another process: 'test_team_databases\\arizona-cardinals\\team_data.db'
