@@ -34,7 +34,7 @@ class TestTools(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         logging.info("Setting up TestTools class")
-        cls.conn = None  # Initialize conn to None
+        # cls.conn = None  # Initialize conn to None # Removed this line
 
         # Define test_team and test_player as class attributes
         cls.test_team = "arizona-cardinals"
@@ -62,13 +62,14 @@ class TestTools(unittest.TestCase):
                 print("Attempting to proceed anyway...")
 
         try:
+            cls.conn = sqlite3.connect(TEST_DATABASE_PATH) # Added this line
             with sqlite3.connect(os.path.join(os.path.dirname(__file__), "nfl_draft.db")) as original_conn:
                 with sqlite3.connect(TEST_DATABASE_PATH) as test_conn:
                     original_conn.backup(test_conn)
             logging.info("Test database setup completed")
 
             # Log the structure of the main test database
-            cls.log_database_structure(cls.conn, "Main Test Database")
+            cls.log_database_structure(cls.conn, "Main Test Database") # Modified this line
         except Exception as e:
             logging.error(f"Error during database setup: {e}")
             print(f"Error during database setup: {e}")
@@ -202,7 +203,7 @@ class TestTools(unittest.TestCase):
         logging.info(f"Testing get_remaining_needs for team: {self.test_team}")
         team_db_path = os.path.join(TEST_TEAM_DATABASE_DIR, TEST_TEAM, "team_data.db")
         needs_str = tools.get_remaining_needs(self.test_team, team_db_path)
-        self.assertIn("placeholder", needs_str)
+        self.assertIn("RB", needs_str)
         logging.info("test_get_remaining_needs passed")
 
     def test_make_draft_pick(self):
@@ -260,7 +261,7 @@ class TestAgent(unittest.TestCase):
         mock_generate_thought.return_value = f"I should use get_remaining_needs to get the remaining needs for {TEST_TEAM}."
         prompt = f"What are the remaining needs for {TEST_TEAM}?"
         response = self.agent._react_loop(prompt, db_path=TEST_DATABASE_PATH, team_db_path=self.team_db_path)
-        self.assertIn("placeholder", response)
+        self.assertIn("RB", response)
         logging.info("test_react_loop_get_remaining_needs passed")
     
     @patch('agent.Agent.generate_thought')
