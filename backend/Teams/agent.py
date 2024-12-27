@@ -24,6 +24,7 @@ class Agent:
         self.position_mappings = POSITION_MAPPINGS
         self.team_mappings = TEAM_MAPPINGS
         self.used_tools = set()  # Track used tools per task
+        self.task_complete = False # Flag for task completion
 
     def _react_loop(
         self,
@@ -41,6 +42,7 @@ class Agent:
         self.team_db_path = team_db_path
         self.state = "Initial"
         self.used_tools = set() # Reset used tools
+        self.task_complete = False
 
         for i in range(max_iterations):
             logging.info(f"Iteration: {i+1}, State: {self.state}")
@@ -55,6 +57,10 @@ class Agent:
 
             self.memory.append(f"Thought {i+1}: {thought}")
             logging.info(f"Thought: {thought}")
+
+            # Check for task completion after generating a thought
+            if self.is_task_complete(thought):
+                return self.final_response()
 
             # Choose action based on thought and state
             action_dict = self.choose_action(current_context, thought)
@@ -81,14 +87,6 @@ class Agent:
                 self.state = "Error"
                 continue
 
-            # Prevent repeating tools when instructed to use them once
-            if action in self.used_tools:
-                error_message = f"Tool '{action}' has already been used. As per instructions, it should only be used once."
-                self.memory.append(f"Error in action choice: {error_message}")
-                current_context = f"{prompt}\n\nThought: {thought}\nError in action choice: {error_message}"
-                self.state = "Error"
-                continue
-
             self.used_tools.add(action)
 
             self.memory.append(f"Action {i+1}: {action}({action_dict.get('arguments', {})})")
@@ -97,25 +95,94 @@ class Agent:
 
             # Execute the action and get the observation
             observation = self.execute_action(action_dict)
+
+            # --- STRICT OBSERVATION HANDLING ---
             if "Error" in observation:
                 self.memory.append(f"Error executing action: {observation}")
-                current_context = f"{prompt}\n\nThought: {thought}\nError executing action: {observation}"
+                current_context = f"{prompt}\n\nThought: {thought}\nAction: {action}({action_dict.get('arguments', {})})\nError executing action: {observation}"
                 self.state = "Error"
-                continue
-            elif observation:
-                self.memory.append(f"Observation {i+1}: {observation}")
-                current_context = f"{prompt}\n\nThought: {thought}\nObservation: {observation}"
+                continue  # Skip to the next iteration if there's an error
             else:
-                error_message = "No observation returned from action execution."
-                self.memory.append(f"Error executing action: {error_message}")
-                current_context = f"{prompt}\n\nThought: {thought}\nError executing action: {error_message}"
-                self.state = "Error"
-                continue
+                self.memory.append(f"Observation {i+1}: {observation}")  # Only add observation if successful
+                current_context = f"{prompt}\n\nThought: {thought}\nObservation: {observation}"
 
             # Update state based on action and observation
             self.update_state(action, observation)
 
         return "Respond: Maximum iterations reached without resolution"
+    
+    def is_task_complete(self, thought: str) -> bool:
+        """
+        Checks if the thought indicates that the task has been completed.
+        """
+        completion_cues = [
+            "task is complete",
+            "task has been completed",
+            "achieved the goal",
+            "completed the task",
+            "all steps have been taken",
+            "final answer",
+            "final response",
+            "final observation",
+            "that completes the task",
+            "the objective has been met"
+        ]
+        
+        # Check if the thought ends with the request to return the final result
+        return_final_result_cues = [
+            "return the final result",
+            "present the final result",
+            "give the final response",
+            "return the final answer",
+            "provide the final answer",
+            "give the complete response",
+            "present the complete response"
+        ]
+        
+        lower_thought = thought.lower()
+        if any(cue in lower_thought for cue in completion_cues):
+            self.task_complete = True
+            logging.info("Task completion detected in thought.")
+
+        # If thought ends with a cue to return the final result, indicate that the next response should be the final one
+        if any(cue in lower_thought.split('.')[-1].strip() for cue in return_final_result_cues):
+            self.state = "TaskComplete"
+            logging.info("Detected request to return final result. Setting state to TaskComplete.")
+            return False
+
+        return self.task_complete
+    
+    def final_response(self) -> str:
+        """
+        Generates the final response to the initial prompt.
+        """
+        logging.info("Generating final response.")
+        final_prompt = f"""
+        You have completed the task. Now, provide the final response to the initial prompt:
+        
+        Initial Prompt: {self.memory[0].split('Initial Prompt: ')[1]}
+        
+        Here are the steps taken:
+        
+        {self.construct_full_prompt_thought('')}
+        
+        Provide a concise and direct answer to the initial prompt based on the observations made. Make sure your response directly relates to the initial prompt.
+        """
+
+        try:
+            response = self.cerebras_client.chat.completions.create(
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant. Provide the final response based on the steps taken and observations made."},
+                    {"role": "user", "content": final_prompt}
+                ],
+                model="llama3.1-8b",
+            )
+            final_response = response.choices[0].message.content
+            logging.info(f"Final response generated: {final_response}")
+            return final_response
+        except Exception as e:
+            logging.error(f"Error generating final response: {e}")
+            return f"Error generating final response: {e}"
 
     def update_state(self, action: str, observation: str):
         """
@@ -128,9 +195,25 @@ class Agent:
                 self.state = "Error"
         elif action == "get_ranked_players":
             if "Error" not in observation:
-                self.state = "RankingsAcquired"
+                self.state = "PlayersRanked"
             else:
                 self.state = "Error"
+        elif action == "query_team_stats":
+            if "Error" not in observation:
+                self.state = "TeamStatsAnalyzed"
+            else:
+                self.state = "Error"
+        elif action == "get_position_stats" or action == "get_position_group":
+            if "Error" not in observation:
+                self.state = "InvestigatingPositionStats"
+            else:
+                self.state = "Error"
+        elif action == "get_player_stats":
+            if "Error" not in observation:
+                self.state = "InvestigatingPotentialWeakness"
+            else:
+                self.state = "Error"
+
         elif "Error" in observation:
             self.state = "Error"
         elif self.state == "Error":
@@ -138,7 +221,7 @@ class Agent:
         else:
             self.state = "Processing"
         logging.info(f"State updated to: {self.state}")
-        
+
     def generate_thought(self, prompt: str) -> str:
         """
         Generates a thought using the Cerebras API.
@@ -182,58 +265,19 @@ class Agent:
             full_prompt += f" You are part of the {self.team} team."
 
         full_prompt += "\n\nFollow the ReAct format to solve tasks step by step:"
-        full_prompt += "\nThought: Think about what to do based on the prompt and previous observations"
-        full_prompt += "\nAction: Choose a specific tool to use or respond with an answer"
-        full_prompt += "\nObservation: Describe the result of your action. Only make observations from tools, don't hallucinate data yourself. \n\n"
+        full_prompt += "\nThought: Think about what to do based on the prompt and previous observations."
+        full_prompt += "\nAction: Choose a specific tool to use or respond with an answer."
+        full_prompt += "\nObservation: **Only make observations immediately after a tool has successfully executed. Do not generate observations unless you have actually used a tool and it has returned a result. Fabricating observations will lead to incorrect conclusions.**\n\n"
 
         if self.memory:
-            full_prompt += "Previous steps:\n" + "\n".join(self.memory[-5:]) + "\n\n" # Increased memory context
+            full_prompt += "Previous steps:\n" + "\n".join(self.memory[-5:]) + "\n\n"
 
         full_prompt += f"\nCurrent context:\n{prompt}\n\nThought:"
-
         return full_prompt
 
-    def construct_full_prompt_action(self, prompt: str, thought: str) -> str:
-        """
-        Constructs the full prompt for action selection with all necessary information.
-
-        Args:
-            prompt: The current prompt from the user.
-            thought: The thought generated by the LLM.
-
-        Returns:
-            The complete prompt string with memory, tools, and instructions.
-        """
-        full_prompt = f"You are {self.name}, your role is {self.role}."
-        if self.team:
-            full_prompt += f" You are part of the {self.team} team."
-
-        full_prompt += "\n\nFollow the ReAct format to solve tasks step by step:"
-        full_prompt += "\nThought: Think about what to do based on the prompt and previous observations"
-        full_prompt += "\nAction: Choose a specific tool to use or respond with an answer. **Always format your action as a JSON object like this:**\n```json\n{{\"tool\": \"tool_name\", \"arguments\": {{\"arg_name\": \"arg_value\"}}}}\n```\n"
-        full_prompt += "\nObservation: Describe the result of your action.\n\n"
-
-        # Provide examples of tool usage
-        full_prompt += "Examples:\n"
-        full_prompt += "Thought: I need to know the current roster of the Arizona Cardinals.\n"
-        full_prompt += "Action: ```json\n{\"tool\": \"get_team_roster\", \"arguments\": {\"team_name\": \"Arizona Cardinals\"}}\n```\n"
-        full_prompt += "Thought: I need to find out Kyler Murray's stats from the last season.\n"
-        full_prompt += "Action: ```json\n{\"tool\": \"get_player_stats\", \"arguments\": {\"player_name\": \"Kyler Murray\"}}\n```\n"
-        full_prompt += "Thought: I need to check the current draft order.\n"
-        full_prompt += "Action: ```json\n{\"tool\": \"get_draft_order\", \"arguments\": {}}\n```\n"
-        full_prompt += "Thought: I need to determine the remaining team needs for the Arizona Cardinals based on their current roster.\n"
-        full_prompt += "Action: ```json\n{\"tool\": \"get_remaining_needs\", \"arguments\": {\"team_name\": \"Arizona Cardinals\"}}\n```\n"
-        full_prompt += "Thought: I need to get the performance statistics for all players in the QB position group from the last season.\n"
-        full_prompt += "Action: ```json\n{\"tool\": \"get_position_stats\", \"arguments\": {\"team_name\": \"Arizona Cardinals\", \"position\": \"QB\"}}\n```\n"
-        full_prompt += "Thought: I need to compare the performance statistics of Kyler Murray and Patrick Mahomes from the last season.\n"
-        full_prompt += "Action: ```json\n{\"tool\": \"compare_players\", \"arguments\": {\"player1\": \"Kyler Murray\", \"player2\": \"Patrick Mahomes\"}}\n```\n\n"
-        full_prompt += "Thought: I have gathered the necessary information and can now respond.\n"
-        full_prompt += "Action: ```json\n{\"response\": \"The Arizona Cardinals have Kyler Murray and Colt McCoy as quarterbacks.\"}\n```\n\n"
-
-        if self.memory:
-            full_prompt += "Previous steps:\n" + "\n".join(self.memory[-5:]) + "\n\n" # Increased memory context
-
-        full_prompt += "Available Tools:\n"
+    def get_tool_descriptions(self) -> str:
+        """Dynamically generates descriptions for available tools."""
+        tool_descriptions = ""
         for tool in self.tools:
             sig = inspect.signature(tool)
             doc = inspect.getdoc(tool)
@@ -244,60 +288,93 @@ class Agent:
                     params.append(param)
 
             sig_without_db_paths = sig.replace(parameters=params)
+            tool_descriptions += f"- `{tool.__name__}{sig_without_db_paths}`: {doc}\n"
+        return tool_descriptions
 
-            full_prompt += f"- {tool.__name__}{sig_without_db_paths}: {doc}\n"
+    def construct_full_prompt_action(self, prompt: str, thought: str) -> str:
+        full_prompt = f"You are {self.name}, your role is {self.role}."
+        if self.team:
+            full_prompt += f" You are part of the {self.team} team."
+
+        full_prompt += "\n\nFollow the ReAct format to solve tasks step by step:"
+        full_prompt += "\nThought: Think about what to do based on the prompt and previous observations."
+        full_prompt += "\nAction: Choose a specific tool to use or respond with an answer. **Always format your action as a JSON object like this:**\n```json\n{{\"tool\": \"tool_name\", \"arguments\": {{\"arg_name\": \"arg_value\"}}}}\n```\n"
+        full_prompt += "\nObservation: **Only make observations after executing a tool. Do not generate observations unless you have actually used a tool.**\n\n"
+
+        # Provide examples of tool usage
+        full_prompt += "Examples:\n"
+        full_prompt += "Thought: I need to know the current roster of the Arizona Cardinals.\n"
+        full_prompt += "Action: ```json\n{\"tool\": \"get_team_roster\", \"arguments\": {\"team_name\": \"Arizona Cardinals\"}}\n```\n"
+        full_prompt += "Observation: Roster for Arizona Cardinals:\nMatt Prater (#5.0) - K\nColt McCoy (#12.0) - QB\nAaron Brewer (#46.0) - LS\nKelvin Beachum (#68.0) - OL\nDamien Williams (#29.0) - RB\n...\n```\n\n"
+        full_prompt += "Thought: I need to get the stats for the quarterback, Kyler Murray.\n"
+        full_prompt += "Action: ```json\n{\"tool\": \"get_player_stats\", \"arguments\": {\"player_name\": \"Kyler Murray\"}}\n```\n"
+        full_prompt += "Observation: Player: Kyler Murray\nJerseyNumber: 1\nPosition: QB\nGamesPlayed: 15\nOverall Grade: 88.5\nTotalSnaps: 980\n```\n\n"
+
+        if self.memory:
+            full_prompt += "Previous steps:\n" + "\n".join(self.memory[-5:]) + "\n\n"
+
+        full_prompt += "Available Tools:\n"
+        full_prompt += self.get_tool_descriptions()
 
         full_prompt += f"\nThought: {thought}"
         full_prompt += "\nAction: ```json\n"
-
         return full_prompt
-        
+
     def choose_action(self, prompt: str, thought: str) -> dict:
-        """
-        Chooses the next action based on the current thought, available tools, and agent state.
-        """
         logging.info(f"Choosing action based on thought: {thought}, State: {self.state}")
 
-        # State-based tool suggestions
+        # Define state-based tool suggestions
         if self.state == "Initial":
-            suggested_tools = ["get_team_roster", "get_draft_order"]
+            suggested_tools = ["get_team_roster", "get_draft_order", "query_team_stats"]
         elif self.state == "RosterAcquired":
-            suggested_tools = ["get_ranked_players", "get_remaining_needs"]
-        elif self.state == "RankingsAcquired":
-            suggested_tools = []  # No more tools suggested, should respond
+            suggested_tools = ["get_ranked_players", "query_team_stats"]
+        elif self.state == "PlayersRanked":
+            suggested_tools = ["query_team_stats", "get_position_group"]
+        elif self.state == "TeamStatsAnalyzed":
+            suggested_tools = ["get_position_stats", "get_position_group", "get_player_stats"]
+        elif self.state == "InvestigatingPositionStats":
+            suggested_tools = ["get_position_stats", "get_position_group", "get_player_stats"]
+        elif self.state == "ComparingPositionGroups":
+            suggested_tools = ["get_position_group", "get_player_stats"]
+        elif self.state == "InvestigatingPotentialWeakness":
+            suggested_tools = ["get_player_stats"]
+        elif self.state == "AnalyzingWeaknesses":
+            suggested_tools = []
         elif self.state == "Error":
-            suggested_tools = ["get_team_roster", "get_ranked_players", "get_remaining_needs"]  # Allow basic tools to be retried
+            suggested_tools = ["get_team_roster", "get_ranked_players", "query_team_stats"]
+        elif self.state == "TaskComplete":
+            return {"response": self.final_response()}
         else:
-            suggested_tools = [tool.__name__ for tool in self.tools]  # All tools available
+            suggested_tools = [tool.__name__ for tool in self.tools]
 
         llm_prompt = f"""{self.construct_full_prompt_action(prompt, thought)}
-    Based on the current thought, available tools, and agent state, select the most appropriate tool and its arguments.
+        Based on the current thought, available tools, and agent state, select the most appropriate tool and its arguments.
 
-    Current state: {self.state}
+        Current state: {self.state}
 
-    Suggested tools for this state (use only if relevant to the thought): {', '.join(suggested_tools)}
+        Suggested tools for this state (use only if relevant to the thought): {', '.join(suggested_tools)}
 
-    You MUST respond with valid JSON.
+        You MUST respond with valid JSON.
 
-    To use a tool, respond with a JSON object in the following format:
-    ```json
-    {{
-    "tool": "tool_name",
-    "arguments": {{
-        "arg_name1": "arg_value1",
-        "arg_name2": "arg_value2",
-        ...
-    }}
-    }}
-    ```
+        To use a tool, respond with a JSON object in the following format:
+        ```json
+        {{
+        "tool": "tool_name",
+        "arguments": {{
+            "arg_name1": "arg_value1",
+            "arg_name2": "arg_value2",
+            ...
+        }}
+        }}
+        ```
 
-    If you have gathered the necessary information and can respond to the original prompt, use the "response" key:
-    ```json
-    {{
-    "response": "Your final response here"
-    }}
-    ```
-    """
+        If you have completed the task and can respond to the original prompt, use the "response" key:
+        ```json
+        {{
+        "response": "Your final response here"
+        }}
+        ```
+        """
         logging.info(f"Sending action selection prompt to LLM: {llm_prompt}")
 
         try:
@@ -334,6 +411,10 @@ class Agent:
                     if suggested_tools and tool_name not in suggested_tools:
                         logging.warning(f"Tool '{tool_name}' chosen, but not suggested for state '{self.state}'.")
 
+                    # Validate that the tool exists
+                    if tool_name not in [tool.__name__ for tool in self.tools]:
+                        return {"error": f"Invalid tool: '{tool_name}' is not available."}
+
                     # Validate arguments and map positions if necessary
                     if tool_name in ["get_position_stats", "get_position_group"]:
                         if "position" in arguments:
@@ -343,9 +424,12 @@ class Agent:
                                 arguments["position"] = pff_position
                             else:
                                 return {"error": f"Invalid roster position: {roster_position}"}
-                    elif tool_name == "get_team_roster" or tool_name == "get_remaining_needs":
+                    elif tool_name == "get_team_roster":
                         if "team_name" in arguments:
                             arguments["team_name"] = self.team_mappings.get(arguments["team_name"].lower().replace(" ", "-"), arguments["team_name"])
+                    elif tool_name == "query_team_stats":
+                        # No specific argument mapping needed for this tool yet, but can be added if required
+                        pass
 
                     return {"tool": tool_name, "arguments": arguments}
                 elif "response" in response_json:

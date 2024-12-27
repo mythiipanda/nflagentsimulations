@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 
-def create_database(db_name="nfl_draft.db"):
+def create_database(db_name="global.db"):
     """Creates an SQLite database with the required tables for the NFL draft simulation."""
 
     conn = sqlite3.connect(db_name)
@@ -110,9 +110,10 @@ def load_data(db_name="nfl_draft.db"):
     try:
         teams_df = pd.read_csv("data/nfl_teams_2023.csv")
         # team, needs - make sure these column names are correct after you create this
-        teams_df = teams_df[["Team", "Record"]]
-        teams_df.columns = ["team", "Record"]
-        teams_df.to_sql("team_records", conn, if_exists="replace", index=False)
+        teams_df.columns = [
+            col.lower().replace(" ", "_") for col in teams_df.columns
+        ]
+        teams_df.to_sql("team_stats", conn, if_exists="replace", index=False)
         print("Data loaded into 'team_records' table.")
     except Exception as e:
         print(f"Error loading data into 'team_records' table: {e}")
