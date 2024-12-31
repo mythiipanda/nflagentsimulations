@@ -68,7 +68,8 @@ POSITION_MAPPINGS = {
     'P': 'P',
     'LS': 'LS',
     'DL': 'DI', # Assuming DL maps to Defensive Interior as a general term
-    'DB': 'S'  # Assuming DB maps to Safety as a general term
+    'DB': 'S',  # Assuming DB maps to Safety as a general term
+    'HB': 'HB'
 }
 
 def normalize_team_name(team_name: str, for_display: bool = False) -> str:
@@ -179,8 +180,17 @@ def get_player_stats(player_name: str, team_db_path: Optional[str] = None) -> st
                 columns_info = cursor.fetchall()
                 columns = [info[1] for info in columns_info]
 
+                if table_name == 'offense':
+                    overall_grade_col = 'OffenseOverallGrade'
+                elif table_name == 'defense':
+                    overall_grade_col = 'DefenseOverallGrade'
+                elif table_name == 'special_teams':
+                    overall_grade_col = 'SpecialTeamsOverallGrade'
+                else:
+                    overall_grade_col = None  # Handle unexpected table names
+
                 select_cols = [col for col in ['Player', 'JerseyNumber', 'Position', 'GamesPlayed',
-                                               f'{table_name.capitalize()}OverallGrade', f'{table_name.capitalize()}TotalSnaps'] if col in columns]
+                                               overall_grade_col, f'{table_name.capitalize()}TotalSnaps'] if col in columns]
 
                 cursor.execute(f"SELECT {', '.join(select_cols)} FROM '{table_name}' WHERE LOWER(Player) LIKE LOWER(?) AND Position = ?", (f"%{player_name}%", pff_position))
                 stats = cursor.fetchone()
@@ -188,7 +198,15 @@ def get_player_stats(player_name: str, team_db_path: Optional[str] = None) -> st
                 if stats:
                     found_stats = True
                     stat_map = dict(zip(select_cols, stats))
-                    return "\n".join([f"{key.replace('Offense', '').replace('Defense', '').replace('Special_teams', '').replace('Overall', 'Overall ')}: {value}" for key, value in stat_map.items()])
+                    output_lines = []
+                    for key, value in stat_map.items():
+                        if key == overall_grade_col:
+                            output_lines.append(f"Overall Grade: {value}")
+                        elif key == f'{table_name.capitalize()}TotalSnaps':
+                             output_lines.append(f"Total Snaps: {value}")
+                        else:
+                            output_lines.append(f"{key}: {value}")
+                    return "\n".join(output_lines)
                 break
 
         if not found_stats:
@@ -201,6 +219,7 @@ def get_player_stats(player_name: str, team_db_path: Optional[str] = None) -> st
     finally:
         if conn:
             conn.close()
+            
 def get_draft_order(db_path: Optional[str] = None) -> str:
     """
     Retrieves the current draft order.
@@ -289,52 +308,34 @@ def make_draft_pick(team_name: str, player_name: str, db_path: Optional[str] = N
 
 def get_ranked_players(team_name: str, team_db_path: Optional[str] = None) -> str:
     """
-    Retrieves and ranks players by position based on overall grade.
+    Retrieves and ranks players by their overall grade within their mapped PFF position groups for a given team.
 
     Args:
         team_name: The name of the team.
         team_db_path: Optional path to the team-specific database.
 
     Returns:
-        A formatted string of ranked players, or an error message.
+        A formatted string of ranked players within their position groups, or an error message.
     """
     conn = None
     try:
-        # Validate team_name
-        if not team_name or not isinstance(team_name, str):
-            return "Error: Invalid team_name. Must be a non-empty string."
-
-        # Normalize team name
         normalized_name = normalize_team_name(team_name, for_display=False)
-
-        # Validate team_db_path
         if not team_db_path:
             team_db_path = f"{normalized_name}/team_data.db"
-
         if not os.path.exists(team_db_path):
-            return f"Error: Database not found for {team_name}. Please ensure the database exists at {team_db_path}."
+            return f"Error: Database not found for {team_name}"
 
-        # Connect to the database
         conn = sqlite3.connect(team_db_path)
         cursor = conn.cursor()
 
-        # Fetch the roster in a single query
-        cursor.execute("SELECT full_name, position, jersey_number FROM roster")
+        # Fetch the roster
+        roster_query = "SELECT full_name, position, jersey_number FROM roster"
+        cursor.execute(roster_query)
         roster = cursor.fetchall()
 
+        # Check if roster is empty
         if not roster:
-            return f"Error: No roster found for {team_name}. Please check the database."
-
-        # Group players by PFF position
-        players_by_pff_position = {}
-        for player_name, roster_position, jersey_number in roster:
-            pff_position = POSITION_MAPPINGS.get(roster_position)
-            if not pff_position:
-                logging.warning(f"No PFF position mapping found for roster position '{roster_position}'. Skipping player {player_name}.")
-                continue
-            if pff_position not in players_by_pff_position:
-                players_by_pff_position[pff_position] = []
-            players_by_pff_position[pff_position].append((player_name, roster_position, jersey_number))
+            return f"Error: No roster found for {team_name}."
 
         # Define the tables and their corresponding PFF positions
         tables_and_positions = {
@@ -343,10 +344,15 @@ def get_ranked_players(team_name: str, team_db_path: Optional[str] = None) -> st
             'special_teams': ['K', 'P', 'LS']
         }
 
-        # Fetch and rank players for each PFF position in a single query per table
-        ranked_players = {}
-        for pff_position, players in players_by_pff_position.items():
-            # Determine the relevant table based on PFF position
+        ranked_players_by_position = {}
+
+        for player_name, roster_position, jersey_number in roster:
+            pff_position = POSITION_MAPPINGS.get(roster_position)
+            if not pff_position:
+                logging.warning(f"No PFF position mapping found for roster position '{roster_position}'. Skipping player {player_name}.")
+                continue
+
+            # Find the correct table for the PFF position
             relevant_table = None
             for table, positions in tables_and_positions.items():
                 if pff_position in positions:
@@ -354,59 +360,54 @@ def get_ranked_players(team_name: str, team_db_path: Optional[str] = None) -> st
                     break
 
             if not relevant_table:
-                logging.warning(f"No table found for PFF position '{pff_position}'. Skipping.")
+                logging.warning(f"No table found for PFF position '{pff_position}'. Skipping player {player_name}.")
                 continue
 
-            # Fetch stats for all players in the relevant table and position in a single query
-            if relevant_table == 'offense':
-                columns_to_select = ['Player', 'JerseyNumber', 'OffenseOverallGrade', 'Position']
-            elif relevant_table == 'defense':
-                columns_to_select = ['Player', 'JerseyNumber', 'DefenseOverallGrade', 'Position']
-            elif relevant_table == 'special_teams':
-                columns_to_select = ['Player', 'JerseyNumber', 'SpecialTeamsOverallGrade', 'Position']
-            else:
-                continue  # Skip if no relevant table
-
-            # Fetch all players in the relevant table and position
+            # Get overall grade for the player
+            grade_column = f"{relevant_table.capitalize()}OverallGrade"
+            if relevant_table == 'special_teams':
+                grade_column = "SpecialTeamsOverallGrade"
             cursor.execute(f"""
-                SELECT {', '.join(columns_to_select)}
+                SELECT {grade_column}
                 FROM '{relevant_table}'
-                WHERE Position = ?
-                ORDER BY {columns_to_select[2]} DESC
-            """, (pff_position,))
+                WHERE LOWER(Player) LIKE LOWER(?) AND Position = ?
+            """, (f"%{player_name}%", pff_position))
 
-            results = cursor.fetchall()
+            grade_data = cursor.fetchone()
 
-            # Map fetched stats to players in the roster
-            player_stats = []
-            for player_name, roster_position, jersey_number in players:
-                for result in results:
-                    if player_name.lower() in result[0].lower():
-                        player, jersey_number, grade, pos = result
-                        try:
-                            grade = float(grade)
-                        except ValueError:
-                            grade = 0.0  # Default grade if conversion fails
-                        player_stats.append((player_name, grade, jersey_number, roster_position))
-                        break
+            if grade_data:
+                overall_grade = grade_data[0]
+                if overall_grade is None:
+                    logging.warning(f"Overall grade is None for {player_name} in {relevant_table} table. Using 0.0 as default.")
+                    overall_grade = 0.0
+                else:
+                    try:
+                        overall_grade = float(overall_grade)
+                    except ValueError:
+                        logging.warning(f"Could not convert overall grade to float for {player_name} in {relevant_table} table. Using 0.0 as default.")
+                        overall_grade = 0.0
+            else:
+                overall_grade = 0.0  # Default grade if no data found
 
-            # Sort players by grade in descending order
-            player_stats.sort(key=lambda x: x[1], reverse=True)
-            ranked_players[pff_position] = player_stats
+            if pff_position not in ranked_players_by_position:
+                ranked_players_by_position[pff_position] = []
 
-        # Format the output
+            ranked_players_by_position[pff_position].append((player_name, jersey_number, roster_position, overall_grade))
+
+        # Sort and format the output
         output = ""
-        for pff_position, players in ranked_players.items():
+        for pff_position, players in ranked_players_by_position.items():
+            players.sort(key=lambda x: x[3], reverse=True)
             output += f"{pff_position}:\n"
-            for i, (player_name, grade, jersey_number, roster_position) in enumerate(players):
-                output += f"{i+1}. {player_name} (#{jersey_number} - {roster_position}) - {grade}\n"
+            for i, (player_name, jersey_number, roster_position, overall_grade) in enumerate(players):
+                output += f"{i+1}. {player_name} (##{jersey_number} - {roster_position}) - {overall_grade}\n"
             output += "\n"
-        logging.info("Ranked players for %s: %s", team_name, output)
+        logging.info(f"Ranked players for {team_name}: \n{output}")
         return output.strip()
 
     except Exception as e:
-        logging.error(f"Error ranking players: {e}")
-        return f"Error ranking players: {e}"
+        logging.error(f"Error getting ranked players: {e}")
+        return f"Error getting ranked players: {e}"
     finally:
         if conn:
             conn.close()
@@ -438,11 +439,11 @@ def get_position_stats(team_name: str, position: str, team_db_path: Optional[str
         pff_position = POSITION_MAPPINGS.get(position)
         if not pff_position:
             return f"Error: No PFF position mapping found for roster position '{position}'."
-
+        position = pff_position
         # Determine which table to query based on PFF position
         tables_and_positions = {
             'offense': ['QB', 'HB', 'WR', 'TE', 'T', 'G', 'C'],
-            'defense': ['ED', 'DI', 'LB', 'CB', 'S'],
+            'defense': ['ED', 'DL', 'DI', 'LB', 'CB', 'S'],
             'special_teams': ['K', 'P', 'LS']
         }
         relevant_table = None
@@ -459,7 +460,7 @@ def get_position_stats(team_name: str, position: str, team_db_path: Optional[str
             columns_to_select = ['Player', 'JerseyNumber', 'OffenseOverallGrade', 'OffenseTotalSnaps']
         elif relevant_table == 'defense':
             columns_to_select = ['Player', 'JerseyNumber', 'DefenseOverallGrade', 'DefenseTotalSnaps']
-        elif relevant_table == 'special-teams':
+        elif relevant_table == 'special_teams':
             columns_to_select = ['Player', 'JerseyNumber', 'SpecialTeamsOverallGrade', 'SpecialTeamsTotalSnaps']
         else:
             return f"Error: Could not determine table for PFF position '{pff_position}'"
@@ -470,7 +471,7 @@ def get_position_stats(team_name: str, position: str, team_db_path: Optional[str
             FROM '{relevant_table}'
             WHERE Position = ?
             ORDER BY {columns_to_select[2]} DESC
-        """, (pff_position, normalized_name))
+        """, (pff_position,))
 
         players = cursor.fetchall()
 
@@ -608,8 +609,9 @@ def get_position_group(team_name: str, position: str, team_db_path: Optional[str
     finally:
         if conn:
             conn.close()
+
 def query_team_stats(
-    team_name: Optional[str] = None,
+    team: Optional[str] = None,
     min_overall: Optional[float] = None,
     max_overall: Optional[float] = None,
     min_off: Optional[float] = None,
@@ -624,7 +626,7 @@ def query_team_stats(
     Queries the team_stats table based on the provided filters and returns the results.
 
     Args:
-        team_name: Filter by team name (case-insensitive, accepts both hyphenated and spaced formats).
+        team: Filter by team name (case-insensitive, accepts both hyphenated and spaced formats).
         min_overall: Minimum overall grade.
         max_overall: Maximum overall grade.
         min_off: Minimum offensive grade.
@@ -642,60 +644,151 @@ def query_team_stats(
     try:
         if not db_path or not os.path.exists(db_path):
             return "Error: Database path is invalid or does not exist."
-        
-        normalized_team = normalize_team_name(team_name) if team_name else None
-
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
-        
+
+        # Base query
         query = "SELECT * FROM team_stats WHERE 1=1"
         params = []
-        
-        if normalized_team:
-            query += " AND team_name = ?"
-            params.append(normalized_team)
+
+        # Add filters based on provided arguments
+        if team:
+            query += f" AND LOWER(team) = LOWER(?)"
+            params.append(team)
         if min_overall is not None:
-            query += " AND overall_grade >= ?"
+            query += " AND over >= ?"
             params.append(min_overall)
         if max_overall is not None:
-            query += " AND overall_grade <= ?"
+            query += " AND over <= ?"
             params.append(max_overall)
         if min_off is not None:
-            query += " AND offensive_grade >= ?"
+            query += " AND off >= ?"
             params.append(min_off)
         if max_off is not None:
-            query += " AND offensive_grade <= ?"
+            query += " AND off <= ?"
             params.append(max_off)
         if min_def is not None:
-            query += " AND defensive_grade >= ?"
+            query += " AND def >= ?"
             params.append(min_def)
         if max_def is not None:
-            query += " AND defensive_grade <= ?"
+            query += " AND def <= ?"
             params.append(max_def)
         if min_spec is not None:
-            query += " AND special_teams_grade >= ?"
+            query += " AND spec >= ?"
             params.append(min_spec)
         if max_spec is not None:
-            query += " AND special_teams_grade <= ?"
+            query += " AND spec <= ?"
             params.append(max_spec)
-        
+        # Execute the query
         cursor.execute(query, params)
         results = cursor.fetchall()
         
         if not results:
             return "No matching records found."
-        
+
         # Format the results
         headers = [description[0] for description in cursor.description]
         formatted_results = "\t".join(headers) + "\n"
         for row in results:
             formatted_results += "\t".join(map(str, row)) + "\n"
-        
+
         return formatted_results
 
     except Exception as e:
         logging.error(f"Error querying team stats: {e}")
         return f"Error querying team stats: {e}"
+    finally:
+        if conn:
+            conn.close()
+
+def get_table_schema(table_name: str, team_name: Optional[str] = None, db_path: Optional[str] = None, team_db_path: Optional[str] = None) -> str:
+    """
+    Retrieves the schema for a specified table.
+
+    Args:
+        table_name: The name of the table.
+        team_name: Optional name of the team, required if querying a team-specific database.
+        db_path: Optional path to the global database.
+        team_db_path: Optional path to the team-specific database.
+
+    Returns:
+        A formatted string of the table's schema, or an error message.
+    """
+    if team_db_path and team_name:
+        return "Error: Provide either 'team_db_path' or 'team_name', not both."
+
+    conn = None
+    try:
+        if team_name:
+            normalized_name = normalize_team_name(team_name, for_display=False)
+            db_path = f"{normalized_name}/team_data.db"
+        elif team_db_path:
+            db_path = team_db_path
+        elif not db_path:
+            return "Error: Database path is required."
+
+        if not os.path.exists(db_path):
+            return f"Error: Database not found at {db_path}"
+
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+
+        cursor.execute(f"PRAGMA table_info('{table_name}')")
+        schema_info = cursor.fetchall()
+
+        if not schema_info:
+            return f"Table '{table_name}' not found in the database."
+
+        schema = f"Schema for table '{table_name}':\n"
+        for column in schema_info:
+            schema += f"Column Name: {column[1]}, Type: {column[2]}, Not Null: {column[3]}, Default Value: {column[4]}, Primary Key: {column[5]}\n"
+
+        logging.info(f"Schema for table '{table_name}' retrieved successfully.")
+        return schema
+
+    except Exception as e:
+        logging.error(f"Error retrieving schema for table '{table_name}': {e}")
+        return f"Error retrieving schema for table '{table_name}': {e}"
+    finally:
+        if conn:
+            conn.close()
+
+def get_available_positions(team_name: str, team_db_path: Optional[str] = None) -> str:
+    """
+    Retrieves the available positions on a team's roster.
+
+    Args:
+        team_name: The name of the team.
+        team_db_path: Optional path to the team-specific database.
+
+    Returns:
+        A formatted string of available positions, or an error message.
+    """
+    conn = None
+    try:
+        normalized_name = normalize_team_name(team_name, for_display=False)
+        if not team_db_path:
+            team_db_path = f"{normalized_name}/team_data.db"
+
+        if not os.path.exists(team_db_path):
+            return f"Error: Database not found for {team_name}"
+
+        conn = sqlite3.connect(team_db_path)
+        cursor = conn.cursor()
+
+        cursor.execute("SELECT DISTINCT position FROM roster")
+        positions = cursor.fetchall()
+
+        if not positions:
+            return f"No positions found for {team_name}"
+
+        formatted_positions = [pos[0] for pos in positions]
+        logging.info(f"Available positions for {team_name}: {formatted_positions}")
+        return f"Available positions for {normalize_team_name(team_name, for_display=True)}:\n" + "\n".join(formatted_positions)
+
+    except Exception as e:
+        logging.error(f"Error getting available positions for {team_name}: {e}")
+        return f"Error getting available positions for {team_name}: {e}"
     finally:
         if conn:
             conn.close()

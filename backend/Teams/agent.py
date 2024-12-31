@@ -103,7 +103,7 @@ class Agent:
                 self.state = "Error"
                 continue  # Skip to the next iteration if there's an error
             else:
-                self.memory.append(f"Observation {i+1}: {observation}")  # Only add observation if successful
+                self.memory.append(f"Observation of tool output {i+1}: {observation}")  # Only add observation if successful
                 current_context = f"{prompt}\n\nThought: {thought}\nObservation: {observation}"
 
             # Update state based on action and observation
@@ -175,7 +175,7 @@ class Agent:
                     {"role": "system", "content": "You are a helpful assistant. Provide the final response based on the steps taken and observations made."},
                     {"role": "user", "content": final_prompt}
                 ],
-                model="llama3.1-8b",
+                model="llama3.3-70b",
             )
             final_response = response.choices[0].message.content
             logging.info(f"Final response generated: {final_response}")
@@ -241,7 +241,7 @@ class Agent:
                     {"role": "system", "content": "You are an agent for NFL analysis, do not use any data except from tools available to you. Follow the ReAct format."},
                     {"role": "user", "content": full_prompt}
                 ],
-                model="llama3.1-8b",
+                model="llama3.3-70b",
             )
             thought = response.choices[0].message.content
             logging.info(f"Raw LLM response:\n{thought}")
@@ -266,7 +266,7 @@ class Agent:
 
         full_prompt += "\n\nFollow the ReAct format to solve tasks step by step:"
         full_prompt += "\nThought: Think about what to do based on the prompt and previous observations."
-        full_prompt += "\nAction: Choose a specific tool to use or respond with an answer."
+        full_prompt += "\nAction: Choose a specific tool to use or respond with an answer. You can use only one tool at once"
         full_prompt += "\nObservation: **Only make observations immediately after a tool has successfully executed. Do not generate observations unless you have actually used a tool and it has returned a result. Fabricating observations will lead to incorrect conclusions.**\n\n"
 
         if self.memory:
@@ -299,16 +299,8 @@ class Agent:
         full_prompt += "\n\nFollow the ReAct format to solve tasks step by step:"
         full_prompt += "\nThought: Think about what to do based on the prompt and previous observations."
         full_prompt += "\nAction: Choose a specific tool to use or respond with an answer. **Always format your action as a JSON object like this:**\n```json\n{{\"tool\": \"tool_name\", \"arguments\": {{\"arg_name\": \"arg_value\"}}}}\n```\n"
-        full_prompt += "\nObservation: **Only make observations after executing a tool. Do not generate observations unless you have actually used a tool.**\n\n"
+        full_prompt += "\nObservation: **Only make observations after executing a tool. Do not generate observations unless you have actually used a tool. Tool outputs will appear as Observation of tool output: **\n\n"
 
-        # Provide examples of tool usage
-        full_prompt += "Examples:\n"
-        full_prompt += "Thought: I need to know the current roster of the Arizona Cardinals.\n"
-        full_prompt += "Action: ```json\n{\"tool\": \"get_team_roster\", \"arguments\": {\"team_name\": \"Arizona Cardinals\"}}\n```\n"
-        full_prompt += "Observation: Roster for Arizona Cardinals:\nMatt Prater (#5.0) - K\nColt McCoy (#12.0) - QB\nAaron Brewer (#46.0) - LS\nKelvin Beachum (#68.0) - OL\nDamien Williams (#29.0) - RB\n...\n```\n\n"
-        full_prompt += "Thought: I need to get the stats for the quarterback, Kyler Murray.\n"
-        full_prompt += "Action: ```json\n{\"tool\": \"get_player_stats\", \"arguments\": {\"player_name\": \"Kyler Murray\"}}\n```\n"
-        full_prompt += "Observation: Player: Kyler Murray\nJerseyNumber: 1\nPosition: QB\nGamesPlayed: 15\nOverall Grade: 88.5\nTotalSnaps: 980\n```\n\n"
 
         if self.memory:
             full_prompt += "Previous steps:\n" + "\n".join(self.memory[-5:]) + "\n\n"
@@ -383,7 +375,7 @@ class Agent:
                     {"role": "system", "content": "You are a helpful assistant. Choose the best tool and arguments based on the given thought, tool descriptions, agent state, and suggested tools, or respond directly if you have the answer. Respond with a JSON object."},
                     {"role": "user", "content": llm_prompt}
                 ],
-                model="llama3.1-8b",
+                model="llama3.3-70b",
             )
             llm_response = response.choices[0].message.content
             logging.info(f"LLM action selection response: {llm_response}")

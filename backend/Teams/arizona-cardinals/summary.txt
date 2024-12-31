@@ -1,0 +1,143 @@
+Unique Positions from Defense CSVs:
+------------------------------
+CB
+DI
+ED
+LB
+S
+
+Unique Positions from Offense CSVs:
+------------------------------
+C
+CB
+ED
+G
+HB
+K
+LB
+LS
+P
+QB
+S
+T
+TE
+WR
+
+Unique Positions from Special Teams CSVs:
+------------------------------
+C
+CB
+DI
+ED
+G
+HB
+K
+LB
+LS
+P
+S
+T
+TE
+WR
+
+Unique Positions from roster.csv:
+------------------------------
+DB
+DL
+K
+LB
+LS
+OL
+P
+QB
+RB
+TE
+WR
+
+Unique Depth Chart Positions from roster.csv:
+------------------------------
+C
+CB
+DE
+DT
+FS
+G
+ILB
+K
+LB
+FS
+G
+ILB
+K
+LB
+ILB
+K
+LB
+K
+LB
+LB
+LS
+NT
+OLB
+P
+QB
+RB
+SS
+T
+TE
+WR
+defense_2023.csv
+Player,JerseyNumber,Position,GamesPlayed,DefenseTotalSnaps,DefenseRunDefenseSnaps,DefensePassRushSnaps,DefenseCoverageSnaps,DefenseOverallGrade,DefenseRunDefenseGrade,DefenseTacklingGrade,DefensePassRushGrade,DefenseCoverageGrade,DefenseTotalPressures,DefenseSacks,DefenseHits,DefenseHurries,DefenseBattedPasses,DefenseTackles,DefenseAssists,DefenseMissedTackles,DefenseMissedTacklePercentage,DefenseStops,DefenseForcedFumbles,DefenseTargets,DefenseReceptionsAllowed,DefenseReceptionPercentageAllowed,DefenseYardsAllowed,DefenseYardsPerReceptionAllowed,DefenseYardsAfterCatchAllowed,DefenseLongestReceptionAllowed,DefenseTouchdownsAllowed,DefenseInterceptions,DefensePassBreakups,DefensePasserRatingAllowed,DefensePenalties,DefenseSnapsOnDefensiveLine,DefenseSnapsInTheBox,DefenseSnapsAtFreeSafety,DefenseSnapsInTheSlot,DefenseSnapsAtCorner,DefenseSnapsAtA-Gap,DefenseSnapsAtB-Gap,DefenseSnapsOverTackle,DefenseSnapsOutside
+Zaven Collins,#25,ED,17.0,636.0,252.0,272.0,112.0,72.1,73.9,67.7,61.9,67.0,30.0,4.0,2.0,24.0,0.0,30.0,11.0,3.0,6.8,22.0,0.0,9.0,8.0,88.9,74.0,9.3,50.0,24.0,0.0,1.0,1.0,61.3,0 (0),569.0,32.0,0.0,34.0,1.0,0.0,2.0,0.0,567.0
+Jalen Thompson,#34,S,15.0,938.0,413.0,15.0,510.0,71.3,54.6,70.1,69.6,77.0,5.0,1.0,2.0,2.0,0.0,62.0,14.0,7.0,8.4,18.0,1.0,38.0,26.0,68.4,336.0,12.9,86.0,53.0,2.0,4.0,4.0,73.9,3 (0),2.0,355.0,174.0,377.0,30.0,0.0,0.0,0.0,2.0
+Andre Chachere,#36,S,17.0,467.0,174.0,8.0,285.0,71.1,70.1,61.9,49.3,69.4,1.0,0.0,0.0,1.0,0.0,24.0,6.0,5.0,14.3,4.0,0.0,11.0,5.0,45.5,95.0,19.0,22.0,63.0,1.0,0.0,2.0,106.3,0 (0),12.0,105.0,198.0,141.0,11.0,0.0,0.0,0.0,12.0
+Dennis Gardeck,#45,ED,17.0,510.0,156.0,242.0,112.0,67.6,44.5,52.7,81.2,61.9,42.0,6.0,8.0,28.0,0.0,31.0,6.0,7.0,15.9,27.0,1.0,18.0,15.0,83.3,112.0,7.5,94.0,37.0,2.0,0.0,0.0,129.6,2 (0),437.0,14.0,0.0,58.0,1.0,0.0,0.0,0.0,437.0
+Victor Dimukeje,#52,ED,16.0,385.0,195.0,151.0,39.0,67.5,60.5,70.3,66.7,65.8,24.0,5.0,3.0,16.0,0.0,17.0,5.0,5.0,18.5,14.0,1.0,5.0,4.0,80.0,20.0,5.0,4.0,6.0,0.0,0.0,0.0,83.3,0 (0),359.0,25.0,0.0,0.0,1.0,0.0,2.0,3.0,354.0
+offense_2023.csv
+Player,JerseyNumber,Position,GamesPlayed,OffenseTotalSnaps,OffensePassingSnaps,OffensePassBlockingSnaps,OffenseRushingSnaps,OffenseRunBlockingSnaps,OffenseOverallGrade,OffensePassingGrade,OffensePassBlockingGrade,OffenseRushingGrade,OffenseRunBlockingGrade,OffensePenalties
+James Conner,#06,HB,13.0,531,218.0,51.0,214.0,48.0,89.2,69.2,68.0,88.4,68.9,0 (0)
+Michael Carter,#22,HB,6.0,82,51.0,4.0,23.0,4.0,76.6,66.8,80.7,79.6,60.0,0 (0)
+Trey McBride,#85,TE,17.0,785,436.0,19.0,0.0,330.0,76.3,80.5,55.1,-,62.3,8 (0)
+Emari Demercado,#31,HB,14.0,294,173.0,47.0,58.0,16.0,73.4,44.7,74.7,89.9,40.7,0 (0)
+Damien Williams,#29,HB,3.0,28,10.0,3.0,11.0,4.0,72.7,66.7,80.2,70.7,59.4,0 (0)
+special_teams_2023.csv
+Player,JerseyNumber,Position,GamesPlayed,SpecialTeamsTotalSnaps,SpecialTeamsKickReturnSnaps,SpecialTeamsKickCoverageSnaps,SpecialTeamsPuntReturnSnaps,SpecialTeamsPuntCoverageSnaps,SpecialTeamsFieldGoalBlockSnaps,SpecialTeamsFieldGoalKickSnaps,SpecialTeamsOverallGrade,SpecialTeamsKickoffGrade,SpecialTeamsPuntGrade,SpecialTeamsFieldGoalGrade,SpecialTeamsPenalties,SpecialTeamsTackles,SpecialTeamsAssists,SpecialTeamsMissedTackles
+Joey Blount,#32,S,11.0,195.0,59.0,50.0,41.0,42.0,3.0,0.0,90.0,-,-,-,1 (0),5.0,1.0,3.0
+Greg Dortch,#83,WR,16.0,155.0,88.0,6.0,56.0,5.0,0.0,0.0,85.7,56.1,73.1,-,0 (0),1.0,1.0,0.0
+Bobby Price,#26,CB,6.0,120.0,33.0,25.0,25.0,21.0,16.0,0.0,77.0,-,-,-,0 (0),2.0,1.0,0.0
+Victor Dimukeje,#52,ED,16.0,282.0,87.0,75.0,54.0,58.0,8.0,0.0,75.5,-,-,-,0 (0),3.0,1.0,2.0
+Travis Vokolek,#81,TE,1.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,74.9,-,-,-,0 (0),0.0,0.0,0.0
+roster.csv
+season,team,position,depth_chart_position,jersey_number,status,full_name,first_name,last_name,birth_date,height,weight,college,gsis_id,espn_id,sportradar_id,yahoo_id,rotowire_id,pff_id,pfr_id,fantasy_data_id,sleeper_id,years_exp,headshot_url,ngs_position,week,game_type,status_description_abbr,football_name,esb_id,gsis_it_id,smart_id,entry_year,rookie_year,draft_club,draft_number
+2023,ARI,K,K,5.0,ACT,Matt Prater,Matt,Prater,1984-08-10,70.0,201,Central Florida,00-0023853,11122.0,67f5e782-f91c-4536-9818-cf4a0e7e821d,8565.0,5051.0,3471.0,,549.0,17.0,17,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/fqsjhn7vjb6lzhzctyiq",WR,18,REG,A01,Matt,PRA143616,31446,32005052-4114-3616-ccef-0127103fb075,2006,2006.0,,
+2023,ARI,QB,QB,12.0,CUT,Colt McCoy,Daniel,McCoy,1986-09-05,73.0,212,Texas,00-0027688,13199.0,3699dfd9-d437-43f7-b674-adbb31e7e64b,24060.0,6444.0,5609.0,McCoCo00,11047.0,533.0,13,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/mvcoi7f6thyudufnh0dx",,1,REG,A01,Colt,MCC603149,35524,32004d43-4360-3149-3730-03f6064d0cb7,2010,2010.0,CLE,85.0
+2023,ARI,LS,LS,46.0,ACT,Aaron Brewer,Aaron,Brewer,1990-07-05,77.0,232,San Diego State,00-0028946,15241.0,99149c69-e14f-4e05-9c3a-8ae7e3b1f00b,25976.0,8543.0,7301.0,,14042.0,1122.0,11,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/ucler6ntdjjiiuwlo87d",,18,REG,A01,Aaron,BRE611741,38897,32004252-4561-1741-8e18-114a5262818a,2012,2012.0,,
+2023,ARI,OL,T,68.0,ACT,Kelvin Beachum,Kelvin,Beachum,1989-06-08,75.0,308,Southern Methodist,00-0029316,,,,,,,,,11,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/s1ntsuazbsclztedkcl4",T,18,REG,A01,Kelvin,BEA111513,38779,32004245-4111-1513-5626-cd2b32ceb041,2012,2012.0,PIT,248.0
+2023,ARI,RB,RB,29.0,CUT,Damien Williams,Damien,Williams,1992-04-03,71.0,224,Oklahoma,00-0030874,17359.0,90908a56-901b-466d-8689-943075da96fe,28115.0,9644.0,9205.0,WillDa05,16031.0,1833.0,9,"https://static.www.nfl.com/image/private/f_auto,q_auto/league/ga4vusnfwfvhp2ksqw7x",,10,REG,P02,Damien,WIL206455,41712,32005749-4c20-6455-63c2-d08306a5df61,2014,2014.0,,
+nfl_teams_2023.csv (team_stats)
+Team,Record,PF,PA,OVER,OFF,PASS,PBLK,RECV,RUN,RBLK,DEF,RDEF,TACK,PRSH,COV,SPEC
+Arizona Cardinals,4 - 13,330,455,65.5,67.8,57.7,65.5,67.1,92.3,54,50.9,38.2,54.1,62.7,55.2,84.1
+Atlanta Falcons,7 - 10,321,373,81,70.8,49.4,74.2,74,76.7,68.2,76.8,87.6,61,64.6,65.2,65.3
+Baltimore Ravens,14 - 5,527,307,94,81.6,82.5,74.5,74.9,91.2,69,89.8,67.8,53.6,81.7,93,83
+Buffalo Bills,12 - 7,506,355,90.2,80.6,88.2,70.5,75,91.3,61.2,77.7,54.1,41.4,76.4,91.2,72.7
+Carolina Panthers,2 - 15,236,416,68.5,60.9,56.6,53.6,63.3,79.5,53.5,73,65.1,32,71.5,79.8,71.8
+prospects (available_players)
+rank,position,name,33rd,ATH,BR,Buzz,CBS,DT,ESPN,NBC,NFL,PFF,PFN,Ring,SBN,Tank,USA,WF,Yahoo,SD,Avg
+1,"WR
+JR.","Marvin
+Harrison Jr.",1,2,1,1,2,2,2,1,2,2,3,2,1,2,1,5,3,1,1.94
+2,"QB
+JR.","Caleb
+Williams",2,1,4,2,1,1,1,2,3,1,2,1,5,1,10,3,2,2.3,2.47
+3,"WR
+JR.","Malik
+Nabers",4,3,8,3,3,7,3,4,1,4,6,5,6,3,8,2,8,2.2,4.59
+4,"OT
+JR.","Joe
+Alt",3,5,5,4,7,4,4,3,13,5,4,9,9,5,2,10,7,2.9,5.82
+5,"TE
+JR.","Brock
+Bowers",8,7,2,5,14,5,13,5,4,7,5,3,2,7,3,8,4,3.4,6
+6,"QB
+RS SO.","Drake
+Maye",7,4,3,7,5,6,6,6,10,3,1,4,4,8,31,1,1,6.9,6.29

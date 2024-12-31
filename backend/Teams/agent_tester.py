@@ -18,14 +18,14 @@ if not cerebras_api_key:
 cerebras_client = Cerebras(api_key=cerebras_api_key)
 
 # Team and Database Information
-TEAM_NAME = "arizona-cardinals"
-TEAM_DB_DIR = "arizona-cardinals"
+TEAM_NAME = "chicago-bears"
+TEAM_DB_DIR = "chicago-bears"
 TEAM_DB_FILE = os.path.join(TEAM_DB_DIR, "team_data.db")
-MAIN_DB_PATH = "global.db"
+MAIN_DB_PATH = "global_database.db"
 
 # Agent Initialization
 agent_name = "NFL Analyst"
-agent_role = "Analyze the Arizona Cardinals and determine areas for improvement in the upcoming draft."
+agent_role = "Analyze the Chicago Bears and determine areas for improvement in the upcoming draft."
 agent_memory_file = f"{TEAM_NAME}_memory.txt"
 
 # Updated tools list to include new tools
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     logging.info(f"Task: {agent_role}")
     logging.info(f"Team: {TEAM_NAME}")
 
-    response = agent._react_loop(prompt, db_path=MAIN_DB_PATH, team_db_path=TEAM_DB_FILE, max_iterations=8)
+    response = agent._react_loop(prompt, db_path=MAIN_DB_PATH, team_db_path=TEAM_DB_FILE, max_iterations=10)
 
     logging.info(f"Agent Response:\n{response}")
 

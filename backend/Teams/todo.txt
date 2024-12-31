@@ -1,0 +1,5 @@
+1. positions in nfl and pff are different
+2. Combine them, override with PFF, get roster by tracking teams and players since trades happen
+3. Global database for getting player stats
+scrape from positions
+https://www.pff.com/nfl/grades/position/cb

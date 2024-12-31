@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 
-def create_database(db_name="global.db"):
+def create_database(db_name="global_database.db"):
     """Creates an SQLite database with the required tables for the NFL draft simulation."""
 
     conn = sqlite3.connect(db_name)
@@ -75,7 +75,7 @@ def create_database(db_name="global.db"):
     conn.close()
     print(f"Database '{db_name}' created successfully.")
 
-def load_data(db_name="nfl_draft.db"):
+def load_data(db_name="global_database.db"):
     """Loads data from CSV files into the SQLite database."""
 
     conn = sqlite3.connect(db_name)
@@ -109,7 +109,6 @@ def load_data(db_name="nfl_draft.db"):
     # Load nfl_teams_2023.csv
     try:
         teams_df = pd.read_csv("data/nfl_teams_2023.csv")
-        # team, needs - make sure these column names are correct after you create this
         teams_df.columns = [
             col.lower().replace(" ", "_") for col in teams_df.columns
         ]
