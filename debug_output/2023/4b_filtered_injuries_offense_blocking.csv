@@ -1,0 +1,1072 @@
+season,game_type,team,week,gsis_id,position,full_name,first_name,last_name,report_primary_injury,report_secondary_injury,report_status,practice_primary_injury,practice_secondary_injury,practice_status,date_modified,source_file,injury_score,original_position,original_team
+2023,REG,ARZ,1,00-0029316,T,Kelvin Beachum,Kelvin,Beachum,Hand,,Out,Hand,,Did Not Participate In Practice,2023-09-08 18:50:25,injury_reports_2023.csv,3.0,T,ARI
+2023,REG,BLT,1,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,,,,Ankle,,Full Participation in Practice,2023-09-08 19:56:55,injury_reports_2023.csv,0.0,T,BAL
+2023,REG,CHI,1,00-0035649,G,Nate Davis,Nate,Davis,,,,Not injury related - personal matter,,Full Participation in Practice,2023-09-08 18:13:45,injury_reports_2023.csv,0.0,G,CHI
+2023,REG,CIN,1,00-0036852,G,D'Ante Smith,D'Ante,Smith,,,,Shoulder,,Full Participation in Practice,2023-09-08 18:25:09,injury_reports_2023.csv,0.0,G,CIN
+2023,REG,CLV,1,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-08 18:52:17,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,1,00-0033057,T,Jack Conklin,Jack,Conklin,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-08 19:35:34,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,DAL,1,00-0037243,T,Tyler Smith,Tyler,Smith,Hamstring,,Doubtful,Hamstring,,Did Not Participate In Practice,2023-09-08 19:36:26,injury_reports_2023.csv,2.0,T,DAL
+2023,REG,DAL,1,00-0027947,T,Tyron Smith,Tyron,Smith,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-08 19:35:58,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,DET,1,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,Not injury related - resting p,Full Participation in Practice,2023-09-06 20:48:34,injury_reports_2023.csv,0.0,C,DET
+2023,REG,GB,1,00-0030074,T,David Bakhtiari,David,Bakhtiari,,,,Not injury related - resting player,Knee,Did Not Participate In Practice,2023-09-08 18:51:02,injury_reports_2023.csv,0.0,T,GB
+2023,REG,KC,1,00-0035149,G,Nick Allegretti,Nick,Allegretti,,,,Pectoral,,Full Participation in Practice,2023-09-06 19:49:55,injury_reports_2023.csv,0.0,G,KC
+2023,REG,LA,1,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-09-08 19:52:17,injury_reports_2023.csv,0.0,C,LA
+2023,REG,MIA,1,00-0037010,T,Liam Eichenberg,Liam,Eichenberg,,,,Ribs,,Full Participation in Practice,2023-09-08 19:44:37,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIA,1,00-0034352,C,Connor Williams,Connor,Williams,,,,Knee,,Full Participation in Practice,2023-09-08 19:44:37,injury_reports_2023.csv,0.0,C,MIA
+2023,REG,MIA,1,00-0030067,T,Terron Armstead,Terron,Armstead,Back,"ankle, knee",Out,Back,Ankle / Knee,Did Not Participate In Practice,2023-09-08 19:45:33,injury_reports_2023.csv,3.0,T,MIA
+2023,REG,NE,1,00-0032071,T,Trenton Brown,Trenton,Brown,,,,Illness,,Limited Participation in Practice,2023-09-06 20:06:28,injury_reports_2023.csv,0.0,T,NE
+2023,REG,NE,1,00-0036198,G,Michael Onwenu,Michael,Onwenu,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-08 20:05:24,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NE,1,00-0038103,G,Cole Strange,Cole,Strange,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-09-08 20:05:24,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NO,1,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-08 19:19:08,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NYJ,1,00-0036284,T,Mekhi Becton,Mekhi,Becton,Knee,Illness,Questionable,Knee,Illness,Full Participation in Practice,2023-09-09 19:00:40,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,NYJ,1,00-0026166,T,Duane Brown,Duane,Brown,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-09-09 19:00:40,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,SEA,1,00-0036417,G,Damien Lewis,Damien,Lewis,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-09-08 19:49:09,injury_reports_2023.csv,1.0,G,SEA
+2023,REG,SF,1,00-0032151,C,Jon Feliciano,Jon,Feliciano,,,,Illness,,Full Participation in Practice,2023-09-08 19:44:30,injury_reports_2023.csv,0.0,C,SF
+2023,REG,SF,1,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-08 19:44:30,injury_reports_2023.csv,0.0,T,SF
+2023,REG,TB,1,00-0039157,G,Cody Mauch,Cody,Mauch,Back,,Questionable,Back,,Did Not Participate In Practice,2023-09-08 18:42:16,injury_reports_2023.csv,1.0,G,TB
+2023,REG,TEN,1,00-0036619,T,Dillon Radunz,Dillon,Radunz,Knee,,Questionable,Knee,,Full Participation in Practice,2023-09-08 19:04:37,injury_reports_2023.csv,1.0,T,TEN
+2023,REG,ARZ,2,00-0029316,T,Kelvin Beachum,Kelvin,Beachum,Hand,,Questionable,Hand,,Limited Participation in Practice,2023-09-15 19:54:13,injury_reports_2023.csv,1.0,T,ARI
+2023,REG,BLT,2,00-0036369,G,John Simpson,John,Simpson,,,,Not injury related - personal matter,,Did Not Participate In Practice,2023-09-15 18:36:40,injury_reports_2023.csv,0.0,G,BAL
+2023,REG,BLT,2,00-0037825,C,Tyler Linderbaum,Tyler,Linderbaum,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-09-15 18:37:25,injury_reports_2023.csv,3.0,C,BAL
+2023,REG,BLT,2,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,Knee,,Out,Knee,,Did Not Participate In Practice,2023-09-15 18:37:32,injury_reports_2023.csv,3.0,T,BAL
+2023,REG,BUF,2,00-0031936,C,Mitch Morse,Mitch,Morse,,,,Finger,,Full Participation in Practice,2023-09-15 18:31:43,injury_reports_2023.csv,0.0,C,BUF
+2023,REG,CAR,2,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Biceps,,Full Participation in Practice,2023-09-16 17:55:54,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CHI,2,00-0035649,G,Nate Davis,Nate,Davis,Not injury related - personal matter,,Doubtful,,,"
+    ",2023-09-16 20:37:40,injury_reports_2023.csv,2.0,G,CHI
+2023,REG,CLV,2,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-16 17:54:30,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,2,00-0039014,T,Dawand Jones,Dawand,Jones,,,,Wrist,,Full Participation in Practice,2023-09-16 17:56:23,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,2,00-0036267,T,Jedrick Wills,Jedrick,Wills,,,,Foot,,Full Participation in Practice,2023-09-16 17:56:47,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,DAL,2,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Ankle,,Full Participation in Practice,2023-09-15 19:07:59,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,2,00-0037243,T,Tyler Smith,Tyler,Smith,Hamstring,,Doubtful,Hamstring,,Did Not Participate In Practice,2023-09-15 19:09:46,injury_reports_2023.csv,2.0,T,DAL
+2023,REG,DAL,2,00-0031402,G,Zack Martin,Zack,Martin,Groin,,Questionable,Groin,,Limited Participation in Practice,2023-09-15 19:09:29,injury_reports_2023.csv,1.0,G,DAL
+2023,REG,DET,2,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,Not injury related - resting p,Did Not Participate In Practice,2023-09-15 19:53:42,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,2,00-0032381,T,Taylor Decker,Taylor,Decker,Ankle,,Doubtful,Ankle,,Did Not Participate In Practice,2023-09-15 19:53:58,injury_reports_2023.csv,2.0,T,DET
+2023,REG,GB,2,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Knee,,Full Participation in Practice,2023-09-15 19:06:24,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,2,00-0030074,T,David Bakhtiari,David,Bakhtiari,Not injury related - resting player,Knee,Questionable,Not injury related - resting player,Knee,Did Not Participate In Practice,2023-09-15 19:09:24,injury_reports_2023.csv,1.0,T,GB
+2023,REG,HST,2,00-0032466,T,George Fant,George,Fant,,,,Shoulder,,Full Participation in Practice,2023-09-15 20:08:55,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,2,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,Knee,,Questionable,Knee,,Did Not Participate In Practice,2023-09-15 20:10:17,injury_reports_2023.csv,1.0,T,HOU
+2023,REG,IND,2,00-0034836,T,Braden Smith,Braden,Smith,,,,Knee,Ankle,Full Participation in Practice,2023-09-15 19:10:12,injury_reports_2023.csv,0.0,T,IND
+2023,REG,IND,2,00-0034342,G,Quenton Nelson,Quenton,Nelson,Toe,,Questionable,Toe,,Limited Participation in Practice,2023-09-15 19:11:00,injury_reports_2023.csv,1.0,G,IND
+2023,REG,JAX,2,00-0037814,C,Luke Fortner,Luke,Fortner,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-15 19:14:28,injury_reports_2023.csv,1.0,C,JAX
+2023,REG,JAX,2,00-0032053,G,Brandon Scherff,Brandon,Scherff,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-15 19:14:28,injury_reports_2023.csv,1.0,G,JAX
+2023,REG,LA,2,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,,,,Ankle,,Full Participation in Practice,2023-09-15 19:58:01,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LA,2,00-0034114,C,Coleman Shelton,Coleman,Shelton,Toe,,Questionable,Toe,,Limited Participation in Practice,2023-09-15 20:01:36,injury_reports_2023.csv,1.0,C,LA
+2023,REG,LV,2,00-0033290,T,Jermaine Eluemunor,Jermaine,Eluemunor,,,,Ankle,,Full Participation in Practice,2023-09-15 20:19:45,injury_reports_2023.csv,0.0,T,LV
+2023,REG,LV,2,00-0036604,G,Jordan Meredith,Jordan,Meredith,,,,Calf,,Full Participation in Practice,2023-09-15 20:19:23,injury_reports_2023.csv,0.0,G,LV
+2023,REG,MIA,2,00-0034352,C,Connor Williams,Connor,Williams,,,,Knee,,Full Participation in Practice,2023-09-15 19:57:20,injury_reports_2023.csv,0.0,C,MIA
+2023,REG,MIA,2,00-0030067,T,Terron Armstead,Terron,Armstead,"back, ankle, knee",,Questionable,"back, ankle, knee",,Limited Participation in Practice,2023-09-15 19:59:26,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIN,2,00-0035588,C,Garrett Bradbury,Garrett,Bradbury,Back,,Out,Back,,Did Not Participate In Practice,2023-09-13 17:30:06,injury_reports_2023.csv,3.0,C,MIN
+2023,REG,MIN,2,00-0036616,T,Christian Darrisaw,Christian,Darrisaw,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-13 17:29:39,injury_reports_2023.csv,1.0,T,MIN
+2023,REG,NE,2,00-0031852,C,David Andrews,David,Andrews,,,,Hamstring,,Limited Participation in Practice,2023-09-14 19:52:11,injury_reports_2023.csv,0.0,C,NE
+2023,REG,NE,2,00-0032071,T,Trenton Brown,Trenton,Brown,Concussion,,Questionable,Concussion,,Did Not Participate In Practice,2023-09-15 19:31:23,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,2,00-0038569,T,Sidy Sow,Sidy,Sow,Concussion,,Questionable,Concussion,,Did Not Participate In Practice,2023-09-15 19:31:23,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,2,00-0036198,G,Michael Onwenu,Michael,Onwenu,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-15 19:31:23,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NE,2,00-0038103,G,Cole Strange,Cole,Strange,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-09-15 19:31:23,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NO,2,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-16 19:11:18,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NYG,2,00-0036392,T,Matt Peart,Matt,Peart,,,,Elbow,,Full Participation in Practice,2023-09-15 18:28:48,injury_reports_2023.csv,0.0,T,NYG
+2023,REG,NYG,2,00-0036386,T,Andrew Thomas,Andrew,Thomas,Hamstring,,Questionable,Hamstring,,Limited Participation in Practice,2023-09-15 18:29:38,injury_reports_2023.csv,1.0,T,NYG
+2023,REG,NYJ,2,00-0036284,T,Mekhi Becton,Mekhi,Becton,Knee,,Questionable,Knee,,Full Participation in Practice,2023-09-15 19:00:22,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,NYJ,2,00-0026166,T,Duane Brown,Duane,Brown,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-09-15 19:00:22,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,PIT,2,00-0034347,G,James Daniels,James,Daniels,,,,Ankle,,Full Participation in Practice,2023-09-16 17:45:54,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,PIT,2,00-0034768,T,Chukwuma Okorafor,Chukwuma,Okorafor,,,,Concussion,,Full Participation in Practice,2023-09-16 17:46:15,injury_reports_2023.csv,0.0,T,PIT
+2023,REG,PIT,2,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-16 17:46:27,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,SEA,2,00-0037821,T,Charles Cross,Charles,Cross,Toe,,Out,Toe,,Did Not Participate In Practice,2023-09-15 19:44:18,injury_reports_2023.csv,3.0,T,SEA
+2023,REG,SF,2,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-15 20:52:49,injury_reports_2023.csv,0.0,T,SF
+2023,REG,TEN,2,00-0036619,T,Dillon Radunz,Dillon,Radunz,,,,Knee,,Full Participation in Practice,2023-09-15 19:49:26,injury_reports_2023.csv,0.0,T,TEN
+2023,REG,TEN,2,00-0039034,T,Peter Skoronski,Peter,Skoronski,Illness,,Questionable,Illness,,Did Not Participate In Practice,2023-09-15 19:51:56,injury_reports_2023.csv,1.0,T,TEN
+2023,REG,WAS,2,00-0036618,G,Samuel Cosmi,Samuel,Cosmi,,,,Shoulder,,Full Participation in Practice,2023-09-15 17:26:32,injury_reports_2023.csv,0.0,G,WAS
+2023,REG,ARZ,3,00-0029316,T,Kelvin Beachum,Kelvin,Beachum,,,,Hand,,Full Participation in Practice,2023-09-22 19:29:28,injury_reports_2023.csv,0.0,T,ARI
+2023,REG,BLT,3,00-0037825,C,Tyler Linderbaum,Tyler,Linderbaum,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-09-22 19:04:16,injury_reports_2023.csv,3.0,C,BAL
+2023,REG,BLT,3,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,Knee,,Out,Knee,,Did Not Participate In Practice,2023-09-22 19:04:25,injury_reports_2023.csv,3.0,T,BAL
+2023,REG,BUF,3,00-0036976,T,Spencer Brown,Spencer,Brown,,,,Shoulder,,Full Participation in Practice,2023-09-22 18:06:30,injury_reports_2023.csv,0.0,T,BUF
+2023,REG,CHI,3,00-0033082,C,Lucas Patrick,Lucas,Patrick,,,,Illness,,Full Participation in Practice,2023-09-22 19:10:21,injury_reports_2023.csv,0.0,C,CHI
+2023,REG,CHI,3,00-0035649,G,Nate Davis,Nate,Davis,Not injury related - personal matter,,Questionable,Not injury related - personal matter,,Limited Participation in Practice,2023-09-22 19:11:11,injury_reports_2023.csv,1.0,G,CHI
+2023,REG,CLV,3,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-22 18:36:15,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,3,00-0036267,T,Jedrick Wills,Jedrick,Wills,,,,Shoulder,,Full Participation in Practice,2023-09-22 18:37:52,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,3,00-0036866,T,James Hudson,James,Hudson,Ankle,,Questionable,Ankle,,Did Not Participate In Practice,2023-09-22 18:38:45,injury_reports_2023.csv,1.0,T,CLE
+2023,REG,DAL,3,00-0035698,T,Chuma Edoga,Chuma,Edoga,,,,Elbow,,Full Participation in Practice,2023-09-22 18:40:32,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,3,00-0037243,T,Tyler Smith,Tyler,Smith,,,,Hamstring,,Full Participation in Practice,2023-09-22 18:40:32,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,3,00-0027947,T,Tyron Smith,Tyron,Smith,Knee,,Questionable,,,"
+    ",2023-09-23 21:12:39,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,DAL,3,00-0036376,C,Tyler Biadasz,Tyler,Biadasz,Hamstring,,Questionable,Hamstring,,Did Not Participate In Practice,2023-09-22 18:42:01,injury_reports_2023.csv,1.0,C,DAL
+2023,REG,DAL,3,00-0031402,G,Zack Martin,Zack,Martin,Ankle,,Questionable,Ankle,,Did Not Participate In Practice,2023-09-22 18:42:01,injury_reports_2023.csv,1.0,G,DAL
+2023,REG,DEN,3,00-0033538,T,Garett Bolles,Garett,Bolles,,,,Ankle,,Full Participation in Practice,2023-09-22 20:08:56,injury_reports_2023.csv,0.0,T,DEN
+2023,REG,DET,3,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,Not injury related - resting p,Full Participation in Practice,2023-09-22 19:54:18,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,3,00-0032381,T,Taylor Decker,Taylor,Decker,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-09-22 19:54:31,injury_reports_2023.csv,3.0,T,DET
+2023,REG,DET,3,00-0032785,G,Halapoulivaati Vaitai,Halapoulivaati,Vaitai,Knee,,Out,Knee,,Did Not Participate In Practice,2023-09-22 19:54:51,injury_reports_2023.csv,3.0,G,DET
+2023,REG,GB,3,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,Knee,,Out,Knee,,Did Not Participate In Practice,2023-09-22 19:38:53,injury_reports_2023.csv,3.0,G,GB
+2023,REG,GB,3,00-0030074,T,David Bakhtiari,David,Bakhtiari,Not injury related - resting player,Knee,Questionable,Not injury related - resting player,Knee,Did Not Participate In Practice,2023-09-22 19:38:29,injury_reports_2023.csv,1.0,T,GB
+2023,REG,HST,3,00-0032466,T,George Fant,George,Fant,,,,Ankle,Knee,Full Participation in Practice,2023-09-22 19:59:25,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,3,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-09-22 19:59:30,injury_reports_2023.csv,1.0,T,HOU
+2023,REG,IND,3,00-0032383,C,Ryan Kelly,Ryan,Kelly,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-09-22 18:31:48,injury_reports_2023.csv,3.0,C,IND
+2023,REG,IND,3,00-0034342,G,Quenton Nelson,Quenton,Nelson,Toe,,Questionable,Toe,,Full Participation in Practice,2023-09-22 18:31:41,injury_reports_2023.csv,1.0,G,IND
+2023,REG,JAX,3,00-0032053,G,Brandon Scherff,Brandon,Scherff,,,,Not injury related - personal matter,,Full Participation in Practice,2023-09-21 19:39:02,injury_reports_2023.csv,0.0,G,JAX
+2023,REG,KC,3,00-0035237,T,Jawaan Taylor,Jawaan,Taylor,,,,Shoulder,,Full Participation in Practice,2023-09-22 19:28:21,injury_reports_2023.csv,0.0,T,KC
+2023,REG,LA,3,00-0034804,C,Brian Allen,Brian,Allen,,,,Illness,,Full Participation in Practice,2023-09-23 19:39:20,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,3,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,,,,Shoulder,,Full Participation in Practice,2023-09-23 19:39:20,injury_reports_2023.csv,0.0,T,LA
+2023,REG,MIA,3,00-0030067,T,Terron Armstead,Terron,Armstead,"back, ankle, knee",,Questionable,"back, ankle, knee",,Limited Participation in Practice,2023-09-22 19:55:38,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIN,3,00-0036616,T,Christian Darrisaw,Christian,Darrisaw,,,,Ankle,,Full Participation in Practice,2023-09-22 19:41:22,injury_reports_2023.csv,0.0,T,MIN
+2023,REG,MIN,3,00-0035588,C,Garrett Bradbury,Garrett,Bradbury,Back,,Questionable,Back,,Limited Participation in Practice,2023-09-22 19:41:50,injury_reports_2023.csv,1.0,C,MIN
+2023,REG,NE,3,00-0032071,T,Trenton Brown,Trenton,Brown,,,,Concussion,,Limited Participation in Practice,2023-09-21 19:41:24,injury_reports_2023.csv,0.0,T,NE
+2023,REG,NE,3,00-0036198,G,Michael Onwenu,Michael,Onwenu,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-22 19:46:30,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NE,3,00-0038569,T,Sidy Sow,Sidy,Sow,Concussion,,Questionable,Concussion,,Limited Participation in Practice,2023-09-22 19:46:30,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,3,00-0038103,G,Cole Strange,Cole,Strange,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-09-22 19:46:30,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NYG,3,00-0036132,G,Ben Bredeson,Ben,Bredeson,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-09-20 18:36:54,injury_reports_2023.csv,3.0,G,NYG
+2023,REG,NYG,3,00-0036386,T,Andrew Thomas,Andrew,Thomas,Hamstring,,Out,Hamstring,,Limited Participation in Practice,2023-09-20 18:37:18,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYJ,3,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-09-22 19:53:11,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,3,00-0032432,G,Wes Schweitzer,Wes,Schweitzer,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-09-22 19:54:57,injury_reports_2023.csv,3.0,G,NYJ
+2023,REG,NYJ,3,00-0026166,T,Duane Brown,Duane,Brown,Shoulder,Hip,Questionable,Shoulder,Hip,Did Not Participate In Practice,2023-09-22 19:54:19,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,PIT,3,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Not injury related - resting player,,Full Participation in Practice,2023-09-21 20:29:41,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,SEA,3,00-0034495,C,Evan Brown,Evan,Brown,,,,Knee,,Full Participation in Practice,2023-09-21 23:01:19,injury_reports_2023.csv,0.0,C,SEA
+2023,REG,SEA,3,00-0036417,G,Damien Lewis,Damien,Lewis,,,,Ankle,,Full Participation in Practice,2023-09-22 21:18:50,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,3,00-0037821,T,Charles Cross,Charles,Cross,Toe,,Out,Toe,,Did Not Participate In Practice,2023-09-22 19:51:13,injury_reports_2023.csv,3.0,T,SEA
+2023,REG,SEA,3,00-0035141,G,Phil Haynes,Phil,Haynes,Calf,,Questionable,Calf,,Limited Participation in Practice,2023-09-22 19:55:06,injury_reports_2023.csv,1.0,G,SEA
+2023,REG,TB,3,00-0039157,G,Cody Mauch,Cody,Mauch,Back,,Questionable,Back,,Full Participation in Practice,2023-09-23 19:47:01,injury_reports_2023.csv,1.0,G,TB
+2023,REG,TEN,3,00-0039034,T,Peter Skoronski,Peter,Skoronski,Abdomen,,Out,Abdomen,,Did Not Participate In Practice,2023-09-22 20:28:23,injury_reports_2023.csv,3.0,T,TEN
+2023,REG,WAS,3,00-0034445,C,Nick Gates,Nick,Gates,,,,Knee,,Full Participation in Practice,2023-09-22 17:18:54,injury_reports_2023.csv,0.0,C,WAS
+2023,REG,ARZ,4,00-0029316,T,Kelvin Beachum,Kelvin,Beachum,,,,Hand,,Full Participation in Practice,2023-09-29 19:34:27,injury_reports_2023.csv,0.0,T,ARI
+2023,REG,ARZ,4,00-0038540,T,Paris Johnson,Paris,Johnson,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-29 19:35:35,injury_reports_2023.csv,1.0,T,ARI
+2023,REG,BLT,4,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,Knee,,Doubtful,Knee,,Did Not Participate In Practice,2023-09-29 19:22:50,injury_reports_2023.csv,2.0,T,BAL
+2023,REG,BLT,4,00-0037825,C,Tyler Linderbaum,Tyler,Linderbaum,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-29 19:21:58,injury_reports_2023.csv,1.0,C,BAL
+2023,REG,BUF,4,00-0035382,C,Ryan Bates,Ryan,Bates,,,,Ankle,,Full Participation in Practice,2023-09-29 17:57:35,injury_reports_2023.csv,0.0,C,BUF
+2023,REG,CAR,4,00-0034281,C,Bradley Bozeman,Bradley,Bozeman,,,,Quadricep,,Full Participation in Practice,2023-09-29 17:04:57,injury_reports_2023.csv,0.0,C,CAR
+2023,REG,CAR,4,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Ankle,,Full Participation in Practice,2023-09-29 17:05:45,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CAR,4,00-0038536,G,Chandler Zavala,Chandler,Zavala,,,,Calf,,Full Participation in Practice,2023-09-29 17:06:18,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CLV,4,00-0036866,T,James Hudson,James,Hudson,,,,Ankle,,Full Participation in Practice,2023-09-29 19:12:37,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,4,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,Ankle,Limited Participation in Practice,2023-09-29 19:12:37,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,DAL,4,00-0035698,T,Chuma Edoga,Chuma,Edoga,,,,Elbow,,Full Participation in Practice,2023-09-29 18:49:12,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,4,00-0027947,T,Tyron Smith,Tyron,Smith,Knee,,Out,Knee,,Did Not Participate In Practice,2023-09-29 18:50:04,injury_reports_2023.csv,3.0,T,DAL
+2023,REG,DAL,4,00-0036376,C,Tyler Biadasz,Tyler,Biadasz,Hamstring,,Questionable,Hamstring,,Limited Participation in Practice,2023-09-29 18:49:50,injury_reports_2023.csv,1.0,C,DAL
+2023,REG,DAL,4,00-0031402,G,Zack Martin,Zack,Martin,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-29 18:49:50,injury_reports_2023.csv,1.0,G,DAL
+2023,REG,DEN,4,00-0036391,C,Lloyd Cushenberry,Lloyd,Cushenberry,,,,Illness,,Limited Participation in Practice,2023-09-29 20:22:13,injury_reports_2023.csv,0.0,C,DEN
+2023,REG,DET,4,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,Not injury related - resting p,Full Participation in Practice,2023-09-27 19:52:11,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,4,00-0035328,T,Matt Nelson,Matt,Nelson,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-09-27 19:52:35,injury_reports_2023.csv,3.0,T,DET
+2023,REG,DET,4,00-0032785,G,Halapoulivaati Vaitai,Halapoulivaati,Vaitai,Knee,,Out,Knee,,Did Not Participate In Practice,2023-09-27 19:52:42,injury_reports_2023.csv,3.0,G,DET
+2023,REG,DET,4,00-0032381,T,Taylor Decker,Taylor,Decker,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-27 19:52:13,injury_reports_2023.csv,1.0,T,DET
+2023,REG,DET,4,00-0036258,G,Jonah Jackson,Jonah,Jackson,Thigh,,Questionable,Thigh,,Limited Participation in Practice,2023-09-27 19:52:13,injury_reports_2023.csv,1.0,G,DET
+2023,REG,GB,4,00-0030074,T,David Bakhtiari,David,Bakhtiari,Not injury related - resting player,Knee,Out,Not injury related - resting player,Knee,Did Not Participate In Practice,2023-09-27 19:53:06,injury_reports_2023.csv,3.0,T,GB
+2023,REG,GB,4,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,Knee,,Out,Knee,,Did Not Participate In Practice,2023-09-27 19:53:25,injury_reports_2023.csv,3.0,G,GB
+2023,REG,GB,4,00-0037817,T,Zach Tom,Zach,Tom,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-09-27 19:52:50,injury_reports_2023.csv,1.0,T,GB
+2023,REG,HST,4,00-0031580,G,Shaquille Mason,Shaquille,Mason,,,,Ankle,,Full Participation in Practice,2023-09-29 20:37:55,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,4,00-0032466,T,George Fant,George,Fant,,,,Not injury related - resting player,,Limited Participation in Practice,2023-09-27 21:45:35,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,4,00-0036363,G,Josh Jones,Josh,Jones,Hand,,Out,Hand,,Did Not Participate In Practice,2023-09-29 20:38:51,injury_reports_2023.csv,3.0,G,HOU
+2023,REG,HST,4,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,Knee,,Out,Knee,,Did Not Participate In Practice,2023-09-29 20:39:15,injury_reports_2023.csv,3.0,T,HOU
+2023,REG,HST,4,00-0035686,C,Michael Deiter,Michael,Deiter,Chest,,Questionable,Chest,,Did Not Participate In Practice,2023-09-29 20:38:28,injury_reports_2023.csv,1.0,C,HOU
+2023,REG,IND,4,00-0034836,T,Braden Smith,Braden,Smith,,,,Wrist,,Did Not Participate In Practice,2023-09-29 19:28:41,injury_reports_2023.csv,0.0,T,IND
+2023,REG,IND,4,00-0032383,C,Ryan Kelly,Ryan,Kelly,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-09-29 19:30:07,injury_reports_2023.csv,3.0,C,IND
+2023,REG,IND,4,00-0037757,T,Bernhard Raimann,Bernhard,Raimann,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-09-29 19:30:19,injury_reports_2023.csv,3.0,T,IND
+2023,REG,IND,4,00-0034342,G,Quenton Nelson,Quenton,Nelson,Toe,,Questionable,Toe,,Full Participation in Practice,2023-09-29 19:29:44,injury_reports_2023.csv,1.0,G,IND
+2023,REG,JAX,4,00-0038934,T,Anton Harrison,Anton,Harrison,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-09-29 20:30:32,injury_reports_2023.csv,1.0,T,JAX
+2023,REG,KC,4,00-0032217,T,Donovan Smith,Donovan,Smith,,,,Rib,,Full Participation in Practice,2023-09-29 18:50:38,injury_reports_2023.csv,0.0,T,KC
+2023,REG,LA,4,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,,,,Knee,,Full Participation in Practice,2023-09-29 19:41:58,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LA,4,00-0036603,T,Alaric Jackson,Alaric,Jackson,Hamstring,,Questionable,Hamstring,,Did Not Participate In Practice,2023-09-29 19:51:33,injury_reports_2023.csv,1.0,T,LA
+2023,REG,LAC,4,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Ankle,,Full Participation in Practice,2023-09-29 20:08:02,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,4,00-0031019,C,Corey Linsley,Corey,Linsley,Illness,,Out,Illness,,Did Not Participate In Practice,2023-09-29 20:08:54,injury_reports_2023.csv,3.0,C,LAC
+2023,REG,MIA,4,00-0030067,T,Terron Armstead,Terron,Armstead,"back, ankle, knee",,Questionable,"back, ankle, knee",,Limited Participation in Practice,2023-09-29 19:56:32,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIA,4,00-0034352,C,Connor Williams,Connor,Williams,Groin,,Questionable,Groin,,Limited Participation in Practice,2023-09-29 19:57:21,injury_reports_2023.csv,1.0,C,MIA
+2023,REG,MIN,4,00-0035588,C,Garrett Bradbury,Garrett,Bradbury,Back,,Questionable,Back,,Limited Participation in Practice,2023-09-29 18:45:19,injury_reports_2023.csv,1.0,C,MIN
+2023,REG,NE,4,00-0038569,T,Sidy Sow,Sidy,Sow,,,,Concussion,,Limited Participation in Practice,2023-09-28 19:58:53,injury_reports_2023.csv,0.0,T,NE
+2023,REG,NE,4,00-0038103,G,Cole Strange,Cole,Strange,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-09-29 19:09:37,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NO,4,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-09-27 20:04:58,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,4,00-0036408,G,Cesar Ruiz,Cesar,Ruiz,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-09-29 19:10:06,injury_reports_2023.csv,3.0,G,NO
+2023,REG,NYG,4,00-0036132,G,Ben Bredeson,Ben,Bredeson,,,,Concussion,,Full Participation in Practice,2023-09-30 18:03:01,injury_reports_2023.csv,0.0,G,NYG
+2023,REG,NYG,4,00-0036386,T,Andrew Thomas,Andrew,Thomas,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-09-30 18:03:59,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYJ,4,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-09-29 19:13:42,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,4,00-0032432,G,Wes Schweitzer,Wes,Schweitzer,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-09-29 19:14:44,injury_reports_2023.csv,3.0,G,NYJ
+2023,REG,PHI,4,00-0037002,G,Landon Dickerson,Landon,Dickerson,,,,Knee,,Full Participation in Practice,2023-09-29 19:36:00,injury_reports_2023.csv,0.0,G,PHI
+2023,REG,PHI,4,00-0038112,G,Cam Jurgens,Cam,Jurgens,,,,Groin,,Full Participation in Practice,2023-09-29 19:36:30,injury_reports_2023.csv,0.0,G,PHI
+2023,REG,PIT,4,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-09-27 21:41:22,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,PIT,4,00-0034768,T,Chukwuma Okorafor,Chukwuma,Okorafor,,,,Elbow,,Full Participation in Practice,2023-09-29 19:16:01,injury_reports_2023.csv,0.0,T,PIT
+2023,REG,PIT,4,00-0034347,G,James Daniels,James,Daniels,Groin,,Out,Groin,,Did Not Participate In Practice,2023-09-29 19:17:00,injury_reports_2023.csv,3.0,G,PIT
+2023,REG,SEA,4,00-0035141,G,Phil Haynes,Phil,Haynes,,,,Calf,,Full Participation in Practice,2023-09-30 21:18:08,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,4,00-0037821,T,Charles Cross,Charles,Cross,Toe,,Doubtful,Toe,,Did Not Participate In Practice,2023-09-30 19:52:50,injury_reports_2023.csv,2.0,T,SEA
+2023,REG,SEA,4,00-0034495,C,Evan Brown,Evan,Brown,Quadricep,,Questionable,Quadricep,,Did Not Participate In Practice,2023-09-30 19:54:18,injury_reports_2023.csv,1.0,C,SEA
+2023,REG,SF,4,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-09-27 22:39:07,injury_reports_2023.csv,0.0,T,SF
+2023,REG,TEN,4,00-0039034,T,Peter Skoronski,Peter,Skoronski,Abdomen,,Out,Abdomen,,Did Not Participate In Practice,2023-09-29 19:25:29,injury_reports_2023.csv,3.0,T,TEN
+2023,REG,ARZ,5,00-0029316,T,Kelvin Beachum,Kelvin,Beachum,,,,Hand,,Full Participation in Practice,2023-10-06 19:50:16,injury_reports_2023.csv,0.0,T,ARI
+2023,REG,ARZ,5,00-0035258,C,Hjalte Froholdt,Hjalte,Froholdt,,,,Neck,,Full Participation in Practice,2023-10-06 19:50:39,injury_reports_2023.csv,0.0,C,ARI
+2023,REG,ARZ,5,00-0034346,G,Will Hernandez,Will,Hernandez,Back,,Questionable,Back,,Did Not Participate In Practice,2023-10-06 19:51:24,injury_reports_2023.csv,1.0,G,ARI
+2023,REG,ARZ,5,00-0035300,T,Dennis Daley,Dennis,Daley,Ankle,,Questionable,Ankle,,Full Participation in Practice,2023-10-06 19:51:24,injury_reports_2023.csv,1.0,T,ARI
+2023,REG,BLT,5,00-0031330,T,Morgan Moses,Morgan,Moses,Shoulder,,Doubtful,Shoulder,,Did Not Participate In Practice,2023-10-06 18:47:00,injury_reports_2023.csv,2.0,T,BAL
+2023,REG,BLT,5,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,Knee,Not injury related - resting player,Questionable,Knee,Not injury related - resting p,Did Not Participate In Practice,2023-10-06 18:46:43,injury_reports_2023.csv,1.0,T,BAL
+2023,REG,CAR,5,00-0034261,G,Austin Corbett,Austin,Corbett,Knee,,Out,Knee,,Full Participation in Practice,2023-10-06 16:43:16,injury_reports_2023.csv,3.0,G,CAR
+2023,REG,CHI,5,00-0036953,T,Teven Jenkins,Teven,Jenkins,Calf,,Questionable,Calf,,Full Participation in Practice,2023-10-04 17:53:58,injury_reports_2023.csv,1.0,T,CHI
+2023,REG,CIN,5,00-0034752,T,Orlando Brown,Orlando,Brown,,,,Groin,,Full Participation in Practice,2023-10-06 19:28:47,injury_reports_2023.csv,0.0,T,CIN
+2023,REG,DAL,5,00-0035698,T,Chuma Edoga,Chuma,Edoga,,,,Knee,,Full Participation in Practice,2023-10-06 19:30:07,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,5,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,Thigh,Full Participation in Practice,2023-10-06 19:30:07,injury_reports_2023.csv,0.0,G,DAL
+2023,REG,DAL,5,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,Knee,Full Participation in Practice,2023-10-06 19:30:07,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DEN,5,00-0036391,C,Lloyd Cushenberry,Lloyd,Cushenberry,Quadricep,,Questionable,Quadricep,,Limited Participation in Practice,2023-10-06 20:22:52,injury_reports_2023.csv,1.0,C,DEN
+2023,REG,DET,5,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,Not injury related - resting p,Did Not Participate In Practice,2023-10-06 19:32:47,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,5,00-0032381,T,Taylor Decker,Taylor,Decker,Ankle,,Questionable,Ankle,,Full Participation in Practice,2023-10-06 19:35:22,injury_reports_2023.csv,1.0,T,DET
+2023,REG,DET,5,00-0032785,G,Halapoulivaati Vaitai,Halapoulivaati,Vaitai,Knee,,Questionable,Knee,,Full Participation in Practice,2023-10-06 19:35:22,injury_reports_2023.csv,1.0,G,DET
+2023,REG,GB,5,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Knee,,Limited Participation in Practice,2023-10-07 19:43:15,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,5,00-0036246,G,Jon Runyan,Jon,Runyan,,,,Groin,Ankle,Limited Participation in Practice,2023-10-07 19:43:15,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,5,00-0037817,T,Zach Tom,Zach,Tom,,,,Knee,,Limited Participation in Practice,2023-10-07 19:43:15,injury_reports_2023.csv,0.0,T,GB
+2023,REG,HST,5,00-0035686,C,Michael Deiter,Michael,Deiter,,,,Chest,,Full Participation in Practice,2023-10-06 19:39:17,injury_reports_2023.csv,0.0,C,HOU
+2023,REG,HST,5,00-0035234,T,Tytus Howard,Tytus,Howard,,,,Hand,,Full Participation in Practice,2023-10-06 19:39:17,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,5,00-0031580,G,Shaquille Mason,Shaquille,Mason,,,,Ankle,,Full Participation in Practice,2023-10-06 19:39:17,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,5,00-0036363,G,Josh Jones,Josh,Jones,Hand,,Out,Hand,,Limited Participation in Practice,2023-10-06 19:41:16,injury_reports_2023.csv,3.0,G,HOU
+2023,REG,HST,5,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,Knee,,Questionable,Knee,,Full Participation in Practice,2023-10-06 19:40:42,injury_reports_2023.csv,1.0,T,HOU
+2023,REG,IND,5,00-0032383,C,Ryan Kelly,Ryan,Kelly,,,,Concussion,,Full Participation in Practice,2023-10-06 19:50:44,injury_reports_2023.csv,0.0,C,IND
+2023,REG,IND,5,00-0034342,G,Quenton Nelson,Quenton,Nelson,,,,Toe,,Full Participation in Practice,2023-10-06 19:50:44,injury_reports_2023.csv,0.0,G,IND
+2023,REG,IND,5,00-0037757,T,Bernhard Raimann,Bernhard,Raimann,Concussion,,Out,Concussion,,Limited Participation in Practice,2023-10-06 19:51:54,injury_reports_2023.csv,3.0,T,IND
+2023,REG,JAX,5,00-0033889,T,Cam Robinson,Cam,Robinson,,,,not injury related - returning from suspension,,Full Participation in Practice,2023-10-04 21:49:49,injury_reports_2023.csv,0.0,T,JAX
+2023,REG,KC,5,00-0038981,T,Wanya Morris,Wanya,Morris,Hip,,Questionable,Hip,,Full Participation in Practice,2023-10-06 19:09:30,injury_reports_2023.csv,1.0,T,KC
+2023,REG,LA,5,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-06 19:46:24,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,5,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,Groin,,Out,Groin,,Did Not Participate In Practice,2023-10-06 19:47:41,injury_reports_2023.csv,3.0,T,LA
+2023,REG,LA,5,00-0036603,T,Alaric Jackson,Alaric,Jackson,Hamstring,,Questionable,Hamstring,,Limited Participation in Practice,2023-10-06 19:47:09,injury_reports_2023.csv,1.0,T,LA
+2023,REG,MIA,5,00-0030067,T,Terron Armstead,Terron,Armstead,,,,"back, ankle, knee",,Did Not Participate In Practice,2023-10-05 19:38:42,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIA,5,00-0036325,G,Robert Hunt,Robert,Hunt,,,,Knee,,Full Participation in Practice,2023-10-04 20:13:03,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,5,00-0036596,G,Robert Jones,Robert,Jones,Knee,,Out,Knee,,Limited Participation in Practice,2023-10-06 19:53:05,injury_reports_2023.csv,3.0,G,MIA
+2023,REG,MIA,5,00-0035117,G,Lester Cotton,Lester,Cotton,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-06 19:53:37,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,MIA,5,00-0034352,C,Connor Williams,Connor,Williams,Groin,,Questionable,Groin,,Limited Participation in Practice,2023-10-06 19:54:21,injury_reports_2023.csv,1.0,C,MIA
+2023,REG,MIN,5,00-0034158,T,Brian O'Neill,Brian,O'Neill,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-04 20:27:51,injury_reports_2023.csv,0.0,T,MIN
+2023,REG,MIN,5,00-0035588,C,Garrett Bradbury,Garrett,Bradbury,,,,Back,,Full Participation in Practice,2023-10-06 18:44:36,injury_reports_2023.csv,0.0,C,MIN
+2023,REG,NE,5,00-0032071,T,Trenton Brown,Trenton,Brown,Chest,,Questionable,Chest,,Limited Participation in Practice,2023-10-06 19:35:31,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,5,00-0029672,T,Riley Reiff,Riley,Reiff,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-06 19:35:31,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,5,00-0038103,G,Cole Strange,Cole,Strange,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-06 19:35:31,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NO,5,00-0035242,C,Erik McCoy,Erik,McCoy,,,,Knee,,Full Participation in Practice,2023-10-06 19:37:04,injury_reports_2023.csv,0.0,C,NO
+2023,REG,NO,5,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Foot,,Full Participation in Practice,2023-10-06 19:37:25,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,5,00-0036930,T,Landon Young,Landon,Young,Hip,,Out,Hip,,Did Not Participate In Practice,2023-10-06 19:39:20,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NO,5,00-0030694,G,James Hurst,James,Hurst,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-06 19:40:51,injury_reports_2023.csv,1.0,G,NO
+2023,REG,NO,5,00-0032203,G,Andrus Peat,Andrus,Peat,Concussion,,Questionable,Concussion,,Limited Participation in Practice,2023-10-06 19:40:02,injury_reports_2023.csv,1.0,G,NO
+2023,REG,NYG,5,00-0037279,T,Marcus McKethan,Marcus,McKethan,,,,Knee,,Limited Participation in Practice,2023-10-06 18:15:00,injury_reports_2023.csv,0.0,T,NYG
+2023,REG,NYG,5,00-0037612,T,Evan Neal,Evan,Neal,,,,Hand,Ankle,Limited Participation in Practice,2023-10-06 18:15:00,injury_reports_2023.csv,0.0,T,NYG
+2023,REG,NYG,5,00-0036397,G,Shane Lemieux,Shane,Lemieux,Groin,,Out,Groin,,Did Not Participate In Practice,2023-10-06 18:24:20,injury_reports_2023.csv,3.0,G,NYG
+2023,REG,NYG,5,00-0039019,C,John Michael Schmitz,John Michael,Schmitz,Shoulder,,Out,Shoulder,,Did Not Participate In Practice,2023-10-06 18:24:35,injury_reports_2023.csv,3.0,C,NYG
+2023,REG,NYG,5,00-0036386,T,Andrew Thomas,Andrew,Thomas,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-10-06 18:24:43,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYJ,5,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-10-06 19:51:55,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,5,00-0032432,C,Wes Schweitzer,Wes,Schweitzer,,,,Concussion,,Full Participation in Practice,2023-10-06 19:51:55,injury_reports_2023.csv,0.0,C,NYJ
+2023,REG,NYJ,5,00-0031433,T,Billy Turner,Billy,Turner,Toe,,Questionable,Toe,,Did Not Participate In Practice,2023-10-06 19:52:41,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,NYJ,5,00-0039004,T,Carter Warren,Carter,Warren,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-10-06 19:52:41,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,PHI,5,00-0038112,G,Cam Jurgens,Cam,Jurgens,Foot,,Out,Foot,,Did Not Participate In Practice,2023-10-06 19:53:19,injury_reports_2023.csv,3.0,G,PHI
+2023,REG,PIT,5,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-04 20:09:01,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,PIT,5,00-0034768,T,Chukwuma Okorafor,Chukwuma,Okorafor,,,,Elbow,,Full Participation in Practice,2023-10-06 18:32:00,injury_reports_2023.csv,0.0,T,PIT
+2023,REG,PIT,5,00-0034347,G,James Daniels,James,Daniels,Groin,,Out,Groin,,Did Not Participate In Practice,2023-10-06 18:35:27,injury_reports_2023.csv,3.0,G,PIT
+2023,REG,PIT,5,00-0036869,T,Dan Moore,Dan,Moore,Knee,,Out,Knee,,Did Not Participate In Practice,2023-10-06 18:35:09,injury_reports_2023.csv,3.0,T,PIT
+2023,REG,SF,5,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-04 22:56:53,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,5,00-0032151,C,Jon Feliciano,Jon,Feliciano,Concussion,,Questionable,Concussion,,Full Participation in Practice,2023-10-06 21:20:23,injury_reports_2023.csv,1.0,C,SF
+2023,REG,TEN,5,00-0039034,T,Peter Skoronski,Peter,Skoronski,,,,Abdomen,,Full Participation in Practice,2023-10-06 19:21:01,injury_reports_2023.csv,0.0,T,TEN
+2023,REG,TEN,5,00-0037754,T,Nicholas Petit-Frere,Nicholas,Petit-Frere,not injury related - returning from suspension,,Out,not injury related - returning from suspension,,Full Participation in Practice,2023-10-06 22:03:05,injury_reports_2023.csv,3.0,T,TEN
+2023,REG,ARZ,6,00-0029316,T,Kelvin Beachum,Kelvin,Beachum,,,,Hand,,Full Participation in Practice,2023-10-13 19:45:21,injury_reports_2023.csv,0.0,T,ARI
+2023,REG,ARZ,6,00-0035300,T,Dennis Daley,Dennis,Daley,Ankle,,Questionable,Ankle,,Full Participation in Practice,2023-10-13 19:46:10,injury_reports_2023.csv,1.0,T,ARI
+2023,REG,ATL,6,00-0035235,T,Kaleb McGary,Kaleb,McGary,,,,Knee,,Full Participation in Practice,2023-10-13 17:07:59,injury_reports_2023.csv,0.0,T,ATL
+2023,REG,BLT,6,00-0035112,T,Patrick Mekari,Patrick,Mekari,,,,Illness,Chest,Full Participation in Practice,2023-10-13 15:15:08,injury_reports_2023.csv,0.0,T,BAL
+2023,REG,BLT,6,00-0031330,T,Morgan Moses,Morgan,Moses,,,,Shoulder,,Full Participation in Practice,2023-10-13 15:15:08,injury_reports_2023.csv,0.0,T,BAL
+2023,REG,BUF,6,00-0033904,T,Dion Dawkins,Dion,Dawkins,,,,Not injury related - personal matter,,Full Participation in Practice,2023-10-13 18:11:36,injury_reports_2023.csv,0.0,T,BUF
+2023,REG,CAR,6,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,Not injury related - resting p,Full Participation in Practice,2023-10-13 16:45:37,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CAR,6,00-0035764,G,Calvin Throckmorton,Calvin,Throckmorton,,,,Calf,,Full Participation in Practice,2023-10-13 16:46:19,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,6,00-0038536,G,Chandler Zavala,Chandler,Zavala,Neck,,Out,Neck,,Did Not Participate In Practice,2023-10-13 16:48:22,injury_reports_2023.csv,3.0,G,CAR
+2023,REG,CAR,6,00-0034261,G,Austin Corbett,Austin,Corbett,Knee,,Out,Knee,,Full Participation in Practice,2023-10-13 16:48:37,injury_reports_2023.csv,3.0,G,CAR
+2023,REG,CHI,6,00-0037088,C,Doug Kramer,Doug,Kramer,,,,Thumb,,Full Participation in Practice,2023-10-13 20:50:30,injury_reports_2023.csv,0.0,C,CHI
+2023,REG,CHI,6,00-0033082,C,Lucas Patrick,Lucas,Patrick,Concussion,,Questionable,Concussion,,Full Participation in Practice,2023-10-13 20:51:38,injury_reports_2023.csv,1.0,C,CHI
+2023,REG,CLV,6,00-0031426,G,Joel Bitonio,Joel,Bitonio,Knee,,Out,Knee,,Did Not Participate In Practice,2023-10-13 19:24:06,injury_reports_2023.csv,3.0,G,CLE
+2023,REG,CLV,6,00-0033901,C,Ethan Pocic,Ethan,Pocic,Chest,"Knee, Foot",Questionable,Chest,"Knee, Foot",Limited Participation in Practice,2023-10-13 19:24:00,injury_reports_2023.csv,1.0,C,CLE
+2023,REG,DAL,6,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-12 19:45:15,injury_reports_2023.csv,0.0,G,DAL
+2023,REG,DAL,6,00-0036376,C,Tyler Biadasz,Tyler,Biadasz,,,,Ankle,,Full Participation in Practice,2023-10-14 19:03:21,injury_reports_2023.csv,0.0,C,DAL
+2023,REG,DAL,6,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,Knee,Full Participation in Practice,2023-10-14 19:03:21,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,6,00-0035698,T,Chuma Edoga,Chuma,Edoga,Illness,,Questionable,Illness,,Did Not Participate In Practice,2023-10-14 19:04:15,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,DEN,6,00-0036391,C,Lloyd Cushenberry,Lloyd,Cushenberry,,,,Quadricep,,Full Participation in Practice,2023-10-11 20:14:41,injury_reports_2023.csv,0.0,C,DEN
+2023,REG,DET,6,00-0032381,T,Taylor Decker,Taylor,Decker,,,,Ankle,,Full Participation in Practice,2023-10-13 19:51:13,injury_reports_2023.csv,0.0,T,DET
+2023,REG,DET,6,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,Not injury related - resting p,Full Participation in Practice,2023-10-13 19:51:30,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,6,00-0036258,G,Jonah Jackson,Jonah,Jackson,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-10-13 19:53:16,injury_reports_2023.csv,3.0,G,DET
+2023,REG,HST,6,00-0032466,T,George Fant,George,Fant,,,,Hip,Shoulder,Full Participation in Practice,2023-10-13 20:00:48,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,6,00-0035234,T,Tytus Howard,Tytus,Howard,,,,Hand,,Full Participation in Practice,2023-10-13 20:00:48,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,6,00-0036363,G,Josh Jones,Josh,Jones,,,,Hand,,Full Participation in Practice,2023-10-13 20:00:48,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,6,00-0031580,G,Shaquille Mason,Shaquille,Mason,,,,Ankle,,Full Participation in Practice,2023-10-13 20:00:48,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,6,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-10-13 20:02:15,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,IND,6,00-0037757,T,Bernhard Raimann,Bernhard,Raimann,,,,Concussion,,Full Participation in Practice,2023-10-13 19:28:18,injury_reports_2023.csv,0.0,T,IND
+2023,REG,IND,6,00-0034836,T,Braden Smith,Braden,Smith,Foot/Wrist/Hip,,Out,Foot/Wrist/Hip,,Did Not Participate In Practice,2023-10-13 19:30:05,injury_reports_2023.csv,3.0,T,IND
+2023,REG,IND,6,00-0032383,C,Ryan Kelly,Ryan,Kelly,Ankle,Foot,Questionable,Ankle,Foot,Did Not Participate In Practice,2023-10-13 19:29:42,injury_reports_2023.csv,1.0,C,IND
+2023,REG,JAX,6,00-0033889,T,Cam Robinson,Cam,Robinson,,,,Elbow,,Full Participation in Practice,2023-10-13 19:30:09,injury_reports_2023.csv,0.0,T,JAX
+2023,REG,JAX,6,00-0036975,T,Walker Little,Walker,Little,Knee,,Out,Knee,,Did Not Participate In Practice,2023-10-13 19:32:10,injury_reports_2023.csv,3.0,T,JAX
+2023,REG,LA,6,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-13 19:55:23,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,6,00-0036339,G,Kevin Dotson,Kevin,Dotson,,,,Ankle,,Full Participation in Practice,2023-10-13 19:56:28,injury_reports_2023.csv,0.0,G,LA
+2023,REG,LA,6,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,Groin,,Questionable,Groin,,Limited Participation in Practice,2023-10-13 19:57:03,injury_reports_2023.csv,1.0,T,LA
+2023,REG,LAC,6,00-0035688,T,Trey Pipkins,Trey,Pipkins,,,,Shoulder,,Full Participation in Practice,2023-10-14 20:00:06,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,6,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Ankle,,Full Participation in Practice,2023-10-14 20:00:06,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LV,6,00-0036163,T,Justin Herron,Justin,Herron,Concussion,,Out,Concussion,,Limited Participation in Practice,2023-10-13 20:52:20,injury_reports_2023.csv,3.0,T,LV
+2023,REG,MIA,6,00-0036325,G,Robert Hunt,Robert,Hunt,,,,Knee,,Full Participation in Practice,2023-10-13 19:37:10,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,6,00-0034352,C,Connor Williams,Connor,Williams,Groin,,Out,Groin,,Did Not Participate In Practice,2023-10-13 19:37:38,injury_reports_2023.csv,3.0,C,MIA
+2023,REG,MIA,6,00-0036596,G,Robert Jones,Robert,Jones,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-13 19:39:54,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,NE,6,00-0029672,T,Riley Reiff,Riley,Reiff,Knee,,Out,Knee,,Limited Participation in Practice,2023-10-13 18:27:28,injury_reports_2023.csv,3.0,T,NE
+2023,REG,NE,6,00-0038103,G,Cole Strange,Cole,Strange,Knee,,Out,Knee,,Limited Participation in Practice,2023-10-13 19:15:02,injury_reports_2023.csv,3.0,G,NE
+2023,REG,NE,6,00-0036966,T,Tyrone Wheatley,Tyrone,Wheatley,Knee,,Out,Knee,,Limited Participation in Practice,2023-10-13 18:27:47,injury_reports_2023.csv,3.0,T,NE
+2023,REG,NE,6,00-0032071,T,Trenton Brown,Trenton,Brown,Chest,,Questionable,Chest,,Limited Participation in Practice,2023-10-13 18:26:48,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,6,00-0036198,G,Michael Onwenu,Michael,Onwenu,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-13 18:26:48,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NO,6,00-0030694,T,James Hurst,James,Hurst,,,,Foot,,Full Participation in Practice,2023-10-13 19:10:48,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,6,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Not injury related - resting player,,Limited Participation in Practice,2023-10-11 19:51:02,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,6,00-0036930,T,Landon Young,Landon,Young,Hip,,Out,Hip,,Did Not Participate In Practice,2023-10-13 19:12:46,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NO,6,00-0032203,G,Andrus Peat,Andrus,Peat,Groin,Concussion,Questionable,Groin,Concussion,Did Not Participate In Practice,2023-10-13 19:12:01,injury_reports_2023.csv,1.0,G,NO
+2023,REG,NYG,6,00-0037279,T,Marcus McKethan,Marcus,McKethan,,,,Knee,,Full Participation in Practice,2023-10-13 18:10:20,injury_reports_2023.csv,0.0,T,NYG
+2023,REG,NYG,6,00-0036392,T,Matt Peart,Matt,Peart,Shoulder,,Out,Shoulder,,Did Not Participate In Practice,2023-10-13 18:11:56,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYG,6,00-0039019,C,John Michael Schmitz,John Michael,Schmitz,Shoulder,,Out,Shoulder,,Did Not Participate In Practice,2023-10-13 18:12:09,injury_reports_2023.csv,3.0,C,NYG
+2023,REG,NYG,6,00-0036386,T,Andrew Thomas,Andrew,Thomas,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-10-13 18:12:19,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYG,6,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Questionable,Ankle,,Did Not Participate In Practice,2023-10-13 18:10:55,injury_reports_2023.csv,1.0,T,NYG
+2023,REG,NYG,6,00-0036397,G,Shane Lemieux,Shane,Lemieux,Groin,,Questionable,Groin,,Limited Participation in Practice,2023-10-13 18:10:55,injury_reports_2023.csv,1.0,G,NYG
+2023,REG,NYJ,6,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-10-13 20:14:58,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,6,00-0039145,C,Joe Tippmann,Joe,Tippmann,,,,Knee,,Full Participation in Practice,2023-10-13 20:11:41,injury_reports_2023.csv,0.0,C,NYJ
+2023,REG,NYJ,6,00-0031433,T,Billy Turner,Billy,Turner,,,,Toe,,Full Participation in Practice,2023-10-13 20:11:51,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,SEA,6,00-0037821,T,Charles Cross,Charles,Cross,,,,Toe,,Full Participation in Practice,2023-10-13 21:02:47,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SEA,6,00-0036417,G,Damien Lewis,Damien,Lewis,Ankle,,Doubtful,Ankle,,Did Not Participate In Practice,2023-10-13 19:53:48,injury_reports_2023.csv,2.0,G,SEA
+2023,REG,SEA,6,00-0035141,G,Phil Haynes,Phil,Haynes,Calf,,Questionable,Calf,,Full Participation in Practice,2023-10-13 19:54:25,injury_reports_2023.csv,1.0,G,SEA
+2023,REG,SF,6,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-11 23:08:29,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,6,00-0036551,G,Aaron Banks,Aaron,Banks,,,,Shoulder,,Full Participation in Practice,2023-10-13 20:16:48,injury_reports_2023.csv,0.0,G,SF
+2023,REG,TB,6,00-0037835,T,Luke Goedeke,Luke,Goedeke,,,,Calf,,Full Participation in Practice,2023-10-13 19:34:54,injury_reports_2023.csv,0.0,T,TB
+2023,REG,TEN,6,00-0036171,C,Aaron Brewer,Aaron,Brewer,Neck,,Questionable,Neck,,Limited Participation in Practice,2023-10-13 14:58:26,injury_reports_2023.csv,1.0,C,TEN
+2023,REG,WAS,6,00-0031095,T,Charles Leno,Charles,Leno,,,,Finger,,Full Participation in Practice,2023-10-13 17:13:07,injury_reports_2023.csv,0.0,T,WAS
+2023,REG,ARZ,7,00-0029316,T,Kelvin Beachum,Kelvin,Beachum,,,,Hand,,Full Participation in Practice,2023-10-20 19:40:40,injury_reports_2023.csv,0.0,T,ARI
+2023,REG,ARZ,7,00-0033676,G,Elijah Wilkinson,Elijah,Wilkinson,Neck,,Out,Neck,,Did Not Participate In Practice,2023-10-20 19:42:08,injury_reports_2023.csv,3.0,G,ARI
+2023,REG,BUF,7,00-0036976,T,Spencer Brown,Spencer,Brown,,,,Knee,,Full Participation in Practice,2023-10-20 20:54:56,injury_reports_2023.csv,0.0,T,BUF
+2023,REG,CHI,7,00-0037088,C,Doug Kramer,Doug,Kramer,,,,Thumb,,Full Participation in Practice,2023-10-20 18:36:45,injury_reports_2023.csv,0.0,C,CHI
+2023,REG,CHI,7,00-0035649,G,Nate Davis,Nate,Davis,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-10-20 18:37:35,injury_reports_2023.csv,3.0,G,CHI
+2023,REG,CHI,7,00-0038932,T,Darnell Wright,Darnell,Wright,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-10-20 18:37:29,injury_reports_2023.csv,1.0,T,CHI
+2023,REG,CHI,7,00-0033910,C,Dan Feeney,Dan,Feeney,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-20 18:37:29,injury_reports_2023.csv,1.0,C,CHI
+2023,REG,CLV,7,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Knee,,Full Participation in Practice,2023-10-20 17:56:52,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,DEN,7,00-0036391,C,Lloyd Cushenberry,Lloyd,Cushenberry,,,,Quadricep,,Full Participation in Practice,2023-10-20 20:19:12,injury_reports_2023.csv,0.0,C,DEN
+2023,REG,DET,7,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,,Full Participation in Practice,2023-10-20 19:46:53,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,7,00-0036258,G,Jonah Jackson,Jonah,Jackson,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-10-20 19:48:05,injury_reports_2023.csv,3.0,G,DET
+2023,REG,GB,7,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,Knee,,Questionable,Knee,,Did Not Participate In Practice,2023-10-20 19:12:29,injury_reports_2023.csv,1.0,G,GB
+2023,REG,GB,7,00-0035084,T,Yosuah Nijman,Yosuah,Nijman,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-20 19:12:29,injury_reports_2023.csv,1.0,T,GB
+2023,REG,IND,7,00-0032383,C,Ryan Kelly,Ryan,Kelly,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-20 18:12:26,injury_reports_2023.csv,0.0,C,IND
+2023,REG,IND,7,00-0034836,T,Braden Smith,Braden,Smith,Hip,Wrist,Out,Hip,Wrist,Did Not Participate In Practice,2023-10-20 18:13:00,injury_reports_2023.csv,3.0,T,IND
+2023,REG,JAX,7,00-0036975,T,Walker Little,Walker,Little,Knee,,Out,Knee,,Did Not Participate In Practice,2023-10-18 18:49:06,injury_reports_2023.csv,3.0,T,JAX
+2023,REG,JAX,7,00-0032053,G,Brandon Scherff,Brandon,Scherff,Ankle,,Questionable,Ankle,,Did Not Participate In Practice,2023-10-18 18:48:36,injury_reports_2023.csv,1.0,G,JAX
+2023,REG,LA,7,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-20 19:53:25,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,7,00-0036339,G,Kevin Dotson,Kevin,Dotson,,,,Ankle,,Full Participation in Practice,2023-10-20 19:52:56,injury_reports_2023.csv,0.0,G,LA
+2023,REG,LA,7,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,,,,Groin,,Full Participation in Practice,2023-10-20 19:54:12,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LAC,7,00-0034436,C,Will Clapp,Will,Clapp,,,,Knee,,Full Participation in Practice,2023-10-20 20:15:40,injury_reports_2023.csv,0.0,C,LAC
+2023,REG,LAC,7,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Ankle,,Full Participation in Practice,2023-10-20 20:15:40,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LV,7,00-0036163,T,Justin Herron,Justin,Herron,,,,Concussion,,Full Participation in Practice,2023-10-20 20:23:55,injury_reports_2023.csv,0.0,T,LV
+2023,REG,MIA,7,00-0031921,T,Kendall Lamm,Kendall,Lamm,,,,Not injury related - personal matter,,Did Not Participate In Practice,2023-10-18 19:57:49,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIA,7,00-0034352,C,Connor Williams,Connor,Williams,Groin,,Questionable,Groin,,Limited Participation in Practice,2023-10-20 19:47:42,injury_reports_2023.csv,1.0,C,MIA
+2023,REG,MIN,7,00-0036327,G,Ezra Cleveland,Ezra,Cleveland,Foot,,Out,Foot,,Did Not Participate In Practice,2023-10-21 19:03:37,injury_reports_2023.csv,3.0,G,MIN
+2023,REG,NE,7,00-0029672,T,Riley Reiff,Riley,Reiff,Knee,,Out,Knee,,Did Not Participate In Practice,2023-10-20 19:39:59,injury_reports_2023.csv,3.0,T,NE
+2023,REG,NE,7,00-0031852,C,David Andrews,David,Andrews,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-20 19:39:47,injury_reports_2023.csv,1.0,C,NE
+2023,REG,NE,7,00-0032071,T,Trenton Brown,Trenton,Brown,Chest,,Questionable,Chest,,Limited Participation in Practice,2023-10-20 19:39:47,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,7,00-0036198,G,Michael Onwenu,Michael,Onwenu,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-20 19:39:47,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NE,7,00-0038103,G,Cole Strange,Cole,Strange,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-20 19:39:47,injury_reports_2023.csv,1.0,G,NE
+2023,REG,NO,7,00-0032203,G,Andrus Peat,Andrus,Peat,,,,Groin,,Limited Participation in Practice,2023-10-18 19:12:18,injury_reports_2023.csv,0.0,G,NO
+2023,REG,NO,7,00-0030694,T,James Hurst,James,Hurst,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-10-18 19:14:16,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NO,7,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-10-18 19:13:48,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NO,7,00-0036930,T,Landon Young,Landon,Young,Hip,,Out,Hip,,Did Not Participate In Practice,2023-10-18 19:13:38,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NYG,7,00-0031581,G,Mark Glowinski,Mark,Glowinski,,,,Quadricep,Ankle,Full Participation in Practice,2023-10-20 18:09:11,injury_reports_2023.csv,0.0,G,NYG
+2023,REG,NYG,7,00-0036397,G,Shane Lemieux,Shane,Lemieux,,,,Biceps,Groin,Limited Participation in Practice,2023-10-18 19:29:58,injury_reports_2023.csv,0.0,G,NYG
+2023,REG,NYG,7,00-0036392,T,Matt Peart,Matt,Peart,Shoulder,,Out,Shoulder,,Did Not Participate In Practice,2023-10-20 18:10:13,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYG,7,00-0039019,C,John Michael Schmitz,John Michael,Schmitz,Shoulder,,Out,Shoulder,,Did Not Participate In Practice,2023-10-20 18:10:25,injury_reports_2023.csv,3.0,C,NYG
+2023,REG,NYG,7,00-0036386,T,Andrew Thomas,Andrew,Thomas,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-10-20 18:10:33,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYG,7,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Questionable,Ankle,,Did Not Participate In Practice,2023-10-20 18:09:41,injury_reports_2023.csv,1.0,T,NYG
+2023,REG,PHI,7,00-0030561,T,Lane Johnson,Lane,Johnson,,,,Ankle,,Full Participation in Practice,2023-10-20 19:54:00,injury_reports_2023.csv,0.0,T,PHI
+2023,REG,PIT,7,00-0034347,G,James Daniels,James,Daniels,,,,Groin,,Full Participation in Practice,2023-10-20 20:01:56,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,PIT,7,00-0036869,T,Dan Moore,Dan,Moore,,,,Knee,,Full Participation in Practice,2023-10-20 20:01:56,injury_reports_2023.csv,0.0,T,PIT
+2023,REG,SEA,7,00-0037821,T,Charles Cross,Charles,Cross,,,,Ankle,,Full Participation in Practice,2023-10-20 21:12:14,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SEA,7,00-0036417,G,Damien Lewis,Damien,Lewis,,,,Ankle,,Full Participation in Practice,2023-10-20 21:12:20,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,7,00-0035141,G,Phil Haynes,Phil,Haynes,Calf,,Questionable,Calf,,Did Not Participate In Practice,2023-10-20 20:00:22,injury_reports_2023.csv,1.0,G,SEA
+2023,REG,SEA,7,00-0034495,C,Evan Brown,Evan,Brown,Hip,,Questionable,Hip,,Limited Participation in Practice,2023-10-20 20:00:06,injury_reports_2023.csv,1.0,C,SEA
+2023,REG,SEA,7,00-0036795,T,Jake Curhan,Jake,Curhan,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-20 19:59:15,injury_reports_2023.csv,1.0,T,SEA
+2023,REG,SF,7,00-0036551,G,Aaron Banks,Aaron,Banks,,,,Ankle,,Full Participation in Practice,2023-10-21 21:02:41,injury_reports_2023.csv,0.0,G,SF
+2023,REG,SF,7,00-0027857,T,Trent Williams,Trent,Williams,Ankle,,Doubtful,Ankle,,Did Not Participate In Practice,2023-10-21 21:05:01,injury_reports_2023.csv,2.0,T,SF
+2023,REG,WAS,7,00-0036618,G,Samuel Cosmi,Samuel,Cosmi,,,,Knee,,Full Participation in Practice,2023-10-20 17:17:11,injury_reports_2023.csv,0.0,G,WAS
+2023,REG,WAS,7,00-0037092,G,Chris Paul,Chris,Paul,,,,Back,,Full Participation in Practice,2023-10-20 17:17:11,injury_reports_2023.csv,0.0,G,WAS
+2023,REG,ARZ,8,00-0029316,T,Kelvin Beachum,Kelvin,Beachum,,,,Hand,,Full Participation in Practice,2023-10-27 20:00:47,injury_reports_2023.csv,0.0,T,ARI
+2023,REG,ARZ,8,00-0033676,G,Elijah Wilkinson,Elijah,Wilkinson,Neck,,Out,Neck,,Did Not Participate In Practice,2023-10-27 20:02:15,injury_reports_2023.csv,3.0,G,ARI
+2023,REG,BUF,8,00-0036976,T,Spencer Brown,Spencer,Brown,,,,Knee,,Full Participation in Practice,2023-10-25 17:38:10,injury_reports_2023.csv,0.0,T,BUF
+2023,REG,CAR,8,00-0034261,G,Austin Corbett,Austin,Corbett,,,,Knee,,Full Participation in Practice,2023-10-27 16:33:36,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,8,00-0035764,G,Calvin Throckmorton,Calvin,Throckmorton,,,,Calf,,Full Participation in Practice,2023-10-27 16:34:10,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,8,00-0038536,G,Chandler Zavala,Chandler,Zavala,,,,Neck,,Full Participation in Practice,2023-10-27 16:34:19,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,8,00-0033284,T,Taylor Moton,Taylor,Moton,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-27 16:36:01,injury_reports_2023.csv,1.0,T,CAR
+2023,REG,CHI,8,00-0038932,T,Darnell Wright,Darnell,Wright,,,,Shoulder,Toe,Full Participation in Practice,2023-10-27 19:06:30,injury_reports_2023.csv,0.0,T,CHI
+2023,REG,CHI,8,00-0037081,T,Braxton Jones,Braxton,Jones,,,,Neck,,Limited Participation in Practice,2023-10-27 19:06:03,injury_reports_2023.csv,0.0,T,CHI
+2023,REG,CHI,8,00-0035649,G,Nate Davis,Nate,Davis,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-10-27 19:06:39,injury_reports_2023.csv,3.0,G,CHI
+2023,REG,CHI,8,00-0033910,C,Dan Feeney,Dan,Feeney,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-27 19:06:31,injury_reports_2023.csv,1.0,C,CHI
+2023,REG,CIN,8,00-0034752,T,Orlando Brown,Orlando,Brown,,,,Groin,,Full Participation in Practice,2023-10-27 17:59:26,injury_reports_2023.csv,0.0,T,CIN
+2023,REG,CLV,8,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-25 23:19:57,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,8,00-0036267,T,Jedrick Wills,Jedrick,Wills,Foot,Ankle,Questionable,Foot,Ankle,Limited Participation in Practice,2023-10-27 18:49:58,injury_reports_2023.csv,1.0,T,CLE
+2023,REG,DAL,8,00-0027947,T,Tyron Smith,Tyron,Smith,Neck,,Questionable,Neck,,Limited Participation in Practice,2023-10-27 19:51:10,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,DEN,8,00-0033538,T,Garett Bolles,Garett,Bolles,,,,Hip,,Full Participation in Practice,2023-10-27 20:17:44,injury_reports_2023.csv,0.0,T,DEN
+2023,REG,DET,8,00-0036258,G,Jonah Jackson,Jonah,Jackson,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-10-28 19:46:23,injury_reports_2023.csv,3.0,G,DET
+2023,REG,DET,8,00-0034345,C,Frank Ragnow,Frank,Ragnow,Toe,Calf,Doubtful,Toe,Calf,Did Not Participate In Practice,2023-10-28 19:46:28,injury_reports_2023.csv,2.0,C,DET
+2023,REG,DET,8,00-0032785,G,Halapoulivaati Vaitai,Halapoulivaati,Vaitai,Back,,Questionable,Back,,Limited Participation in Practice,2023-10-28 19:46:15,injury_reports_2023.csv,1.0,G,DET
+2023,REG,GB,8,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Knee,,Limited Participation in Practice,2023-10-27 19:30:42,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,8,00-0035084,T,Yosuah Nijman,Yosuah,Nijman,,,,Knee,,Limited Participation in Practice,2023-10-27 19:30:42,injury_reports_2023.csv,0.0,T,GB
+2023,REG,GB,8,00-0036622,C,Josh Myers,Josh,Myers,Ankle,,Questionable,Ankle,,Full Participation in Practice,2023-10-27 19:32:06,injury_reports_2023.csv,1.0,C,GB
+2023,REG,HST,8,00-0036363,G,Josh Jones,Josh,Jones,,,,Hand,,Full Participation in Practice,2023-10-27 19:43:04,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,8,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-10-27 19:43:44,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,8,00-0035234,T,Tytus Howard,Tytus,Howard,Hand,Knee,Questionable,Hand,Knee,Full Participation in Practice,2023-10-27 19:51:21,injury_reports_2023.csv,1.0,T,HOU
+2023,REG,IND,8,00-0032383,C,Ryan Kelly,Ryan,Kelly,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-27 19:33:23,injury_reports_2023.csv,0.0,C,IND
+2023,REG,IND,8,00-0034836,T,Braden Smith,Braden,Smith,Hip,Wrist,Out,Hip,Wrist,Did Not Participate In Practice,2023-10-27 19:34:13,injury_reports_2023.csv,3.0,T,IND
+2023,REG,JAX,8,00-0036975,T,Walker Little,Walker,Little,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-10-27 18:20:10,injury_reports_2023.csv,1.0,T,JAX
+2023,REG,JAX,8,00-0032053,G,Brandon Scherff,Brandon,Scherff,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-27 18:20:10,injury_reports_2023.csv,1.0,G,JAX
+2023,REG,LA,8,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-27 19:44:58,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,8,00-0032242,T,Rob Havenstein,Rob,Havenstein,Calf,,Questionable,Calf,,Did Not Participate In Practice,2023-10-27 19:47:25,injury_reports_2023.csv,1.0,T,LA
+2023,REG,LAC,8,00-0035688,T,Trey Pipkins,Trey,Pipkins,,,,Ankle,,Full Participation in Practice,2023-10-27 20:21:53,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,8,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Shoulder,,Full Participation in Practice,2023-10-27 20:21:53,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,MIA,8,00-0036596,G,Robert Jones,Robert,Jones,,,,Not injury related - personal matter,,Did Not Participate In Practice,2023-10-25 20:30:34,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,8,00-0034352,C,Connor Williams,Connor,Williams,Groin,,Questionable,Groin,,Limited Participation in Practice,2023-10-27 19:54:10,injury_reports_2023.csv,1.0,C,MIA
+2023,REG,MIN,8,00-0036327,G,Ezra Cleveland,Ezra,Cleveland,Foot,,Questionable,Foot,,Limited Participation in Practice,2023-10-27 18:42:15,injury_reports_2023.csv,1.0,G,MIN
+2023,REG,NE,8,00-0038103,G,Cole Strange,Cole,Strange,,,,Knee,,Full Participation in Practice,2023-10-27 19:50:37,injury_reports_2023.csv,0.0,G,NE
+2023,REG,NE,8,00-0034957,T,Calvin Anderson,Calvin,Anderson,Illness,,Out,Illness,,Did Not Participate In Practice,2023-10-27 19:51:11,injury_reports_2023.csv,3.0,T,NE
+2023,REG,NE,8,00-0032071,T,Trenton Brown,Trenton,Brown,Ankle,Knee,Questionable,Ankle,Knee,Limited Participation in Practice,2023-10-27 19:50:43,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,8,00-0037287,T,Vederian Lowe,Vederian,Lowe,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-27 19:50:43,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NO,8,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Concussion,,Full Participation in Practice,2023-10-27 19:06:54,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,8,00-0036930,T,Landon Young,Landon,Young,,,,Hip,,Full Participation in Practice,2023-10-27 19:07:22,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,8,00-0030694,T,James Hurst,James,Hurst,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-10-27 19:08:46,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NO,8,00-0032132,G,Max Garcia,Max,Garcia,Illness,,Questionable,Illness,,Limited Participation in Practice,2023-10-27 19:08:25,injury_reports_2023.csv,1.0,G,NO
+2023,REG,NO,8,00-0032203,G,Andrus Peat,Andrus,Peat,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-27 19:08:25,injury_reports_2023.csv,1.0,G,NO
+2023,REG,NYG,8,00-0036386,T,Andrew Thomas,Andrew,Thomas,Hamstring,,Doubtful,Hamstring,,Limited Participation in Practice,2023-10-27 18:07:24,injury_reports_2023.csv,2.0,T,NYG
+2023,REG,NYG,8,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-10-27 18:06:23,injury_reports_2023.csv,1.0,T,NYG
+2023,REG,NYG,8,00-0039019,C,John Michael Schmitz,John Michael,Schmitz,Shoulder,,Questionable,Shoulder,,Limited Participation in Practice,2023-10-27 18:06:23,injury_reports_2023.csv,1.0,C,NYG
+2023,REG,NYJ,8,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-10-27 18:40:24,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,8,00-0039145,C,Joe Tippmann,Joe,Tippmann,Quadricep,,Out,Quadricep,,Did Not Participate In Practice,2023-10-27 18:41:37,injury_reports_2023.csv,3.0,C,NYJ
+2023,REG,PIT,8,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-10-25 20:04:04,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,PIT,8,00-0035383,G,Nate Herbig,Nate,Herbig,,,,Illness,,Full Participation in Practice,2023-10-27 19:01:24,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,SEA,8,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Elbow,,Full Participation in Practice,2023-10-25 22:59:45,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,8,00-0034495,C,Evan Brown,Evan,Brown,,,,Hip,,Full Participation in Practice,2023-10-27 21:06:01,injury_reports_2023.csv,0.0,C,SEA
+2023,REG,SEA,8,00-0036795,T,Jake Curhan,Jake,Curhan,,,,Ankle,,Full Participation in Practice,2023-10-25 22:59:59,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SEA,8,00-0036417,G,Damien Lewis,Damien,Lewis,,,,Ankle,,Full Participation in Practice,2023-10-27 21:06:49,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,8,00-0035141,G,Phil Haynes,Phil,Haynes,Calf,,Doubtful,Calf,,Did Not Participate In Practice,2023-10-27 19:33:48,injury_reports_2023.csv,2.0,G,SEA
+2023,REG,SF,8,00-0027857,T,Trent Williams,Trent,Williams,Ankle,,Questionable,Ankle,,Did Not Participate In Practice,2023-10-27 21:08:56,injury_reports_2023.csv,1.0,T,SF
+2023,REG,TB,8,00-0031142,G,Matt Feiler,Matt,Feiler,Knee,,Out,Knee,,Did Not Participate In Practice,2023-10-25 15:34:53,injury_reports_2023.csv,3.0,G,TB
+2023,REG,TEN,8,00-0036171,G,Aaron Brewer,Aaron,Brewer,,,,Neck,,Full Participation in Practice,2023-10-27 19:40:15,injury_reports_2023.csv,0.0,G,TEN
+2023,REG,WAS,8,00-0036618,G,Samuel Cosmi,Samuel,Cosmi,,,,Hip,,Full Participation in Practice,2023-10-27 17:21:13,injury_reports_2023.csv,0.0,G,WAS
+2023,REG,WAS,8,00-0036334,G,Saahdiq Charles,Saahdiq,Charles,Calf,,Out,Calf,,Did Not Participate In Practice,2023-10-27 17:21:52,injury_reports_2023.csv,3.0,G,WAS
+2023,REG,ARZ,9,00-0035992,C,Trystan Colon,Trystan,Colon,Calf,,Out,Calf,,Did Not Participate In Practice,2023-11-03 19:27:01,injury_reports_2023.csv,3.0,C,ARI
+2023,REG,BLT,9,00-0036977,G,Ben Cleveland,Ben,Cleveland,,,,Illness,,Full Participation in Practice,2023-11-03 19:52:49,injury_reports_2023.csv,0.0,G,BAL
+2023,REG,BLT,9,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,,,,Shoulder,,Full Participation in Practice,2023-11-03 19:52:36,injury_reports_2023.csv,0.0,T,BAL
+2023,REG,BLT,9,00-0031330,T,Morgan Moses,Morgan,Moses,Shoulder,,Doubtful,Shoulder,,Did Not Participate In Practice,2023-11-03 19:53:53,injury_reports_2023.csv,2.0,T,BAL
+2023,REG,CAR,9,00-0034261,G,Austin Corbett,Austin,Corbett,,,,Knee,,Full Participation in Practice,2023-11-03 17:40:18,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,9,00-0037297,G,Cade Mays,Cade,Mays,,,,Ankle,,Full Participation in Practice,2023-11-03 17:41:20,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,9,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2023-11-03 17:41:33,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CHI,9,00-0036905,T,Larry Borom,Larry,Borom,,,,Not injury related - personal matter,,Full Participation in Practice,2023-11-03 18:37:52,injury_reports_2023.csv,0.0,T,CHI
+2023,REG,CHI,9,00-0033082,C,Lucas Patrick,Lucas,Patrick,,,,Back,,Full Participation in Practice,2023-11-03 18:37:45,injury_reports_2023.csv,0.0,C,CHI
+2023,REG,CHI,9,00-0035649,G,Nate Davis,Nate,Davis,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-11-03 18:39:19,injury_reports_2023.csv,3.0,G,CHI
+2023,REG,CHI,9,00-0037081,T,Braxton Jones,Braxton,Jones,Neck,,Questionable,Neck,,Full Participation in Practice,2023-11-03 18:38:23,injury_reports_2023.csv,1.0,T,CHI
+2023,REG,CIN,9,00-0034752,T,Orlando Brown,Orlando,Brown,,,,Groin,,Full Participation in Practice,2023-11-03 18:05:45,injury_reports_2023.csv,0.0,T,CIN
+2023,REG,CIN,9,00-0035245,G,Max Scharping,Max,Scharping,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-11-03 18:07:02,injury_reports_2023.csv,1.0,G,CIN
+2023,REG,CLV,9,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-01 20:31:52,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,9,00-0036267,T,Jedrick Wills,Jedrick,Wills,,,,Foot,Ankle,Full Participation in Practice,2023-11-03 19:12:28,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,9,00-0039014,T,Dawand Jones,Dawand,Jones,Shoulder,,Questionable,Shoulder,,Limited Participation in Practice,2023-11-03 19:12:36,injury_reports_2023.csv,1.0,T,CLE
+2023,REG,DAL,9,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,,Limited Participation in Practice,2023-11-01 19:34:25,injury_reports_2023.csv,0.0,G,DAL
+2023,REG,DAL,9,00-0035698,T,Chuma Edoga,Chuma,Edoga,Ankle,Knee,Questionable,Ankle,Knee,Limited Participation in Practice,2023-11-03 18:19:09,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,DAL,9,00-0027947,T,Tyron Smith,Tyron,Smith,Neck,,Questionable,Neck,,Limited Participation in Practice,2023-11-03 18:19:09,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,GB,9,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Knee,,Limited Participation in Practice,2023-11-03 19:30:17,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,9,00-0035084,T,Yosuah Nijman,Yosuah,Nijman,,,,Foot,,Limited Participation in Practice,2023-11-03 19:30:17,injury_reports_2023.csv,0.0,T,GB
+2023,REG,HST,9,00-0032466,T,George Fant,George,Fant,,,,Foot,Shoulder,Full Participation in Practice,2023-11-03 19:50:30,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,9,00-0035234,T,Tytus Howard,Tytus,Howard,,,,Knee,,Full Participation in Practice,2023-11-03 19:50:30,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,9,00-0036363,G,Josh Jones,Josh,Jones,,,,Hand,,Full Participation in Practice,2023-11-03 19:50:30,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,9,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-11-03 19:50:57,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,IND,9,00-0034836,T,Braden Smith,Braden,Smith,Hip,Wrist,Out,Hip,Wrist,Did Not Participate In Practice,2023-11-03 18:27:12,injury_reports_2023.csv,3.0,T,IND
+2023,REG,IND,9,00-0039158,T,Blake Freeland,Blake,Freeland,Back,,Questionable,Back,,Did Not Participate In Practice,2023-11-03 18:26:46,injury_reports_2023.csv,1.0,T,IND
+2023,REG,LA,9,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-03 19:43:32,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,9,00-0032242,T,Rob Havenstein,Rob,Havenstein,Calf,,Questionable,Calf,,Did Not Participate In Practice,2023-11-03 21:41:00,injury_reports_2023.csv,1.0,T,LA
+2023,REG,LV,9,00-0037322,T,Thayer Munford,Thayer,Munford,Neck,,Out,Neck,,Did Not Participate In Practice,2023-11-03 20:35:25,injury_reports_2023.csv,3.0,T,LV
+2023,REG,MIA,9,00-0036325,G,Robert Hunt,Robert,Hunt,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-11-03 15:51:03,injury_reports_2023.csv,3.0,G,MIA
+2023,REG,MIA,9,00-0030067,T,Terron Armstead,Terron,Armstead,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-11-03 15:50:51,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIA,9,00-0034352,C,Connor Williams,Connor,Williams,Groin,,Questionable,Groin,,Limited Participation in Practice,2023-11-03 15:50:51,injury_reports_2023.csv,1.0,C,MIA
+2023,REG,MIN,9,00-0036616,T,Christian Darrisaw,Christian,Darrisaw,Groin,,Questionable,Groin,,Full Participation in Practice,2023-11-04 22:49:00,injury_reports_2023.csv,1.0,T,MIN
+2023,REG,MIN,9,00-0031734,G,Chris Reed,Chris,Reed,Foot,,Questionable,Foot,,Full Participation in Practice,2023-11-03 19:08:17,injury_reports_2023.csv,1.0,G,MIN
+2023,REG,NE,9,00-0034957,T,Calvin Anderson,Calvin,Anderson,Illness,,Out,Illness,,Did Not Participate In Practice,2023-11-03 19:17:25,injury_reports_2023.csv,3.0,T,NE
+2023,REG,NE,9,00-0032071,T,Trenton Brown,Trenton,Brown,Ankle,Knee,Questionable,Ankle,Knee,Did Not Participate In Practice,2023-11-03 19:17:13,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,9,00-0037287,T,Vederian Lowe,Vederian,Lowe,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-11-03 19:17:13,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NO,9,00-0030694,T,James Hurst,James,Hurst,,,,Ankle,,Full Participation in Practice,2023-11-03 19:07:27,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,9,00-0032203,G,Andrus Peat,Andrus,Peat,,,,Ankle,,Full Participation in Practice,2023-11-03 19:06:45,injury_reports_2023.csv,0.0,G,NO
+2023,REG,NO,9,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Not injury related - resting player,,Limited Participation in Practice,2023-11-01 20:12:47,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NYG,9,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-11-03 18:23:02,injury_reports_2023.csv,1.0,T,NYG
+2023,REG,NYG,9,00-0036386,T,Andrew Thomas,Andrew,Thomas,Hamstring,,Questionable,Hamstring,,Limited Participation in Practice,2023-11-03 18:23:02,injury_reports_2023.csv,1.0,T,NYG
+2023,REG,NYJ,9,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-11-04 19:53:11,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,9,00-0039145,C,Joe Tippmann,Joe,Tippmann,,,,Quadricep,,Full Participation in Practice,2023-11-04 19:53:37,injury_reports_2023.csv,0.0,C,NYJ
+2023,REG,NYJ,9,00-0032234,G,Laken Tomlinson,Laken,Tomlinson,,,,Hamstring,,Full Participation in Practice,2023-11-04 19:53:49,injury_reports_2023.csv,0.0,G,NYJ
+2023,REG,NYJ,9,00-0026166,T,Duane Brown,Duane,Brown,Hip,,Out,Hip,,Full Participation in Practice,2023-11-04 19:54:42,injury_reports_2023.csv,3.0,T,NYJ
+2023,REG,PHI,9,00-0035384,G,Iosua Opeta,Iosua,Opeta,,,,Hip,,Full Participation in Practice,2023-11-03 19:52:36,injury_reports_2023.csv,0.0,G,PHI
+2023,REG,PHI,9,00-0038112,G,Cam Jurgens,Cam,Jurgens,Foot,,Out,Foot,,Limited Participation in Practice,2023-11-03 19:54:40,injury_reports_2023.csv,3.0,G,PHI
+2023,REG,SEA,9,00-0036417,G,Damien Lewis,Damien,Lewis,,,,Ankle,Illness,Full Participation in Practice,2023-11-03 21:07:39,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,9,00-0035141,G,Phil Haynes,Phil,Haynes,Calf,,Questionable,Calf,,Full Participation in Practice,2023-11-03 19:54:50,injury_reports_2023.csv,1.0,G,SEA
+2023,REG,SEA,9,00-0039020,G,Anthony Bradford,Anthony,Bradford,Ankle,Knee,Questionable,Ankle,Knee,Limited Participation in Practice,2023-11-03 19:55:24,injury_reports_2023.csv,1.0,G,SEA
+2023,REG,TB,9,00-0036406,T,Tristan Wirfs,Tristan,Wirfs,,,,Quadricep,,Full Participation in Practice,2023-11-03 18:15:31,injury_reports_2023.csv,0.0,T,TB
+2023,REG,TB,9,00-0031142,G,Matt Feiler,Matt,Feiler,Knee,,Out,Knee,,Did Not Participate In Practice,2023-11-03 18:19:26,injury_reports_2023.csv,3.0,G,TB
+2023,REG,TEN,9,00-0029963,T,Christopher Hubbard,Christopher,Hubbard,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-11-01 19:21:41,injury_reports_2023.csv,3.0,T,TEN
+2023,REG,WAS,9,00-0039008,C,Ricky Stromberg,Ricky,Stromberg,Knee,,Out,Knee,,Did Not Participate In Practice,2023-11-03 17:24:33,injury_reports_2023.csv,3.0,C,WAS
+2023,REG,ARZ,10,00-0035992,C,Trystan Colon,Trystan,Colon,Calf,,Out,Calf,,Did Not Participate In Practice,2023-11-10 19:53:51,injury_reports_2023.csv,3.0,C,ARI
+2023,REG,ARZ,10,00-0032222,T,D.J. Humphries,D.J.,Humphries,Ankle,,Questionable,Ankle,,Did Not Participate In Practice,2023-11-10 19:53:44,injury_reports_2023.csv,1.0,T,ARI
+2023,REG,ARZ,10,00-0034346,G,Will Hernandez,Will,Hernandez,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-11-10 19:53:44,injury_reports_2023.csv,1.0,G,ARI
+2023,REG,ARZ,10,00-0035853,T,Carter O'Donnell,Carter,O'Donnell,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-11-10 19:53:44,injury_reports_2023.csv,1.0,T,ARI
+2023,REG,BLT,10,00-0031330,T,Morgan Moses,Morgan,Moses,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-11-10 21:00:06,injury_reports_2023.csv,1.0,T,BAL
+2023,REG,CAR,10,00-0037229,T,Ikem Ekwonu,Ikem,Ekwonu,,,,Ankle,,Full Participation in Practice,2023-11-08 17:34:01,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CHI,10,00-0035649,G,Nate Davis,Nate,Davis,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-11-08 21:18:50,injury_reports_2023.csv,3.0,G,CHI
+2023,REG,CLV,10,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-08 20:25:28,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,10,00-0036236,C,Nick Harris,Nick,Harris,,,,Toe,,Full Participation in Practice,2023-11-10 20:45:41,injury_reports_2023.csv,0.0,C,CLE
+2023,REG,CLV,10,00-0039014,T,Dawand Jones,Dawand,Jones,Knee,Shoulder,Out,Knee,Shoulder,Did Not Participate In Practice,2023-11-10 20:46:54,injury_reports_2023.csv,3.0,T,CLE
+2023,REG,DAL,10,00-0036376,C,Tyler Biadasz,Tyler,Biadasz,,,,Ankle,,Full Participation in Practice,2023-11-10 19:58:35,injury_reports_2023.csv,0.0,C,DAL
+2023,REG,DAL,10,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Illness,,Full Participation in Practice,2023-11-10 19:59:06,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DEN,10,00-0034978,G,Ben Powers,Ben,Powers,,,,Ankle,,Full Participation in Practice,2023-11-11 21:15:30,injury_reports_2023.csv,0.0,G,DEN
+2023,REG,DET,10,00-0036258,G,Jonah Jackson,Jonah,Jackson,,,,Ankle,,Full Participation in Practice,2023-11-10 21:51:53,injury_reports_2023.csv,0.0,G,DET
+2023,REG,DET,10,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,,Full Participation in Practice,2023-11-10 21:51:53,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,10,00-0032785,G,Halapoulivaati Vaitai,Halapoulivaati,Vaitai,Back,,Out,Back,,Did Not Participate In Practice,2023-11-10 21:53:36,injury_reports_2023.csv,3.0,G,DET
+2023,REG,DET,10,00-0033863,T,Dan Skipper,Dan,Skipper,Ribs,,Questionable,Ribs,,Full Participation in Practice,2023-11-10 21:51:55,injury_reports_2023.csv,1.0,T,DET
+2023,REG,GB,10,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Knee,,Limited Participation in Practice,2023-11-10 20:54:24,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,10,00-0036622,C,Josh Myers,Josh,Myers,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-11-10 20:54:33,injury_reports_2023.csv,1.0,C,GB
+2023,REG,GB,10,00-0035084,T,Yosuah Nijman,Yosuah,Nijman,Back,,Questionable,Back,,Limited Participation in Practice,2023-11-10 20:54:33,injury_reports_2023.csv,1.0,T,GB
+2023,REG,GB,10,00-0036246,G,Jon Runyan,Jon,Runyan,Neck,,Questionable,Neck,,Limited Participation in Practice,2023-11-10 20:54:33,injury_reports_2023.csv,1.0,G,GB
+2023,REG,HST,10,00-0032466,T,George Fant,George,Fant,,,,Knee,,Full Participation in Practice,2023-11-10 20:54:16,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,10,00-0036195,T,Charlie Heck,Charlie,Heck,,,,Back,,Full Participation in Practice,2023-11-10 20:54:16,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,10,00-0035234,T,Tytus Howard,Tytus,Howard,,,,Knee,,Full Participation in Practice,2023-11-10 20:54:16,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,10,00-0036363,G,Josh Jones,Josh,Jones,,,,Hand,,Full Participation in Practice,2023-11-10 20:54:16,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,10,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-11-10 20:55:08,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,IND,10,00-0034836,T,Braden Smith,Braden,Smith,,,,Hip,Wrist,Full Participation in Practice,2023-11-10 19:19:06,injury_reports_2023.csv,0.0,T,IND
+2023,REG,JAX,10,00-0036327,G,Ezra Cleveland,Ezra,Cleveland,Toe,,Questionable,Toe,,Limited Participation in Practice,2023-11-10 20:15:51,injury_reports_2023.csv,1.0,G,JAX
+2023,REG,LV,10,00-0037322,T,Thayer Munford,Thayer,Munford,,,,Neck,,Full Participation in Practice,2023-11-10 21:40:24,injury_reports_2023.csv,0.0,T,LV
+2023,REG,LV,10,00-0029685,G,Greg Van Roten,Greg,Van Roten,,,,Biceps,Back,Limited Participation in Practice,2023-11-10 21:39:51,injury_reports_2023.csv,0.0,G,LV
+2023,REG,LV,10,00-0034759,T,Kolton Miller,Kolton,Miller,Shoulder,,Doubtful,Shoulder,,Did Not Participate In Practice,2023-11-10 21:45:14,injury_reports_2023.csv,2.0,T,LV
+2023,REG,MIN,10,00-0036616,T,Christian Darrisaw,Christian,Darrisaw,,,,Groin,,Full Participation in Practice,2023-11-10 19:50:50,injury_reports_2023.csv,0.0,T,MIN
+2023,REG,MIN,10,00-0031734,G,Chris Reed,Chris,Reed,Foot,,Questionable,Foot,,Full Participation in Practice,2023-11-10 19:54:13,injury_reports_2023.csv,1.0,G,MIN
+2023,REG,NE,10,00-0031852,C,David Andrews,David,Andrews,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-10 16:53:29,injury_reports_2023.csv,0.0,C,NE
+2023,REG,NE,10,00-0032071,T,Trenton Brown,Trenton,Brown,Not injury related - personal matter,Ankle,Out,Not injury related - personal matter,Ankle,Did Not Participate In Practice,2023-11-10 16:56:01,injury_reports_2023.csv,3.0,T,NE
+2023,REG,NE,10,00-0037287,T,Vederian Lowe,Vederian,Lowe,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-11-10 16:55:41,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NO,10,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Not injury related - resting player,,Limited Participation in Practice,2023-11-10 20:20:32,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NYG,10,00-0033511,C,Sean Harlow,Sean,Harlow,,,,Not injury related - personal matter,,Full Participation in Practice,2023-11-10 19:06:10,injury_reports_2023.csv,0.0,C,NYG
+2023,REG,NYG,10,00-0030585,G,Justin Pugh,Justin,Pugh,,,,Ankle,,Full Participation in Practice,2023-11-10 19:06:10,injury_reports_2023.csv,0.0,G,NYG
+2023,REG,NYG,10,00-0036386,T,Andrew Thomas,Andrew,Thomas,,,,Hamstring,,Full Participation in Practice,2023-11-10 19:06:54,injury_reports_2023.csv,0.0,T,NYG
+2023,REG,NYG,10,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-11-10 19:08:55,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYG,10,00-0031581,G,Mark Glowinski,Mark,Glowinski,Not injury related - personal matter,,Questionable,Not injury related - personal matter,,Did Not Participate In Practice,2023-11-10 19:08:04,injury_reports_2023.csv,1.0,G,NYG
+2023,REG,NYJ,10,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-11-10 20:50:52,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,10,00-0031433,T,Billy Turner,Billy,Turner,Finger,,Out,Finger,,Did Not Participate In Practice,2023-11-10 20:52:27,injury_reports_2023.csv,3.0,T,NYJ
+2023,REG,NYJ,10,00-0026166,T,Duane Brown,Duane,Brown,Hip,,Out,Hip,,Full Participation in Practice,2023-11-10 20:52:11,injury_reports_2023.csv,3.0,T,NYJ
+2023,REG,SEA,10,00-0037821,T,Charles Cross,Charles,Cross,,,,Ankle,,Full Participation in Practice,2023-11-10 22:15:57,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SEA,10,00-0039020,G,Anthony Bradford,Anthony,Bradford,Knee,Not injury related - personal matter,Out,Knee,Not injury related - personal ,Did Not Participate In Practice,2023-11-10 20:49:49,injury_reports_2023.csv,3.0,G,SEA
+2023,REG,SF,10,00-0036551,G,Aaron Banks,Aaron,Banks,Toe,,Out,Toe,,Did Not Participate In Practice,2023-11-10 20:57:13,injury_reports_2023.csv,3.0,G,SF
+2023,REG,SF,10,00-0027857,T,Trent Williams,Trent,Williams,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-11-10 20:57:06,injury_reports_2023.csv,1.0,T,SF
+2023,REG,TB,10,00-0037835,T,Luke Goedeke,Luke,Goedeke,,,,Foot,,Full Participation in Practice,2023-11-10 20:20:02,injury_reports_2023.csv,0.0,T,TB
+2023,REG,TB,10,00-0031142,G,Matt Feiler,Matt,Feiler,Knee,,Doubtful,Knee,,Limited Participation in Practice,2023-11-10 20:21:17,injury_reports_2023.csv,2.0,G,TB
+2023,REG,TEN,10,00-0029963,T,Christopher Hubbard,Christopher,Hubbard,,,,Concussion,,Full Participation in Practice,2023-11-10 19:57:12,injury_reports_2023.csv,0.0,T,TEN
+2023,REG,TEN,10,00-0033221,G,Daniel Brunskill,Daniel,Brunskill,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-11-10 19:58:55,injury_reports_2023.csv,3.0,G,TEN
+2023,REG,TEN,10,00-0037754,T,Nicholas Petit-Frere,Nicholas,Petit-Frere,Shoulder,,Out,Shoulder,,Did Not Participate In Practice,2023-11-10 19:59:40,injury_reports_2023.csv,3.0,T,TEN
+2023,REG,ARZ,11,00-0035992,C,Trystan Colon,Trystan,Colon,Calf,,Questionable,Calf,,Limited Participation in Practice,2023-11-17 20:45:31,injury_reports_2023.csv,1.0,C,ARI
+2023,REG,ARZ,11,00-0032222,T,D.J. Humphries,D.J.,Humphries,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-11-17 20:45:31,injury_reports_2023.csv,1.0,T,ARI
+2023,REG,BLT,11,00-0031330,T,Morgan Moses,Morgan,Moses,,,,Shoulder,,Full Participation in Practice,2023-11-15 19:32:03,injury_reports_2023.csv,0.0,T,BAL
+2023,REG,BLT,11,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,Knee,,Out,Knee,,Did Not Participate In Practice,2023-11-15 19:33:38,injury_reports_2023.csv,3.0,T,BAL
+2023,REG,BLT,11,00-0036369,G,John Simpson,John,Simpson,Illness,Shoulder,Questionable,Illness,Shoulder,Full Participation in Practice,2023-11-15 19:33:50,injury_reports_2023.csv,1.0,G,BAL
+2023,REG,CAR,11,00-0034261,G,Austin Corbett,Austin,Corbett,,,,Calf,,Full Participation in Practice,2023-11-17 18:31:57,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,11,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2023-11-17 18:32:06,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CHI,11,00-0035649,G,Nate Davis,Nate,Davis,,,,Ankle,,Full Participation in Practice,2023-11-17 19:40:20,injury_reports_2023.csv,0.0,G,CHI
+2023,REG,CLV,11,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-15 20:47:03,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,11,00-0034399,G,Wyatt Teller,Wyatt,Teller,,,,Ankle,,Full Participation in Practice,2023-11-17 19:58:55,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,11,00-0033995,G,Michael Dunn,Michael,Dunn,Calf,,Questionable,Calf,,Full Participation in Practice,2023-11-17 19:59:52,injury_reports_2023.csv,1.0,G,CLE
+2023,REG,CLV,11,00-0039014,T,Dawand Jones,Dawand,Jones,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-11-17 19:59:52,injury_reports_2023.csv,1.0,T,CLE
+2023,REG,DAL,11,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-16 20:44:29,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DEN,11,00-0033538,T,Garett Bolles,Garett,Bolles,,,,Ankle,,Limited Participation in Practice,2023-11-17 22:02:53,injury_reports_2023.csv,0.0,T,DEN
+2023,REG,DEN,11,00-0034978,G,Ben Powers,Ben,Powers,,,,Foot,,Limited Participation in Practice,2023-11-17 22:02:33,injury_reports_2023.csv,0.0,G,DEN
+2023,REG,DET,11,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,Back,Full Participation in Practice,2023-11-17 20:56:11,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,11,00-0036258,G,Jonah Jackson,Jonah,Jackson,Wrist,Ankle,Out,Wrist,Ankle,Did Not Participate In Practice,2023-11-17 20:56:28,injury_reports_2023.csv,3.0,G,DET
+2023,REG,GB,11,00-0035084,T,Yosuah Nijman,Yosuah,Nijman,,,,Back,,Full Participation in Practice,2023-11-17 20:50:15,injury_reports_2023.csv,0.0,T,GB
+2023,REG,GB,11,00-0036246,G,Jon Runyan,Jon,Runyan,,,,Neck,,Full Participation in Practice,2023-11-17 20:50:15,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,11,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Knee,,Limited Participation in Practice,2023-11-17 20:50:15,injury_reports_2023.csv,0.0,G,GB
+2023,REG,HST,11,00-0032466,T,George Fant,George,Fant,,,,Hip,,Full Participation in Practice,2023-11-17 21:05:07,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,11,00-0036195,T,Charlie Heck,Charlie,Heck,,,,Back,,Full Participation in Practice,2023-11-17 21:03:56,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,11,00-0035234,T,Tytus Howard,Tytus,Howard,,,,Knee,,Full Participation in Practice,2023-11-17 21:03:56,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,11,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-11-17 21:03:56,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,JAX,11,00-0038934,T,Anton Harrison,Anton,Harrison,Back,,Questionable,Back,,Limited Participation in Practice,2023-11-17 18:30:00,injury_reports_2023.csv,1.0,T,JAX
+2023,REG,LA,11,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-17 20:47:56,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,11,00-0032242,T,Rob Havenstein,Rob,Havenstein,,,,Calf,,Full Participation in Practice,2023-11-17 20:47:36,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LAC,11,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Knee,,Full Participation in Practice,2023-11-17 21:12:08,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LV,11,00-0029685,G,Greg Van Roten,Greg,Van Roten,,,,Biceps,"quadricep, triceps",Limited Participation in Practice,2023-11-17 20:31:17,injury_reports_2023.csv,0.0,G,LV
+2023,REG,LV,11,00-0034759,T,Kolton Miller,Kolton,Miller,Shoulder,,Questionable,Shoulder,,Limited Participation in Practice,2023-11-17 20:31:45,injury_reports_2023.csv,1.0,T,LV
+2023,REG,LV,11,00-0037255,G,Dylan Parham,Dylan,Parham,Calf,,Questionable,Calf,,Limited Participation in Practice,2023-11-17 20:31:45,injury_reports_2023.csv,1.0,G,LV
+2023,REG,MIA,11,00-0030067,T,Terron Armstead,Terron,Armstead,,,,Knee,,Limited Participation in Practice,2023-11-17 20:46:47,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIA,11,00-0036325,G,Robert Hunt,Robert,Hunt,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-11-17 20:48:07,injury_reports_2023.csv,3.0,G,MIA
+2023,REG,MIA,11,00-0036596,G,Robert Jones,Robert,Jones,Knee,,Out,Knee,,Did Not Participate In Practice,2023-11-17 20:48:48,injury_reports_2023.csv,3.0,G,MIA
+2023,REG,MIN,11,00-0031734,G,Chris Reed,Chris,Reed,Foot,,Questionable,Foot,,Full Participation in Practice,2023-11-17 20:06:50,injury_reports_2023.csv,1.0,G,MIN
+2023,REG,NYG,11,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-11-17 20:49:37,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYG,11,00-0036386,T,Andrew Thomas,Andrew,Thomas,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-11-17 20:50:04,injury_reports_2023.csv,1.0,T,NYG
+2023,REG,NYJ,11,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,Wrist,Full Participation in Practice,2023-11-17 19:51:07,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,11,00-0031433,T,Billy Turner,Billy,Turner,Finger,,Out,Finger,,Did Not Participate In Practice,2023-11-17 19:51:54,injury_reports_2023.csv,3.0,T,NYJ
+2023,REG,NYJ,11,00-0026166,T,Duane Brown,Duane,Brown,Hip,,Out,Hip,,Full Participation in Practice,2023-11-17 19:51:30,injury_reports_2023.csv,3.0,T,NYJ
+2023,REG,PHI,11,00-0038112,G,Cam Jurgens,Cam,Jurgens,,,,Foot,,Full Participation in Practice,2023-11-18 20:42:36,injury_reports_2023.csv,0.0,G,PHI
+2023,REG,PIT,11,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-15 21:03:08,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,SEA,11,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Knee,,Full Participation in Practice,2023-11-17 22:24:28,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,11,00-0036417,G,Damien Lewis,Damien,Lewis,,,,Back,,Full Participation in Practice,2023-11-17 22:24:28,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,11,00-0037812,T,Abraham Lucas,Abraham,Lucas,Knee,,Questionable,Knee,,Did Not Participate In Practice,2023-11-17 21:00:25,injury_reports_2023.csv,1.0,T,SEA
+2023,REG,SF,11,00-0036256,T,Colton McKivitz,Colton,McKivitz,,,,Ankle,Knee,Full Participation in Practice,2023-11-17 22:02:09,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,11,00-0027857,T,Trent Williams,Trent,Williams,,,,Ankle,Not injury related - resting p,Full Participation in Practice,2023-11-17 22:01:51,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,11,00-0036551,G,Aaron Banks,Aaron,Banks,Toe,,Out,Toe,,Did Not Participate In Practice,2023-11-17 22:02:16,injury_reports_2023.csv,3.0,G,SF
+2023,REG,SF,11,00-0037831,G,Nick Zakelj,Nick,Zakelj,Biceps,,Out,Biceps,,Did Not Participate In Practice,2023-11-17 22:02:38,injury_reports_2023.csv,3.0,G,SF
+2023,REG,TB,11,00-0037835,G,Luke Goedeke,Luke,Goedeke,,,,Foot,,Full Participation in Practice,2023-11-17 20:51:07,injury_reports_2023.csv,0.0,G,TB
+2023,REG,TB,11,00-0031142,G,Matt Feiler,Matt,Feiler,Knee,,Questionable,Knee,,Full Participation in Practice,2023-11-17 20:52:25,injury_reports_2023.csv,1.0,G,TB
+2023,REG,TEN,11,00-0035233,T,Andre Dillard,Andre,Dillard,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-11-17 20:17:58,injury_reports_2023.csv,3.0,T,TEN
+2023,REG,TEN,11,00-0033221,G,Daniel Brunskill,Daniel,Brunskill,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-11-17 20:17:38,injury_reports_2023.csv,1.0,G,TEN
+2023,REG,WAS,11,00-0030869,C,Tyler Larsen,Tyler,Larsen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-16 20:29:58,injury_reports_2023.csv,0.0,C,WAS
+2023,REG,BLT,12,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,Knee,,Questionable,Knee,,Did Not Participate In Practice,2023-11-24 21:25:20,injury_reports_2023.csv,1.0,T,BAL
+2023,REG,CAR,12,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2023-11-24 17:54:12,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CHI,12,00-0033082,C,Lucas Patrick,Lucas,Patrick,,,,Back,,Full Participation in Practice,2023-11-25 19:49:29,injury_reports_2023.csv,0.0,C,CHI
+2023,REG,CHI,12,00-0036905,T,Larry Borom,Larry,Borom,Illness,,Doubtful,Illness,,Did Not Participate In Practice,2023-11-25 19:49:59,injury_reports_2023.csv,2.0,T,CHI
+2023,REG,CIN,12,00-0035629,T,Jonah Williams,Jonah,Williams,,,,Shoulder,,Full Participation in Practice,2023-11-24 19:12:12,injury_reports_2023.csv,0.0,T,CIN
+2023,REG,CIN,12,00-0036852,T,D'Ante Smith,D'Ante,Smith,Knee,,Doubtful,Knee,,Did Not Participate In Practice,2023-11-24 19:14:00,injury_reports_2023.csv,2.0,T,CIN
+2023,REG,CLV,12,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,Knee,Full Participation in Practice,2023-11-24 20:13:23,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,12,00-0039014,T,Dawand Jones,Dawand,Jones,,,,Knee,,Full Participation in Practice,2023-11-24 20:13:14,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,12,00-0034399,G,Wyatt Teller,Wyatt,Teller,,,,Ankle,,Full Participation in Practice,2023-11-24 20:13:14,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,DAL,12,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-21 20:44:33,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,12,00-0036036,T,Terence Steele,Terence,Steele,,,,Ankle,,Full Participation in Practice,2023-11-22 17:18:33,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DET,12,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Toe,,Full Participation in Practice,2023-11-22 20:44:13,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,12,00-0036258,G,Jonah Jackson,Jonah,Jackson,Wrist,,Out,Wrist,,Did Not Participate In Practice,2023-11-22 20:44:32,injury_reports_2023.csv,3.0,G,DET
+2023,REG,GB,12,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Knee,,Limited Participation in Practice,2023-11-22 21:20:42,injury_reports_2023.csv,0.0,G,GB
+2023,REG,HST,12,00-0036195,T,Charlie Heck,Charlie,Heck,,,,Back,,Full Participation in Practice,2023-11-24 20:21:55,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,12,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-11-24 20:21:55,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,12,00-0038936,C,Juice Scruggs,Juice,Scruggs,Hamstring,,Questionable,Hamstring,,Full Participation in Practice,2023-11-24 20:22:08,injury_reports_2023.csv,1.0,C,HOU
+2023,REG,IND,12,00-0032383,C,Ryan Kelly,Ryan,Kelly,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-11-24 20:15:58,injury_reports_2023.csv,3.0,C,IND
+2023,REG,KC,12,00-0032217,T,Donovan Smith,Donovan,Smith,,,,Neck,,Full Participation in Practice,2023-11-24 19:41:41,injury_reports_2023.csv,0.0,T,KC
+2023,REG,LA,12,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-24 21:53:17,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,12,00-0036339,G,Kevin Dotson,Kevin,Dotson,,,,Shoulder,,Full Participation in Practice,2023-11-24 21:51:33,injury_reports_2023.csv,0.0,G,LA
+2023,REG,LA,12,00-0032242,T,Rob Havenstein,Rob,Havenstein,,,,Not injury related - resting player,,Full Participation in Practice,2023-11-24 21:51:04,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LA,12,00-0034114,C,Coleman Shelton,Coleman,Shelton,,,,Ankle,,Full Participation in Practice,2023-11-24 21:50:53,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LAC,12,00-0034436,C,Will Clapp,Will,Clapp,,,,Knee,,Full Participation in Practice,2023-11-24 21:13:55,injury_reports_2023.csv,0.0,C,LAC
+2023,REG,LAC,12,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Knee,,Full Participation in Practice,2023-11-24 21:13:55,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LV,12,00-0035127,C,Andre James,Andre,James,,,,Knee,,Full Participation in Practice,2023-11-24 22:23:19,injury_reports_2023.csv,0.0,C,LV
+2023,REG,LV,12,00-0034759,T,Kolton Miller,Kolton,Miller,Shoulder,,Questionable,Shoulder,,Limited Participation in Practice,2023-11-24 22:23:55,injury_reports_2023.csv,1.0,T,LV
+2023,REG,MIA,12,00-0036596,G,Robert Jones,Robert,Jones,Knee,,Doubtful,Knee,,Limited Participation in Practice,2023-11-23 16:47:47,injury_reports_2023.csv,2.0,G,MIA
+2023,REG,MIA,12,00-0031921,T,Kendall Lamm,Kendall,Lamm,Back,,Questionable,,,"
+    ",2023-11-24 16:26:38,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIA,12,00-0030067,T,Terron Armstead,Terron,Armstead,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-11-23 16:47:32,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIA,12,00-0035117,G,Lester Cotton,Lester,Cotton,Hip,,Questionable,Hip,,Limited Participation in Practice,2023-11-23 16:47:32,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,MIA,12,00-0036325,G,Robert Hunt,Robert,Hunt,Hamstring,,Questionable,Hamstring,,Limited Participation in Practice,2023-11-23 16:47:32,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,MIA,12,00-0036248,T,Austin Jackson,Austin,Jackson,Oblique,,Questionable,Oblique,,Limited Participation in Practice,2023-11-23 16:47:32,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,NE,12,00-0032071,T,Trenton Brown,Trenton,Brown,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-11-24 20:39:18,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,12,00-0029672,T,Riley Reiff,Riley,Reiff,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-11-24 20:39:18,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NO,12,00-0030694,T,James Hurst,James,Hurst,,,,Illness,,Full Participation in Practice,2023-11-23 20:26:57,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,12,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Knee,,Full Participation in Practice,2023-11-24 21:18:39,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NYG,12,00-0036214,T,Tyre Phillips,Tyre,Phillips,,,,Knee,,Full Participation in Practice,2023-11-24 20:48:33,injury_reports_2023.csv,0.0,T,NYG
+2023,REG,NYG,12,00-0039019,C,John Michael Schmitz,John Michael,Schmitz,,,,Finger,,Full Participation in Practice,2023-11-24 20:48:33,injury_reports_2023.csv,0.0,C,NYG
+2023,REG,NYG,12,00-0036386,T,Andrew Thomas,Andrew,Thomas,,,,Knee,,Full Participation in Practice,2023-11-24 20:48:33,injury_reports_2023.csv,0.0,T,NYG
+2023,REG,NYG,12,00-0033511,C,Sean Harlow,Sean,Harlow,,,,Knee,,Limited Participation in Practice,2023-11-24 20:50:44,injury_reports_2023.csv,0.0,C,NYG
+2023,REG,NYG,12,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-11-24 20:51:33,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYJ,12,00-0036284,T,Mekhi Becton,Mekhi,Becton,Ankle,Knee,Questionable,Ankle,Knee,Did Not Participate In Practice,2023-11-23 19:10:32,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,NYJ,12,00-0026166,T,Duane Brown,Duane,Brown,Hip,,Questionable,Hip,,Full Participation in Practice,2023-11-23 19:10:32,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,NYJ,12,00-0031433,T,Billy Turner,Billy,Turner,Finger,,Questionable,Finger,,Full Participation in Practice,2023-11-23 19:10:32,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,PIT,12,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-22 20:34:32,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,SEA,12,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Knee,,Full Participation in Practice,2023-11-22 21:20:27,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,12,00-0037812,T,Abraham Lucas,Abraham,Lucas,Knee,,Questionable,Knee,,Full Participation in Practice,2023-11-22 20:42:57,injury_reports_2023.csv,1.0,T,SEA
+2023,REG,SF,12,00-0037829,G,Spencer Burford,Spencer,Burford,Knee,,Questionable,Knee,,Did Not Participate In Practice,2023-11-22 20:43:25,injury_reports_2023.csv,1.0,G,SF
+2023,REG,SF,12,00-0036551,G,Aaron Banks,Aaron,Banks,Toe,,Questionable,Toe,,Limited Participation in Practice,2023-11-22 20:43:25,injury_reports_2023.csv,1.0,G,SF
+2023,REG,TB,12,00-0036985,C,Robert Hainsey,Robert,Hainsey,,,,Knee,,Full Participation in Practice,2023-11-24 19:04:10,injury_reports_2023.csv,0.0,C,TB
+2023,REG,TB,12,00-0036406,T,Tristan Wirfs,Tristan,Wirfs,,,,Ankle,,Full Participation in Practice,2023-11-24 19:03:50,injury_reports_2023.csv,0.0,T,TB
+2023,REG,TEN,12,00-0035233,T,Andre Dillard,Andre,Dillard,,,,Concussion,,Full Participation in Practice,2023-11-24 20:12:37,injury_reports_2023.csv,0.0,T,TEN
+2023,REG,TEN,12,00-0029963,T,Christopher Hubbard,Christopher,Hubbard,Biceps,,Out,Biceps,,Did Not Participate In Practice,2023-11-24 20:13:53,injury_reports_2023.csv,3.0,T,TEN
+2023,REG,WAS,12,00-0036618,G,Samuel Cosmi,Samuel,Cosmi,,,,Chest,,Full Participation in Practice,2023-11-22 16:21:10,injury_reports_2023.csv,0.0,G,WAS
+2023,REG,ARZ,13,00-0033676,G,Elijah Wilkinson,Elijah,Wilkinson,Neck,,Out,Neck,,Limited Participation in Practice,2023-12-01 19:24:49,injury_reports_2023.csv,3.0,G,ARI
+2023,REG,ATL,13,00-0031279,T,Jake Matthews,Jake,Matthews,,,,Hip,,Full Participation in Practice,2023-12-01 19:33:01,injury_reports_2023.csv,0.0,T,ATL
+2023,REG,CAR,13,00-0038536,G,Chandler Zavala,Chandler,Zavala,,,,Knee,,Did Not Participate In Practice,2023-11-29 20:03:10,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,13,00-0037297,G,Cade Mays,Cade,Mays,,,,Ankle,,Full Participation in Practice,2023-12-01 17:49:46,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,13,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2023-12-01 17:50:09,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CAR,13,00-0038775,G,Nash Jensen,Nash,Jensen,Back,,Questionable,Back,,Limited Participation in Practice,2023-12-01 17:53:38,injury_reports_2023.csv,1.0,G,CAR
+2023,REG,CIN,13,00-0036852,T,D'Ante Smith,D'Ante,Smith,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-02 19:27:08,injury_reports_2023.csv,1.0,T,CIN
+2023,REG,CLV,13,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,Knee,Full Participation in Practice,2023-12-01 22:55:38,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,13,00-0034817,T,Geron Christian,Geron,Christian,,,,Finger,,Full Participation in Practice,2023-12-01 22:55:18,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,13,00-0034399,G,Wyatt Teller,Wyatt,Teller,,,,Calf,,Full Participation in Practice,2023-12-01 22:56:53,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,13,00-0036866,T,James Hudson,James,Hudson,Not injury related - personal matter,,Questionable,Not injury related - personal matter,,Did Not Participate In Practice,2023-12-02 19:07:14,injury_reports_2023.csv,1.0,T,CLE
+2023,REG,CLV,13,00-0036236,C,Nick Harris,Nick,Harris,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-01 21:33:24,injury_reports_2023.csv,1.0,C,CLE
+2023,REG,DAL,13,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-27 20:52:28,injury_reports_2023.csv,0.0,G,DAL
+2023,REG,DAL,13,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-27 20:52:40,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DET,13,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Back,Toe,Full Participation in Practice,2023-12-01 20:33:41,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,13,00-0036258,G,Jonah Jackson,Jonah,Jackson,Ankle,Wrist,Questionable,Ankle,Wrist,Full Participation in Practice,2023-12-01 20:33:47,injury_reports_2023.csv,1.0,G,DET
+2023,REG,HST,13,00-0032466,T,George Fant,George,Fant,,,,Hip,,Full Participation in Practice,2023-12-01 21:36:41,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,13,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-12-01 21:36:41,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,IND,13,00-0034836,T,Braden Smith,Braden,Smith,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-01 20:24:53,injury_reports_2023.csv,0.0,T,IND
+2023,REG,IND,13,00-0032383,C,Ryan Kelly,Ryan,Kelly,,,,Concussion,,Full Participation in Practice,2023-12-01 20:24:26,injury_reports_2023.csv,0.0,C,IND
+2023,REG,IND,13,00-0037757,T,Bernhard Raimann,Bernhard,Raimann,,,,Knee,,Full Participation in Practice,2023-12-01 20:24:26,injury_reports_2023.csv,0.0,T,IND
+2023,REG,KC,13,00-0032217,T,Donovan Smith,Donovan,Smith,,,,Neck,,Full Participation in Practice,2023-12-01 19:40:03,injury_reports_2023.csv,0.0,T,KC
+2023,REG,LA,13,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-01 20:38:52,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,13,00-0032242,T,Rob Havenstein,Rob,Havenstein,,,,Not injury related - resting player,,Full Participation in Practice,2023-12-01 20:38:37,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LAC,13,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Back,,Full Participation in Practice,2023-12-01 22:14:09,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,13,00-0035468,G,Zack Bailey,Zack,Bailey,Back,,Out,Back,,Did Not Participate In Practice,2023-12-01 22:14:36,injury_reports_2023.csv,3.0,G,LAC
+2023,REG,LAC,13,00-0035688,T,Trey Pipkins,Trey,Pipkins,Wrist,,Questionable,Wrist,,Limited Participation in Practice,2023-12-01 22:14:30,injury_reports_2023.csv,1.0,T,LAC
+2023,REG,MIA,13,00-0034352,C,Connor Williams,Connor,Williams,,,,Illness,,Full Participation in Practice,2023-12-01 20:26:10,injury_reports_2023.csv,0.0,C,MIA
+2023,REG,MIA,13,00-0036325,G,Robert Hunt,Robert,Hunt,,,,Hamstring,,Limited Participation in Practice,2023-12-01 20:17:58,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,13,00-0030067,T,Terron Armstead,Terron,Armstead,Knee,Quadricep,Questionable,Knee,Quadricep,Limited Participation in Practice,2023-12-01 20:26:16,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIA,13,00-0035117,G,Lester Cotton,Lester,Cotton,Illness,,Questionable,Illness,,Limited Participation in Practice,2023-12-01 20:26:16,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,MIA,13,00-0036596,G,Robert Jones,Robert,Jones,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-01 20:26:16,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,MIA,13,00-0031921,T,Kendall Lamm,Kendall,Lamm,Back,,Questionable,Back,,Limited Participation in Practice,2023-12-01 20:26:16,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,NE,13,00-0031852,C,David Andrews,David,Andrews,,,,Foot,,Full Participation in Practice,2023-12-01 20:32:51,injury_reports_2023.csv,0.0,C,NE
+2023,REG,NE,13,00-0032071,T,Trenton Brown,Trenton,Brown,Ankle,Chest,Questionable,Ankle,Chest,Limited Participation in Practice,2023-12-01 20:35:18,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,13,00-0029672,T,Riley Reiff,Riley,Reiff,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-01 20:35:18,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,13,00-0038569,T,Sidy Sow,Sidy,Sow,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-12-01 20:35:18,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NO,13,00-0032203,G,Andrus Peat,Andrus,Peat,,,,Shoulder,,Full Participation in Practice,2023-12-01 20:15:48,injury_reports_2023.csv,0.0,G,NO
+2023,REG,NO,13,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Knee,,Full Participation in Practice,2023-12-01 20:16:44,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,13,00-0035242,C,Erik McCoy,Erik,McCoy,Shoulder,,Questionable,Shoulder,,Limited Participation in Practice,2023-12-01 20:15:51,injury_reports_2023.csv,1.0,C,NO
+2023,REG,NYJ,13,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Ankle,Knee,Full Participation in Practice,2023-12-01 19:47:49,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,13,00-0031433,T,Billy Turner,Billy,Turner,,,,Finger,,Full Participation in Practice,2023-12-01 19:48:55,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,13,00-0032432,G,Wes Schweitzer,Wes,Schweitzer,Calf,,Questionable,Calf,,Full Participation in Practice,2023-12-01 19:49:21,injury_reports_2023.csv,1.0,G,NYJ
+2023,REG,PHI,13,00-0030561,T,Lane Johnson,Lane,Johnson,,,,Groin,,Full Participation in Practice,2023-12-01 20:50:31,injury_reports_2023.csv,0.0,T,PHI
+2023,REG,PIT,13,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-29 21:04:12,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,SEA,13,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Knee,,Full Participation in Practice,2023-11-29 21:02:56,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,13,00-0037812,T,Abraham Lucas,Abraham,Lucas,,,,Knee,,Full Participation in Practice,2023-11-29 21:02:56,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SEA,13,00-0035141,G,Phil Haynes,Phil,Haynes,Toe,,Out,Toe,,Did Not Participate In Practice,2023-11-29 20:40:44,injury_reports_2023.csv,3.0,G,SEA
+2023,REG,SF,13,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-11-29 23:02:05,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,13,00-0037829,G,Spencer Burford,Spencer,Burford,,,,Knee,,Full Participation in Practice,2023-12-01 20:42:50,injury_reports_2023.csv,0.0,G,SF
+2023,REG,TEN,13,00-0036171,G,Aaron Brewer,Aaron,Brewer,,,,Shoulder,,Limited Participation in Practice,2023-12-01 20:16:26,injury_reports_2023.csv,0.0,G,TEN
+2023,REG,TEN,13,00-0033221,G,Daniel Brunskill,Daniel,Brunskill,,,,Knee,,Limited Participation in Practice,2023-12-01 20:15:32,injury_reports_2023.csv,0.0,G,TEN
+2023,REG,WAS,13,00-0030869,C,Tyler Larsen,Tyler,Larsen,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-01 18:44:41,injury_reports_2023.csv,1.0,C,WAS
+2023,REG,ATL,14,00-0035235,T,Kaleb McGary,Kaleb,McGary,Knee,,Out,Knee,,Did Not Participate In Practice,2023-12-08 19:03:33,injury_reports_2023.csv,3.0,T,ATL
+2023,REG,ATL,14,00-0036957,C,Drew Dalman,Drew,Dalman,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-12-08 19:05:46,injury_reports_2023.csv,1.0,C,ATL
+2023,REG,CAR,14,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2023-12-08 17:25:01,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CAR,14,00-0034281,C,Bradley Bozeman,Bradley,Bozeman,Ankle,,Questionable,Ankle,,Full Participation in Practice,2023-12-08 17:26:35,injury_reports_2023.csv,1.0,C,CAR
+2023,REG,CHI,14,00-0036905,T,Larry Borom,Larry,Borom,,,,Illness,,Full Participation in Practice,2023-12-08 19:50:54,injury_reports_2023.csv,0.0,T,CHI
+2023,REG,CIN,14,00-0035629,T,Jonah Williams,Jonah,Williams,,,,Back,,Full Participation in Practice,2023-12-08 18:48:00,injury_reports_2023.csv,0.0,T,CIN
+2023,REG,CIN,14,00-0036852,T,D'Ante Smith,D'Ante,Smith,Not injury related - personal matter,,Questionable,Not injury related - personal matter,,Did Not Participate In Practice,2023-12-08 18:48:59,injury_reports_2023.csv,1.0,T,CIN
+2023,REG,CLV,14,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,Knee,Full Participation in Practice,2023-12-08 19:45:49,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,14,00-0034817,T,Geron Christian,Geron,Christian,,,,Finger,,Full Participation in Practice,2023-12-08 19:45:38,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,14,00-0036236,C,Nick Harris,Nick,Harris,,,,Knee,,Full Participation in Practice,2023-12-08 19:46:52,injury_reports_2023.csv,0.0,C,CLE
+2023,REG,CLV,14,00-0039014,T,Dawand Jones,Dawand,Jones,Knee,,Questionable,Knee,,Did Not Participate In Practice,2023-12-08 19:49:05,injury_reports_2023.csv,1.0,T,CLE
+2023,REG,CLV,14,00-0034399,G,Wyatt Teller,Wyatt,Teller,Calf,,Questionable,Calf,,Full Participation in Practice,2023-12-08 19:49:05,injury_reports_2023.csv,1.0,G,CLE
+2023,REG,DAL,14,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-07 20:51:43,injury_reports_2023.csv,0.0,G,DAL
+2023,REG,DAL,14,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-07 20:51:16,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,14,00-0037266,T,Matt Waletzko,Matt,Waletzko,Shoulder,,Out,Shoulder,,Full Participation in Practice,2023-12-08 20:48:31,injury_reports_2023.csv,3.0,T,DAL
+2023,REG,DEN,14,00-0034847,T,Mike McGlinchey,Mike,McGlinchey,,,,Back,,Full Participation in Practice,2023-12-08 21:26:47,injury_reports_2023.csv,0.0,T,DEN
+2023,REG,DET,14,00-0034345,C,Frank Ragnow,Frank,Ragnow,Knee,Toe,Out,Knee,Toe,Did Not Participate In Practice,2023-12-08 20:42:40,injury_reports_2023.csv,3.0,C,DET
+2023,REG,GB,14,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Shoulder,,Limited Participation in Practice,2023-12-09 19:52:56,injury_reports_2023.csv,0.0,G,GB
+2023,REG,HST,14,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-12-08 20:47:29,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,14,00-0032466,T,George Fant,George,Fant,Hip,,Questionable,Hip,,Full Participation in Practice,2023-12-08 20:48:38,injury_reports_2023.csv,1.0,T,HOU
+2023,REG,IND,14,00-0034836,T,Braden Smith,Braden,Smith,Knee,,Out,Knee,,Did Not Participate In Practice,2023-12-08 19:29:06,injury_reports_2023.csv,3.0,T,IND
+2023,REG,JAX,14,00-0036975,T,Walker Little,Walker,Little,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-12-08 20:12:05,injury_reports_2023.csv,3.0,T,JAX
+2023,REG,KC,14,00-0032217,T,Donovan Smith,Donovan,Smith,Neck,,Out,Neck,,Did Not Participate In Practice,2023-12-08 20:02:40,injury_reports_2023.csv,3.0,T,KC
+2023,REG,LA,14,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-08 20:51:30,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,14,00-0032242,T,Rob Havenstein,Rob,Havenstein,,,,Not injury related - resting player,,Full Participation in Practice,2023-12-08 20:50:59,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LAC,14,00-0035688,T,Trey Pipkins,Trey,Pipkins,,,,Wrist,,Full Participation in Practice,2023-12-08 21:13:52,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,14,00-0035468,G,Zack Bailey,Zack,Bailey,Back,,Out,Back,,Did Not Participate In Practice,2023-12-08 21:14:10,injury_reports_2023.csv,3.0,G,LAC
+2023,REG,LV,14,00-0034759,T,Kolton Miller,Kolton,Miller,Shoulder,,Out,Shoulder,,Did Not Participate In Practice,2023-12-08 22:12:01,injury_reports_2023.csv,3.0,T,LV
+2023,REG,MIA,14,00-0036596,G,Robert Jones,Robert,Jones,,,,Knee,,Full Participation in Practice,2023-12-09 21:29:04,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,14,00-0031921,T,Kendall Lamm,Kendall,Lamm,,,,Back,,Full Participation in Practice,2023-12-09 21:29:30,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIA,14,00-0036325,G,Robert Hunt,Robert,Hunt,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-12-09 21:30:00,injury_reports_2023.csv,3.0,G,MIA
+2023,REG,MIA,14,00-0030067,T,Terron Armstead,Terron,Armstead,Knee,Ankle,Questionable,Knee,Ankle,Limited Participation in Practice,2023-12-09 21:29:44,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIN,14,00-0038131,G,Ed Ingram,Ed,Ingram,Hip,,Questionable,Hip,,Limited Participation in Practice,2023-12-08 20:03:12,injury_reports_2023.csv,1.0,G,MIN
+2023,REG,NE,14,00-0038569,T,Sidy Sow,Sidy,Sow,,,,Ankle,,Limited Participation in Practice,2023-12-04 20:43:43,injury_reports_2023.csv,0.0,T,NE
+2023,REG,NE,14,00-0029672,T,Riley Reiff,Riley,Reiff,Knee,,Out,Knee,,Limited Participation in Practice,2023-12-06 19:38:34,injury_reports_2023.csv,3.0,T,NE
+2023,REG,NE,14,00-0032071,T,Trenton Brown,Trenton,Brown,Ankle,Hand,Questionable,Ankle,Hand,Limited Participation in Practice,2023-12-06 19:36:44,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NO,14,00-0035242,C,Erik McCoy,Erik,McCoy,,,,Shoulder,,Full Participation in Practice,2023-12-08 20:22:44,injury_reports_2023.csv,0.0,C,NO
+2023,REG,NO,14,00-0032203,G,Andrus Peat,Andrus,Peat,,,,Shoulder,,Full Participation in Practice,2023-12-08 20:23:00,injury_reports_2023.csv,0.0,G,NO
+2023,REG,NO,14,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,,,,Knee,,Full Participation in Practice,2023-12-08 20:22:44,injury_reports_2023.csv,0.0,T,NO
+2023,REG,NO,14,00-0038566,G,Nick Saldiveri,Nick,Saldiveri,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-12-08 20:23:22,injury_reports_2023.csv,1.0,G,NO
+2023,REG,NYG,14,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-12-09 19:07:18,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYJ,14,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-12-08 20:53:39,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,14,00-0031433,T,Billy Turner,Billy,Turner,,,,Finger,,Full Participation in Practice,2023-12-08 20:53:39,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,14,00-0032432,G,Wes Schweitzer,Wes,Schweitzer,Calf,,Out,Calf,,Did Not Participate In Practice,2023-12-08 20:54:33,injury_reports_2023.csv,3.0,G,NYJ
+2023,REG,NYJ,14,00-0039004,T,Carter Warren,Carter,Warren,Hip,,Questionable,Hip,,Limited Participation in Practice,2023-12-08 20:54:12,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,PIT,14,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,Shoulder,,Questionable,Shoulder,,Did Not Participate In Practice,2023-12-06 21:07:26,injury_reports_2023.csv,1.0,G,PIT
+2023,REG,PIT,14,00-0034785,C,Mason Cole,Mason,Cole,Neck,,Questionable,Neck,,Limited Participation in Practice,2023-12-06 21:07:06,injury_reports_2023.csv,1.0,C,PIT
+2023,REG,SEA,14,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Knee,,Full Participation in Practice,2023-12-08 22:10:42,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,14,00-0034495,C,Evan Brown,Evan,Brown,,,,Thumb,,Full Participation in Practice,2023-12-08 22:08:45,injury_reports_2023.csv,0.0,C,SEA
+2023,REG,SEA,14,00-0037812,T,Abraham Lucas,Abraham,Lucas,,,,Knee,,Full Participation in Practice,2023-12-08 22:10:50,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SF,14,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-06 22:54:57,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,14,00-0037829,G,Spencer Burford,Spencer,Burford,Knee,,Doubtful,Knee,,Did Not Participate In Practice,2023-12-08 22:24:45,injury_reports_2023.csv,2.0,G,SF
+2023,REG,TB,14,00-0036985,C,Robert Hainsey,Robert,Hainsey,,,,Knee,Knee,Full Participation in Practice,2023-12-08 18:25:29,injury_reports_2023.csv,0.0,C,TB
+2023,REG,TB,14,00-0039157,G,Cody Mauch,Cody,Mauch,,,,Foot,,Full Participation in Practice,2023-12-08 18:26:23,injury_reports_2023.csv,0.0,G,TB
+2023,REG,TB,14,00-0036406,T,Tristan Wirfs,Tristan,Wirfs,,,,Ankle,Back,Full Participation in Practice,2023-12-08 18:25:29,injury_reports_2023.csv,0.0,T,TB
+2023,REG,TEN,14,00-0036171,G,Aaron Brewer,Aaron,Brewer,,,,Shoulder,,Limited Participation in Practice,2023-12-09 19:30:14,injury_reports_2023.csv,0.0,G,TEN
+2023,REG,TEN,14,00-0033221,G,Daniel Brunskill,Daniel,Brunskill,,,,Ankle,,Limited Participation in Practice,2023-12-09 19:30:02,injury_reports_2023.csv,0.0,G,TEN
+2023,REG,ARZ,15,00-0033676,G,Elijah Wilkinson,Elijah,Wilkinson,Neck,,Questionable,Neck,,Full Participation in Practice,2023-12-15 20:49:02,injury_reports_2023.csv,1.0,G,ARI
+2023,REG,ATL,15,00-0035235,T,Kaleb McGary,Kaleb,McGary,Knee,Illness,Out,Knee,Illness,Did Not Participate In Practice,2023-12-15 20:05:36,injury_reports_2023.csv,3.0,T,ATL
+2023,REG,ATL,15,00-0036957,C,Drew Dalman,Drew,Dalman,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-12-15 20:03:58,injury_reports_2023.csv,1.0,C,ATL
+2023,REG,ATL,15,00-0035630,G,Chris Lindstrom,Chris,Lindstrom,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-12-15 20:04:30,injury_reports_2023.csv,1.0,G,ATL
+2023,REG,ATL,15,00-0031279,T,Jake Matthews,Jake,Matthews,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-15 20:04:44,injury_reports_2023.csv,1.0,T,ATL
+2023,REG,CAR,15,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2023-12-15 17:28:55,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CAR,15,00-0030792,C,Justin McCray,Justin,McCray,Calf,,Out,Calf,,Did Not Participate In Practice,2023-12-15 17:30:42,injury_reports_2023.csv,3.0,C,CAR
+2023,REG,CIN,15,00-0036865,T,Jackson Carman,Jackson,Carman,Illness,,Questionable,,,"
+    ",2023-12-15 18:54:13,injury_reports_2023.csv,1.0,T,CIN
+2023,REG,CLV,15,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,Knee,Full Participation in Practice,2023-12-15 19:54:27,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,15,00-0033901,C,Ethan Pocic,Ethan,Pocic,Stinger,,Out,Stinger,,Did Not Participate In Practice,2023-12-15 19:56:48,injury_reports_2023.csv,3.0,C,CLE
+2023,REG,DAL,15,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-14 20:49:33,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,15,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,,Limited Participation in Practice,2023-12-14 20:49:33,injury_reports_2023.csv,0.0,G,DAL
+2023,REG,DAL,15,00-0037266,T,Matt Waletzko,Matt,Waletzko,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-12-15 19:22:30,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,DEN,15,00-0037001,G,Quinn Meinerz,Quinn,Meinerz,,,,Illness,,Full Participation in Practice,2023-12-14 21:45:09,injury_reports_2023.csv,0.0,G,DEN
+2023,REG,DET,15,00-0032381,T,Taylor Decker,Taylor,Decker,Back,,Questionable,Back,,Full Participation in Practice,2023-12-14 20:40:22,injury_reports_2023.csv,1.0,T,DET
+2023,REG,DET,15,00-0034345,C,Frank Ragnow,Frank,Ragnow,Knee,"back, toe",Questionable,Knee,"back, toe",Full Participation in Practice,2023-12-14 20:40:22,injury_reports_2023.csv,1.0,C,DET
+2023,REG,GB,15,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Shoulder,,Limited Participation in Practice,2023-12-15 19:37:54,injury_reports_2023.csv,0.0,G,GB
+2023,REG,HST,15,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-12-15 20:17:08,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,15,00-0032466,T,George Fant,George,Fant,Hip,,Questionable,Hip,,Did Not Participate In Practice,2023-12-15 20:17:51,injury_reports_2023.csv,1.0,T,HOU
+2023,REG,HST,15,00-0031580,G,Shaquille Mason,Shaquille,Mason,Calf,,Questionable,Calf,,Limited Participation in Practice,2023-12-15 20:17:51,injury_reports_2023.csv,1.0,G,HOU
+2023,REG,IND,15,00-0034836,T,Braden Smith,Braden,Smith,Knee,,Out,Knee,,Did Not Participate In Practice,2023-12-14 20:12:23,injury_reports_2023.csv,3.0,T,IND
+2023,REG,JAX,15,00-0036327,G,Ezra Cleveland,Ezra,Cleveland,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-15 19:50:10,injury_reports_2023.csv,1.0,G,JAX
+2023,REG,JAX,15,00-0036975,T,Walker Little,Walker,Little,Hamstring,,Questionable,Hamstring,,Limited Participation in Practice,2023-12-15 19:50:10,injury_reports_2023.csv,1.0,T,JAX
+2023,REG,KC,15,00-0032217,T,Donovan Smith,Donovan,Smith,Neck,,Out,Neck,,Did Not Participate In Practice,2023-12-15 19:48:53,injury_reports_2023.csv,3.0,T,KC
+2023,REG,LA,15,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-15 20:04:36,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,15,00-0032242,T,Rob Havenstein,Rob,Havenstein,Groin,,Questionable,Groin,,Did Not Participate In Practice,2023-12-15 20:06:17,injury_reports_2023.csv,1.0,T,LA
+2023,REG,LAC,15,00-0037818,G,Zion Johnson,Zion,Johnson,,,,Ankle,,Full Participation in Practice,2023-12-13 22:28:40,injury_reports_2023.csv,0.0,G,LAC
+2023,REG,LV,15,00-0035127,C,Andre James,Andre,James,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-12-13 21:30:40,injury_reports_2023.csv,3.0,C,LV
+2023,REG,LV,15,00-0034759,T,Kolton Miller,Kolton,Miller,Shoulder,,Out,Shoulder,,Did Not Participate In Practice,2023-12-13 21:30:45,injury_reports_2023.csv,3.0,T,LV
+2023,REG,MIA,15,00-0036325,G,Robert Hunt,Robert,Hunt,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-12-15 20:57:53,injury_reports_2023.csv,3.0,G,MIA
+2023,REG,MIA,15,00-0030067,T,Terron Armstead,Terron,Armstead,Knee,Ankle,Questionable,Knee,Ankle,Limited Participation in Practice,2023-12-15 20:57:32,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIA,15,00-0037010,G,Liam Eichenberg,Liam,Eichenberg,Calf,,Questionable,Calf,,Limited Participation in Practice,2023-12-15 20:57:32,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,MIA,15,00-0036248,T,Austin Jackson,Austin,Jackson,Oblique,,Questionable,Oblique,,Limited Participation in Practice,2023-12-15 20:57:32,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIN,15,00-0038131,G,Ed Ingram,Ed,Ingram,,,,Hip,,Full Participation in Practice,2023-12-14 19:48:01,injury_reports_2023.csv,0.0,G,MIN
+2023,REG,MIN,15,00-0035702,G,Dalton Risner,Dalton,Risner,,,,Ankle,,Full Participation in Practice,2023-12-14 19:48:37,injury_reports_2023.csv,0.0,G,MIN
+2023,REG,MIN,15,00-0034158,T,Brian O'Neill,Brian,O'Neill,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-12-14 19:48:58,injury_reports_2023.csv,3.0,T,MIN
+2023,REG,MIN,15,00-0031734,G,Chris Reed,Chris,Reed,Illness,,Questionable,Illness,,Limited Participation in Practice,2023-12-14 19:48:38,injury_reports_2023.csv,1.0,G,MIN
+2023,REG,NE,15,00-0036966,T,Tyrone Wheatley,Tyrone,Wheatley,,,,Knee,,Full Participation in Practice,2023-12-15 20:45:40,injury_reports_2023.csv,0.0,T,NE
+2023,REG,NE,15,00-0032071,T,Trenton Brown,Trenton,Brown,Ankle,"hand, illness",Questionable,Ankle,"hand, illness",Did Not Participate In Practice,2023-12-15 21:40:06,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NO,15,00-0032203,G,Andrus Peat,Andrus,Peat,,,,Illness,,Full Participation in Practice,2023-12-15 20:02:59,injury_reports_2023.csv,0.0,G,NO
+2023,REG,NO,15,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-15 20:03:38,injury_reports_2023.csv,1.0,T,NO
+2023,REG,NYG,15,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Doubtful,Ankle,,Limited Participation in Practice,2023-12-15 19:22:44,injury_reports_2023.csv,2.0,T,NYG
+2023,REG,NYG,15,00-0030585,G,Justin Pugh,Justin,Pugh,Calf,,Questionable,Calf,,Limited Participation in Practice,2023-12-15 19:22:24,injury_reports_2023.csv,1.0,G,NYG
+2023,REG,NYJ,15,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,,Full Participation in Practice,2023-12-15 20:51:56,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,15,00-0039004,T,Carter Warren,Carter,Warren,Hip,,Doubtful,Hip,,Did Not Participate In Practice,2023-12-15 20:53:31,injury_reports_2023.csv,2.0,T,NYJ
+2023,REG,NYJ,15,00-0039145,C,Joe Tippmann,Joe,Tippmann,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-12-15 20:52:56,injury_reports_2023.csv,1.0,C,NYJ
+2023,REG,NYJ,15,00-0038114,T,Max Mitchell,Max,Mitchell,Neck,,Questionable,Neck,,Limited Participation in Practice,2023-12-15 20:52:56,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,PHI,15,00-0038112,G,Cam Jurgens,Cam,Jurgens,Pectoral,,Out,Pectoral,,Did Not Participate In Practice,2023-12-16 20:48:15,injury_reports_2023.csv,3.0,G,PHI
+2023,REG,PIT,15,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,Shoulder,,Questionable,Shoulder,,Did Not Participate In Practice,2023-12-14 19:57:57,injury_reports_2023.csv,1.0,G,PIT
+2023,REG,SEA,15,00-0022531,T,Jason Peters,Jason,Peters,,,,Not injury related - personal matter,,Did Not Participate In Practice,2023-12-14 23:49:41,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SEA,15,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Knee,Shoulder,Full Participation in Practice,2023-12-16 22:11:55,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,15,00-0034495,C,Evan Brown,Evan,Brown,,,,Knee,,Full Participation in Practice,2023-12-16 22:11:30,injury_reports_2023.csv,0.0,C,SEA
+2023,REG,SEA,15,00-0037812,T,Abraham Lucas,Abraham,Lucas,,,,Knee,,Full Participation in Practice,2023-12-16 22:11:30,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SF,15,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-13 23:07:38,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,15,00-0036551,G,Aaron Banks,Aaron,Banks,Hip,,Questionable,Hip,,Limited Participation in Practice,2023-12-15 22:03:12,injury_reports_2023.csv,1.0,G,SF
+2023,REG,SF,15,00-0037829,G,Spencer Burford,Spencer,Burford,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-15 22:03:12,injury_reports_2023.csv,1.0,G,SF
+2023,REG,TEN,15,00-0033221,G,Daniel Brunskill,Daniel,Brunskill,Illness,,Questionable,Ankle,,Limited Participation in Practice,2023-12-16 21:03:39,injury_reports_2023.csv,1.0,G,TEN
+2023,REG,WAS,15,00-0036334,G,Saahdiq Charles,Saahdiq,Charles,,,,Calf,,Full Participation in Practice,2023-12-15 18:55:52,injury_reports_2023.csv,0.0,G,WAS
+2023,REG,WAS,15,00-0030869,C,Tyler Larsen,Tyler,Larsen,,,,Knee,,Full Participation in Practice,2023-12-15 18:55:59,injury_reports_2023.csv,0.0,C,WAS
+2023,REG,WAS,15,00-0031095,T,Charles Leno,Charles,Leno,,,,Hip,,Full Participation in Practice,2023-12-15 18:55:52,injury_reports_2023.csv,0.0,T,WAS
+2023,REG,ATL,16,00-0036957,C,Drew Dalman,Drew,Dalman,,,,Ankle,,Full Participation in Practice,2023-12-22 20:27:54,injury_reports_2023.csv,0.0,C,ATL
+2023,REG,ATL,16,00-0035630,G,Chris Lindstrom,Chris,Lindstrom,,,,Ankle,,Full Participation in Practice,2023-12-22 20:27:50,injury_reports_2023.csv,0.0,G,ATL
+2023,REG,ATL,16,00-0031279,T,Jake Matthews,Jake,Matthews,,,,Knee,,Full Participation in Practice,2023-12-22 20:27:59,injury_reports_2023.csv,0.0,T,ATL
+2023,REG,ATL,16,00-0036833,C,Ryan Neuzil,Ryan,Neuzil,,,,Illness,,Full Participation in Practice,2023-12-22 20:28:10,injury_reports_2023.csv,0.0,C,ATL
+2023,REG,ATL,16,00-0035235,T,Kaleb McGary,Kaleb,McGary,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-22 20:29:22,injury_reports_2023.csv,1.0,T,ATL
+2023,REG,BLT,16,00-0032965,T,Ronnie Stanley,Ronnie,Stanley,,,,Concussion,,Full Participation in Practice,2023-12-23 22:10:46,injury_reports_2023.csv,0.0,T,BAL
+2023,REG,CAR,16,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2023-12-22 17:21:25,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CAR,16,00-0033946,T,David Sharpe,David,Sharpe,,,,Illness,,Limited Participation in Practice,2023-12-21 18:35:56,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CHI,16,00-0036953,T,Teven Jenkins,Teven,Jenkins,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-12-22 20:30:57,injury_reports_2023.csv,3.0,T,CHI
+2023,REG,CIN,16,00-0034678,G,Alex Cappa,Alex,Cappa,,,,Knee,Ankle,Full Participation in Practice,2023-12-21 18:03:39,injury_reports_2023.csv,0.0,G,CIN
+2023,REG,CIN,16,00-0036865,T,Jackson Carman,Jackson,Carman,,,,Illness,,Full Participation in Practice,2023-12-21 18:03:39,injury_reports_2023.csv,0.0,T,CIN
+2023,REG,CLV,16,00-0036236,C,Nick Harris,Nick,Harris,,,,Knee,,Full Participation in Practice,2023-12-22 20:49:04,injury_reports_2023.csv,0.0,C,CLE
+2023,REG,CLV,16,00-0033901,C,Ethan Pocic,Ethan,Pocic,,,,Stinger,,Full Participation in Practice,2023-12-22 20:50:07,injury_reports_2023.csv,0.0,C,CLE
+2023,REG,CLV,16,00-0034817,T,Geron Christian,Geron,Christian,,,,Shoulder,,Limited Participation in Practice,2023-12-22 20:49:04,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,16,00-0034399,G,Wyatt Teller,Wyatt,Teller,,,,Not injury related - resting player,Ankle,Limited Participation in Practice,2023-12-22 20:49:04,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,16,00-0031426,G,Joel Bitonio,Joel,Bitonio,Back,Knee,Questionable,Back,Knee,Limited Participation in Practice,2023-12-22 20:50:35,injury_reports_2023.csv,1.0,G,CLE
+2023,REG,DAL,16,00-0027947,T,Tyron Smith,Tyron,Smith,Back,,Doubtful,Back,,Did Not Participate In Practice,2023-12-22 19:18:11,injury_reports_2023.csv,2.0,T,DAL
+2023,REG,DAL,16,00-0037266,T,Matt Waletzko,Matt,Waletzko,Shoulder,,Questionable,Shoulder,,Full Participation in Practice,2023-12-22 19:17:44,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,DAL,16,00-0031402,G,Zack Martin,Zack,Martin,Thigh,,Questionable,Thigh,,Limited Participation in Practice,2023-12-22 19:17:44,injury_reports_2023.csv,1.0,G,DAL
+2023,REG,DEN,16,00-0038796,T,Alex Palczewski,Alex,Palczewski,Knee,,Out,Knee,,Full Participation in Practice,2023-12-22 21:42:29,injury_reports_2023.csv,3.0,T,DEN
+2023,REG,DET,16,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,"Knee, Back, Toe",Not injury related - resting p,Full Participation in Practice,2023-12-22 20:12:34,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,16,00-0036880,T,Penei Sewell,Penei,Sewell,,,,Shoulder,,Full Participation in Practice,2023-12-22 20:12:25,injury_reports_2023.csv,0.0,T,DET
+2023,REG,GB,16,00-0037122,T,Caleb Jones,Caleb,Jones,,,,Foot,Illness,Full Participation in Practice,2023-12-22 20:40:04,injury_reports_2023.csv,0.0,T,GB
+2023,REG,GB,16,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Shoulder,,Limited Participation in Practice,2023-12-22 20:39:31,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,16,00-0037305,T,Luke Tenuta,Luke,Tenuta,Ankle,,Doubtful,Ankle,,Limited Participation in Practice,2023-12-22 20:42:30,injury_reports_2023.csv,2.0,T,GB
+2023,REG,HST,16,00-0032466,T,George Fant,George,Fant,,,,Hip,,Full Participation in Practice,2023-12-22 21:17:25,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,HST,16,00-0031580,G,Shaquille Mason,Shaquille,Mason,,,,Calf,,Full Participation in Practice,2023-12-22 21:23:08,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,16,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-12-22 21:17:25,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,IND,16,00-0036577,C,Jack Anderson,Jack,Anderson,Illness,,Out,Illness,,Did Not Participate In Practice,2023-12-22 20:29:51,injury_reports_2023.csv,3.0,C,IND
+2023,REG,IND,16,00-0034836,T,Braden Smith,Braden,Smith,Knee,,Out,Knee,,Did Not Participate In Practice,2023-12-22 20:30:04,injury_reports_2023.csv,3.0,T,IND
+2023,REG,JAX,16,00-0036327,G,Ezra Cleveland,Ezra,Cleveland,,,,Knee,,Limited Participation in Practice,2023-12-22 19:53:30,injury_reports_2023.csv,0.0,G,JAX
+2023,REG,JAX,16,00-0036975,T,Walker Little,Walker,Little,,,,Hamstring,,Limited Participation in Practice,2023-12-22 19:53:30,injury_reports_2023.csv,0.0,T,JAX
+2023,REG,KC,16,00-0038981,T,Wanya Morris,Wanya,Morris,,,,Hip,,Full Participation in Practice,2023-12-23 19:57:57,injury_reports_2023.csv,0.0,T,KC
+2023,REG,KC,16,00-0036660,G,Trey Smith,Trey,Smith,,,,Hip,,Full Participation in Practice,2023-12-23 19:57:57,injury_reports_2023.csv,0.0,G,KC
+2023,REG,KC,16,00-0032217,T,Donovan Smith,Donovan,Smith,Neck,,Out,Neck,,Did Not Participate In Practice,2023-12-23 19:59:07,injury_reports_2023.csv,3.0,T,KC
+2023,REG,LA,16,00-0032242,T,Rob Havenstein,Rob,Havenstein,,,,Groin,,Full Participation in Practice,2023-12-20 20:14:26,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LA,16,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,Foot,,Questionable,Foot,,Did Not Participate In Practice,2023-12-20 20:15:08,injury_reports_2023.csv,1.0,T,LA
+2023,REG,LAC,16,00-0037818,G,Zion Johnson,Zion,Johnson,,,,Ankle,,Full Participation in Practice,2023-12-21 20:10:24,injury_reports_2023.csv,0.0,G,LAC
+2023,REG,LAC,16,00-0035688,T,Trey Pipkins,Trey,Pipkins,,,,Wrist,,Full Participation in Practice,2023-12-21 20:11:30,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LV,16,00-0036163,T,Justin Herron,Justin,Herron,,,,Knee,,Full Participation in Practice,2023-12-23 20:06:04,injury_reports_2023.csv,0.0,T,LV
+2023,REG,LV,16,00-0035127,C,Andre James,Andre,James,,,,Ankle,,Limited Participation in Practice,2023-12-23 20:06:04,injury_reports_2023.csv,0.0,C,LV
+2023,REG,LV,16,00-0037255,G,Dylan Parham,Dylan,Parham,,,,Illness,,Limited Participation in Practice,2023-12-23 20:06:04,injury_reports_2023.csv,0.0,G,LV
+2023,REG,LV,16,00-0034759,T,Kolton Miller,Kolton,Miller,Shoulder,,Questionable,Shoulder,,Limited Participation in Practice,2023-12-23 20:07:57,injury_reports_2023.csv,1.0,T,LV
+2023,REG,MIA,16,00-0035117,G,Lester Cotton,Lester,Cotton,,,,Hip,,Full Participation in Practice,2023-12-22 20:56:16,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,16,00-0030067,T,Terron Armstead,Terron,Armstead,,,,Knee,Ankle,Limited Participation in Practice,2023-12-22 20:56:16,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIA,16,00-0037010,G,Liam Eichenberg,Liam,Eichenberg,,,,Calf,,Limited Participation in Practice,2023-12-22 20:56:16,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,16,00-0036325,G,Robert Hunt,Robert,Hunt,Hamstring,,Out,Hamstring,,Did Not Participate In Practice,2023-12-22 20:58:09,injury_reports_2023.csv,3.0,G,MIA
+2023,REG,MIA,16,00-0036248,T,Austin Jackson,Austin,Jackson,Oblique,,Questionable,Oblique,,Limited Participation in Practice,2023-12-22 20:57:44,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIN,16,00-0034158,T,Brian O'Neill,Brian,O'Neill,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-12-22 19:46:34,injury_reports_2023.csv,1.0,T,MIN
+2023,REG,NE,16,00-0036966,T,Tyrone Wheatley,Tyrone,Wheatley,,,,Knee,,Full Participation in Practice,2023-12-22 20:20:09,injury_reports_2023.csv,0.0,T,NE
+2023,REG,NE,16,00-0033300,T,Conor McDermott,Conor,McDermott,Concussion,,Questionable,Concussion,,Did Not Participate In Practice,2023-12-22 20:22:03,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NE,16,00-0032071,T,Trenton Brown,Trenton,Brown,Ankle,Hand,Questionable,Ankle,Hand,Limited Participation in Practice,2023-12-22 20:22:03,injury_reports_2023.csv,1.0,T,NE
+2023,REG,NO,16,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,Knee,,Out,Knee,,Did Not Participate In Practice,2023-12-20 20:03:04,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NYG,16,00-0036392,T,Matt Peart,Matt,Peart,,,,Shoulder,,Full Participation in Practice,2023-12-23 19:05:29,injury_reports_2023.csv,0.0,T,NYG
+2023,REG,NYG,16,00-0030585,G,Justin Pugh,Justin,Pugh,,,,Calf,Neck,Full Participation in Practice,2023-12-23 19:05:29,injury_reports_2023.csv,0.0,G,NYG
+2023,REG,NYG,16,00-0037612,T,Evan Neal,Evan,Neal,Ankle,,Out,Ankle,,Did Not Participate In Practice,2023-12-23 19:08:05,injury_reports_2023.csv,3.0,T,NYG
+2023,REG,NYJ,16,00-0036284,T,Mekhi Becton,Mekhi,Becton,,,,Knee,Shoulder,Full Participation in Practice,2023-12-22 19:40:25,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,16,00-0038114,T,Max Mitchell,Max,Mitchell,,,,Neck,,Full Participation in Practice,2023-12-22 19:40:25,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,16,00-0039145,C,Joe Tippmann,Joe,Tippmann,,,,Shoulder,,Full Participation in Practice,2023-12-22 19:40:25,injury_reports_2023.csv,0.0,C,NYJ
+2023,REG,NYJ,16,00-0039004,T,Carter Warren,Carter,Warren,,,,Hip,,Full Participation in Practice,2023-12-22 19:40:25,injury_reports_2023.csv,0.0,T,NYJ
+2023,REG,NYJ,16,00-0026166,T,Duane Brown,Duane,Brown,Back,,Questionable,Back,,Did Not Participate In Practice,2023-12-22 19:40:51,injury_reports_2023.csv,1.0,T,NYJ
+2023,REG,PHI,16,00-0038112,G,Cam Jurgens,Cam,Jurgens,,,,Pectoral,,Full Participation in Practice,2023-12-23 20:42:25,injury_reports_2023.csv,0.0,G,PHI
+2023,REG,PHI,16,00-0037002,G,Landon Dickerson,Landon,Dickerson,Thumb,,Out,Thumb,,Did Not Participate In Practice,2023-12-23 20:43:09,injury_reports_2023.csv,3.0,G,PHI
+2023,REG,PIT,16,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Shoulder,,Did Not Participate In Practice,2023-12-21 19:53:56,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,PIT,16,00-0039109,T,Broderick Jones,Broderick,Jones,,,,Ankle,,Full Participation in Practice,2023-12-21 19:53:34,injury_reports_2023.csv,0.0,T,PIT
+2023,REG,SEA,16,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Shoulder,Elbow,Full Participation in Practice,2023-12-22 22:12:41,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,16,00-0037812,T,Abraham Lucas,Abraham,Lucas,,,,Knee,,Full Participation in Practice,2023-12-22 22:14:59,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SEA,16,00-0034495,C,Evan Brown,Evan,Brown,Illness,,Questionable,Illness,,Did Not Participate In Practice,2023-12-22 20:47:24,injury_reports_2023.csv,1.0,C,SEA
+2023,REG,SF,16,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-21 23:04:32,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,16,00-0036272,G,Ben Bartch,Ben,Bartch,,,,Finger,,Full Participation in Practice,2023-12-23 21:54:53,injury_reports_2023.csv,0.0,G,SF
+2023,REG,SF,16,00-0037829,G,Spencer Burford,Spencer,Burford,,,,Knee,,Full Participation in Practice,2023-12-23 21:54:15,injury_reports_2023.csv,0.0,G,SF
+2023,REG,TEN,16,00-0033221,C,Daniel Brunskill,Daniel,Brunskill,Ankle,,Questionable,Ankle,,Full Participation in Practice,2023-12-22 20:25:11,injury_reports_2023.csv,1.0,C,TEN
+2023,REG,TEN,16,00-0036171,C,Aaron Brewer,Aaron,Brewer,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-12-22 20:25:11,injury_reports_2023.csv,1.0,C,TEN
+2023,REG,WAS,16,00-0030869,C,Tyler Larsen,Tyler,Larsen,Knee,,Out,Knee,,Did Not Participate In Practice,2023-12-22 18:14:56,injury_reports_2023.csv,3.0,C,WAS
+2023,REG,WAS,16,00-0031095,T,Charles Leno,Charles,Leno,Calf,,Out,Calf,,Did Not Participate In Practice,2023-12-22 18:15:00,injury_reports_2023.csv,3.0,T,WAS
+2023,REG,ATL,17,00-0036957,C,Drew Dalman,Drew,Dalman,,,,Ankle,,Full Participation in Practice,2023-12-29 18:24:02,injury_reports_2023.csv,0.0,C,ATL
+2023,REG,ATL,17,00-0035630,G,Chris Lindstrom,Chris,Lindstrom,,,,Ankle,,Full Participation in Practice,2023-12-29 18:24:11,injury_reports_2023.csv,0.0,G,ATL
+2023,REG,ATL,17,00-0031279,T,Jake Matthews,Jake,Matthews,,,,Knee,,Full Participation in Practice,2023-12-29 18:24:16,injury_reports_2023.csv,0.0,T,ATL
+2023,REG,ATL,17,00-0035235,T,Kaleb McGary,Kaleb,McGary,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-29 18:24:34,injury_reports_2023.csv,1.0,T,ATL
+2023,REG,BLT,17,00-0035112,G,Patrick Mekari,Patrick,Mekari,,,,Concussion,,Full Participation in Practice,2023-12-29 21:29:50,injury_reports_2023.csv,0.0,G,BAL
+2023,REG,BLT,17,00-0029592,G,Kevin Zeitler,Kevin,Zeitler,Knee,Quadricep,Questionable,Knee,Quadricep,Full Participation in Practice,2023-12-29 21:30:19,injury_reports_2023.csv,1.0,G,BAL
+2023,REG,CAR,17,00-0038775,G,Nash Jensen,Nash,Jensen,,,,Back,,Full Participation in Practice,2023-12-29 18:52:33,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,17,00-0037297,G,Cade Mays,Cade,Mays,,,,Ankle,,Full Participation in Practice,2023-12-29 18:52:43,injury_reports_2023.csv,0.0,G,CAR
+2023,REG,CAR,17,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2023-12-29 18:52:54,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CAR,17,00-0037229,T,Ikem Ekwonu,Ikem,Ekwonu,Foot,,Questionable,Foot,,Limited Participation in Practice,2023-12-29 18:54:04,injury_reports_2023.csv,1.0,T,CAR
+2023,REG,CHI,17,00-0036953,T,Teven Jenkins,Teven,Jenkins,,,,Concussion,,Full Participation in Practice,2023-12-29 21:47:12,injury_reports_2023.csv,0.0,T,CHI
+2023,REG,CHI,17,00-0033082,C,Lucas Patrick,Lucas,Patrick,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-29 21:48:46,injury_reports_2023.csv,1.0,C,CHI
+2023,REG,CLV,17,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Back,Knee,Full Participation in Practice,2023-12-27 20:24:45,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,17,00-0034817,T,Geron Christian,Geron,Christian,,,,Shoulder,,Full Participation in Practice,2023-12-27 20:24:57,injury_reports_2023.csv,0.0,T,CLE
+2023,REG,CLV,17,00-0036236,C,Nick Harris,Nick,Harris,,,,Knee,,Full Participation in Practice,2023-12-27 20:24:36,injury_reports_2023.csv,0.0,C,CLE
+2023,REG,CLV,17,00-0033901,C,Ethan Pocic,Ethan,Pocic,,,,Stinger,,Full Participation in Practice,2023-12-27 20:26:11,injury_reports_2023.csv,0.0,C,CLE
+2023,REG,CLV,17,00-0034399,G,Wyatt Teller,Wyatt,Teller,,,,Ankle,,Full Participation in Practice,2023-12-27 20:26:39,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,DAL,17,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-27 20:43:12,injury_reports_2023.csv,0.0,G,DAL
+2023,REG,DAL,17,00-0035698,T,Chuma Edoga,Chuma,Edoga,,,,Toe,,Full Participation in Practice,2023-12-28 20:44:25,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,17,00-0037266,T,Matt Waletzko,Matt,Waletzko,,,,Shoulder,,Full Participation in Practice,2023-12-28 20:43:50,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,17,00-0027947,T,Tyron Smith,Tyron,Smith,Back,,Questionable,Back,,Limited Participation in Practice,2023-12-28 20:46:01,injury_reports_2023.csv,1.0,T,DAL
+2023,REG,DEN,17,00-0038796,T,Alex Palczewski,Alex,Palczewski,Knee,,Out,Knee,,Full Participation in Practice,2023-12-29 21:18:47,injury_reports_2023.csv,3.0,T,DEN
+2023,REG,DET,17,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Back,"Knee, Toe, Rest",Did Not Participate In Practice,2023-12-28 20:46:10,injury_reports_2023.csv,0.0,C,DET
+2023,REG,DET,17,00-0032381,T,Taylor Decker,Taylor,Decker,,,,Groin,,Full Participation in Practice,2023-12-28 20:47:05,injury_reports_2023.csv,0.0,T,DET
+2023,REG,DET,17,00-0036880,T,Penei Sewell,Penei,Sewell,,,,Shoulder,,Full Participation in Practice,2023-12-28 20:45:36,injury_reports_2023.csv,0.0,T,DET
+2023,REG,GB,17,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Shoulder,Knee,Limited Participation in Practice,2023-12-29 19:43:42,injury_reports_2023.csv,0.0,G,GB
+2023,REG,GB,17,00-0037305,T,Luke Tenuta,Luke,Tenuta,Ankle,,Doubtful,Ankle,,Full Participation in Practice,2023-12-29 19:44:55,injury_reports_2023.csv,2.0,T,GB
+2023,REG,HST,17,00-0031580,G,Shaquille Mason,Shaquille,Mason,,,,Calf,,Full Participation in Practice,2023-12-29 20:56:53,injury_reports_2023.csv,0.0,G,HOU
+2023,REG,HST,17,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Knee,,Full Participation in Practice,2023-12-29 20:56:10,injury_reports_2023.csv,0.0,T,HOU
+2023,REG,IND,17,00-0036577,C,Jack Anderson,Jack,Anderson,,,,Illness,,Full Participation in Practice,2023-12-29 20:28:40,injury_reports_2023.csv,0.0,C,IND
+2023,REG,IND,17,00-0034836,T,Braden Smith,Braden,Smith,Knee,,Questionable,Knee,,Full Participation in Practice,2023-12-29 20:29:56,injury_reports_2023.csv,1.0,T,IND
+2023,REG,JAX,17,00-0036327,G,Ezra Cleveland,Ezra,Cleveland,,,,Knee,,Limited Participation in Practice,2023-12-29 19:43:57,injury_reports_2023.csv,0.0,G,JAX
+2023,REG,JAX,17,00-0036975,T,Walker Little,Walker,Little,,,,Hamstring,,Limited Participation in Practice,2023-12-29 19:43:57,injury_reports_2023.csv,0.0,T,JAX
+2023,REG,JAX,17,00-0033889,T,Cam Robinson,Cam,Robinson,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-29 19:44:05,injury_reports_2023.csv,1.0,T,JAX
+2023,REG,KC,17,00-0036660,G,Trey Smith,Trey,Smith,,,,Ankle,Knee,Full Participation in Practice,2023-12-29 20:46:52,injury_reports_2023.csv,0.0,G,KC
+2023,REG,KC,17,00-0032217,T,Donovan Smith,Donovan,Smith,Neck,,Out,Neck,,Did Not Participate In Practice,2023-12-29 20:47:29,injury_reports_2023.csv,3.0,T,KC
+2023,REG,LA,17,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2023-12-29 20:36:00,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,17,00-0036603,T,Alaric Jackson,Alaric,Jackson,Thigh,,Questionable,Thigh,,Did Not Participate In Practice,2023-12-29 20:40:28,injury_reports_2023.csv,1.0,T,LA
+2023,REG,LA,17,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,Foot,,Questionable,Foot,,Limited Participation in Practice,2023-12-29 20:39:36,injury_reports_2023.csv,1.0,T,LA
+2023,REG,LAC,17,00-0035688,T,Trey Pipkins,Trey,Pipkins,,,,Wrist,,Full Participation in Practice,2023-12-29 20:23:10,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,17,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Ankle,,Full Participation in Practice,2023-12-29 20:22:29,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,17,00-0037818,G,Zion Johnson,Zion,Johnson,Neck,,Questionable,Neck,,Did Not Participate In Practice,2023-12-29 20:23:25,injury_reports_2023.csv,1.0,G,LAC
+2023,REG,LV,17,00-0029685,G,Greg Van Roten,Greg,Van Roten,,,,Not injury related - personal matter,,Did Not Participate In Practice,2023-12-29 20:30:34,injury_reports_2023.csv,0.0,G,LV
+2023,REG,LV,17,00-0034759,T,Kolton Miller,Kolton,Miller,,,,Shoulder,,Limited Participation in Practice,2023-12-29 20:30:19,injury_reports_2023.csv,0.0,T,LV
+2023,REG,LV,17,00-0033290,T,Jermaine Eluemunor,Jermaine,Eluemunor,Knee,,Questionable,Knee,,Limited Participation in Practice,2023-12-29 20:30:38,injury_reports_2023.csv,1.0,T,LV
+2023,REG,LV,17,00-0035127,C,Andre James,Andre,James,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2023-12-29 20:30:38,injury_reports_2023.csv,1.0,C,LV
+2023,REG,MIA,17,00-0030067,T,Terron Armstead,Terron,Armstead,,,,"knee, ankle, back",,Limited Participation in Practice,2023-12-29 20:53:12,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIA,17,00-0036325,G,Robert Hunt,Robert,Hunt,Hamstring,,Doubtful,Hamstring,,Limited Participation in Practice,2023-12-29 20:56:19,injury_reports_2023.csv,2.0,G,MIA
+2023,REG,MIA,17,00-0035117,G,Lester Cotton,Lester,Cotton,Hip,,Questionable,Hip,,Limited Participation in Practice,2023-12-29 20:55:13,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,MIA,17,00-0037010,G,Liam Eichenberg,Liam,Eichenberg,Calf,Ankle,Questionable,Calf,Ankle,Limited Participation in Practice,2023-12-29 20:55:13,injury_reports_2023.csv,1.0,G,MIA
+2023,REG,MIA,17,00-0036248,T,Austin Jackson,Austin,Jackson,Oblique,,Questionable,Oblique,,Limited Participation in Practice,2023-12-29 20:55:13,injury_reports_2023.csv,1.0,T,MIA
+2023,REG,MIN,17,00-0034158,T,Brian O'Neill,Brian,O'Neill,,,,Ankle,,Full Participation in Practice,2023-12-29 19:30:30,injury_reports_2023.csv,0.0,T,MIN
+2023,REG,NE,17,00-0032071,T,Trenton Brown,Trenton,Brown,,,,Illness,,Did Not Participate In Practice,2023-12-28 20:50:55,injury_reports_2023.csv,0.0,T,NE
+2023,REG,NE,17,00-0036966,T,Tyrone Wheatley,Tyrone,Wheatley,,,,Knee,,Full Participation in Practice,2023-12-29 19:59:30,injury_reports_2023.csv,0.0,T,NE
+2023,REG,NO,17,00-0035242,C,Erik McCoy,Erik,McCoy,,,,Foot,,Limited Participation in Practice,2023-12-29 20:02:19,injury_reports_2023.csv,0.0,C,NO
+2023,REG,NO,17,00-0033888,T,Ryan Ramczyk,Ryan,Ramczyk,Knee,,Out,Knee,,Did Not Participate In Practice,2023-12-29 20:03:36,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NYG,17,00-0036132,G,Ben Bredeson,Ben,Bredeson,,,,Quadricep,,Full Participation in Practice,2023-12-29 19:24:20,injury_reports_2023.csv,0.0,G,NYG
+2023,REG,NYG,17,00-0030585,G,Justin Pugh,Justin,Pugh,,,,Elbow,,Full Participation in Practice,2023-12-29 19:24:45,injury_reports_2023.csv,0.0,G,NYG
+2023,REG,NYG,17,00-0039019,C,John Michael Schmitz,John Michael,Schmitz,,,,Shoulder,,Full Participation in Practice,2023-12-29 19:24:20,injury_reports_2023.csv,0.0,C,NYG
+2023,REG,NYJ,17,00-0026166,T,Duane Brown,Duane,Brown,Back,,Out,Back,,Did Not Participate In Practice,2023-12-27 20:27:48,injury_reports_2023.csv,3.0,T,NYJ
+2023,REG,PHI,17,00-0037002,G,Landon Dickerson,Landon,Dickerson,,,,Thumb,,Full Participation in Practice,2023-12-29 20:47:02,injury_reports_2023.csv,0.0,G,PHI
+2023,REG,PIT,17,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Shoulder,,Did Not Participate In Practice,2023-12-29 20:30:17,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,SEA,17,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Elbow,,Full Participation in Practice,2023-12-29 22:11:12,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,17,00-0036417,G,Damien Lewis,Damien,Lewis,,,,Neck,,Full Participation in Practice,2023-12-29 22:09:18,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,17,00-0037812,T,Abraham Lucas,Abraham,Lucas,,,,Knee,,Limited Participation in Practice,2023-12-29 22:09:41,injury_reports_2023.csv,0.0,T,SEA
+2023,REG,SEA,17,00-0022531,T,Jason Peters,Jason,Peters,Foot,,Out,Foot,,Did Not Participate In Practice,2023-12-29 21:01:19,injury_reports_2023.csv,3.0,T,SEA
+2023,REG,SF,17,00-0027857,T,Trent Williams,Trent,Williams,,,,Groin,,Full Participation in Practice,2023-12-29 20:56:49,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,17,00-0036557,T,Jaylon Moore,Jaylon,Moore,Concussion,,Out,Concussion,,Did Not Participate In Practice,2023-12-29 20:58:55,injury_reports_2023.csv,3.0,T,SF
+2023,REG,SF,17,00-0036551,G,Aaron Banks,Aaron,Banks,Toe,,Questionable,Toe,,Did Not Participate In Practice,2023-12-29 20:57:32,injury_reports_2023.csv,1.0,G,SF
+2023,REG,TEN,17,00-0033221,C,Daniel Brunskill,Daniel,Brunskill,,,,Ankle,,Full Participation in Practice,2023-12-29 19:53:15,injury_reports_2023.csv,0.0,C,TEN
+2023,REG,TEN,17,00-0038607,T,Jaelyn Duncan,Jaelyn,Duncan,,,,Wrist,,Full Participation in Practice,2023-12-29 19:52:35,injury_reports_2023.csv,0.0,T,TEN
+2023,REG,TEN,17,00-0036171,G,Aaron Brewer,Aaron,Brewer,,,,Knee,Ankle,Limited Participation in Practice,2023-12-29 19:53:04,injury_reports_2023.csv,0.0,G,TEN
+2023,REG,WAS,17,00-0030869,C,Tyler Larsen,Tyler,Larsen,Knee,,Out,Knee,,Did Not Participate In Practice,2023-12-29 19:13:00,injury_reports_2023.csv,3.0,C,WAS
+2023,REG,WAS,17,00-0031095,T,Charles Leno,Charles,Leno,Calf,,Out,Calf,,Did Not Participate In Practice,2023-12-29 19:13:05,injury_reports_2023.csv,3.0,T,WAS
+2023,REG,WAS,17,00-0033831,T,Andrew Wylie,Andrew,Wylie,Elbow,,Questionable,Elbow,,Limited Participation in Practice,2023-12-29 19:12:43,injury_reports_2023.csv,1.0,T,WAS
+2023,REG,ARZ,18,00-0032222,T,D.J. Humphries,D.J.,Humphries,Knee,,Out,Knee,,Did Not Participate In Practice,2024-01-05 20:42:12,injury_reports_2023.csv,3.0,T,ARI
+2023,REG,ARZ,18,00-0033676,G,Elijah Wilkinson,Elijah,Wilkinson,Illness,,Questionable,Illness,,Limited Participation in Practice,2024-01-05 20:41:56,injury_reports_2023.csv,1.0,G,ARI
+2023,REG,ATL,18,00-0036957,C,Drew Dalman,Drew,Dalman,Ankle,,Out,Ankle,,Did Not Participate In Practice,2024-01-05 18:50:39,injury_reports_2023.csv,3.0,C,ATL
+2023,REG,BLT,18,00-0029592,G,Kevin Zeitler,Kevin,Zeitler,Knee,Quadricep,Out,Knee,Quadricep,Did Not Participate In Practice,2024-01-04 22:39:14,injury_reports_2023.csv,3.0,G,BAL
+2023,REG,BUF,18,00-0031936,C,Mitch Morse,Mitch,Morse,Illness,,Questionable,Illness,,Did Not Participate In Practice,2024-01-05 19:50:13,injury_reports_2023.csv,1.0,C,BUF
+2023,REG,CAR,18,00-0033284,T,Taylor Moton,Taylor,Moton,,,,Knee,,Full Participation in Practice,2024-01-05 17:24:30,injury_reports_2023.csv,0.0,T,CAR
+2023,REG,CAR,18,00-0037297,G,Cade Mays,Cade,Mays,Finger,,Doubtful,Finger,,Limited Participation in Practice,2024-01-05 17:25:47,injury_reports_2023.csv,2.0,G,CAR
+2023,REG,CHI,18,00-0033082,C,Lucas Patrick,Lucas,Patrick,Calf,,Questionable,Calf,,Limited Participation in Practice,2024-01-05 19:57:37,injury_reports_2023.csv,1.0,C,CHI
+2023,REG,CLV,18,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Oblique,Knee,Full Participation in Practice,2024-01-05 19:53:29,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,18,00-0034399,G,Wyatt Teller,Wyatt,Teller,,,,Ankle,,Full Participation in Practice,2024-01-05 19:54:58,injury_reports_2023.csv,0.0,G,CLE
+2023,REG,CLV,18,00-0033901,C,Ethan Pocic,Ethan,Pocic,,,,Shoulder,Stinger,Limited Participation in Practice,2024-01-05 19:54:49,injury_reports_2023.csv,0.0,C,CLE
+2023,REG,DAL,18,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,,Did Not Participate In Practice,2024-01-04 20:41:23,injury_reports_2023.csv,0.0,G,DAL
+2023,REG,DAL,18,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,,Did Not Participate In Practice,2024-01-04 20:41:23,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,18,00-0035698,T,Chuma Edoga,Chuma,Edoga,,,,Illness,,Full Participation in Practice,2024-01-05 19:30:08,injury_reports_2023.csv,0.0,T,DAL
+2023,REG,DAL,18,00-0036376,C,Tyler Biadasz,Tyler,Biadasz,Illness,,Questionable,Illness,,Did Not Participate In Practice,2024-01-05 19:31:00,injury_reports_2023.csv,1.0,C,DAL
+2023,REG,DAL,18,00-0037243,G,Tyler Smith,Tyler,Smith,Foot,,Questionable,Foot,,Did Not Participate In Practice,2024-01-05 19:31:00,injury_reports_2023.csv,1.0,G,DAL
+2023,REG,DEN,18,00-0038796,T,Alex Palczewski,Alex,Palczewski,,,,Knee,,Full Participation in Practice,2024-01-04 21:23:56,injury_reports_2023.csv,0.0,T,DEN
+2023,REG,DEN,18,00-0034847,T,Mike McGlinchey,Mike,McGlinchey,Ribs,,Out,Ribs,,Did Not Participate In Practice,2024-01-05 21:38:41,injury_reports_2023.csv,3.0,T,DEN
+2023,REG,DET,18,00-0032381,T,Taylor Decker,Taylor,Decker,,,,Groin,,Full Participation in Practice,2024-01-05 20:41:27,injury_reports_2023.csv,0.0,T,DET
+2023,REG,DET,18,00-0032395,G,Graham Glasgow,Graham,Glasgow,,,,Not injury related - resting player,,Full Participation in Practice,2024-01-05 20:41:35,injury_reports_2023.csv,0.0,G,DET
+2023,REG,DET,18,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,Knee,"back, toe, rest",Full Participation in Practice,2024-01-05 20:42:05,injury_reports_2023.csv,0.0,C,DET
+2023,REG,GB,18,00-0036622,C,Josh Myers,Josh,Myers,,,,Neck,,Full Participation in Practice,2024-01-05 20:03:03,injury_reports_2023.csv,0.0,C,GB
+2023,REG,GB,18,00-0037305,T,Luke Tenuta,Luke,Tenuta,Ankle,,Questionable,Ankle,,Full Participation in Practice,2024-01-05 20:03:48,injury_reports_2023.csv,1.0,T,GB
+2023,REG,GB,18,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,Knee,Ankle,Questionable,Knee,Ankle,Limited Participation in Practice,2024-01-05 20:03:48,injury_reports_2023.csv,1.0,G,GB
+2023,REG,HST,18,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,Groin,,Questionable,Groin,,Limited Participation in Practice,2024-01-04 21:05:53,injury_reports_2023.csv,1.0,T,HOU
+2023,REG,IND,18,00-0034836,T,Braden Smith,Braden,Smith,Knee,,Questionable,Knee,,Full Participation in Practice,2024-01-04 20:32:55,injury_reports_2023.csv,1.0,T,IND
+2023,REG,IND,18,00-0032383,C,Ryan Kelly,Ryan,Kelly,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2024-01-04 20:32:55,injury_reports_2023.csv,1.0,C,IND
+2023,REG,IND,18,00-0034342,G,Quenton Nelson,Quenton,Nelson,Ankle,,Questionable,Ankle,,Limited Participation in Practice,2024-01-04 20:32:55,injury_reports_2023.csv,1.0,G,IND
+2023,REG,JAX,18,00-0036327,G,Ezra Cleveland,Ezra,Cleveland,,,,Knee,,Full Participation in Practice,2024-01-05 18:47:50,injury_reports_2023.csv,0.0,G,JAX
+2023,REG,JAX,18,00-0036975,T,Walker Little,Walker,Little,,,,Hamstring,,Full Participation in Practice,2024-01-05 18:47:50,injury_reports_2023.csv,0.0,T,JAX
+2023,REG,KC,18,00-0036660,G,Trey Smith,Trey,Smith,,,,Illness,,Full Participation in Practice,2024-01-05 21:02:23,injury_reports_2023.csv,0.0,G,KC
+2023,REG,KC,18,00-0032217,T,Donovan Smith,Donovan,Smith,Neck,,Out,Neck,,Did Not Participate In Practice,2024-01-05 21:06:38,injury_reports_2023.csv,3.0,T,KC
+2023,REG,LA,18,00-0034804,C,Brian Allen,Brian,Allen,,,,Illness,,Full Participation in Practice,2024-01-05 20:33:57,injury_reports_2023.csv,0.0,C,LA
+2023,REG,LA,18,00-0032242,T,Rob Havenstein,Rob,Havenstein,,,,Not injury related - resting player,,Full Participation in Practice,2024-01-05 20:33:29,injury_reports_2023.csv,0.0,T,LA
+2023,REG,LA,18,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,Foot,,Doubtful,Foot,,Did Not Participate In Practice,2024-01-05 20:38:46,injury_reports_2023.csv,2.0,T,LA
+2023,REG,LAC,18,00-0035688,T,Trey Pipkins,Trey,Pipkins,,,,Wrist,,Full Participation in Practice,2024-01-05 20:04:51,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,18,00-0037009,T,Rashawn Slater,Rashawn,Slater,,,,Knee,,Full Participation in Practice,2024-01-05 20:04:18,injury_reports_2023.csv,0.0,T,LAC
+2023,REG,LAC,18,00-0037818,G,Zion Johnson,Zion,Johnson,Neck,,Doubtful,Neck,,Limited Participation in Practice,2024-01-05 20:05:24,injury_reports_2023.csv,2.0,G,LAC
+2023,REG,LV,18,00-0035127,C,Andre James,Andre,James,,,,Ankle,Finger,Full Participation in Practice,2024-01-05 21:46:17,injury_reports_2023.csv,0.0,C,LV
+2023,REG,LV,18,00-0034759,T,Kolton Miller,Kolton,Miller,,,,Shoulder,,Full Participation in Practice,2024-01-05 21:46:17,injury_reports_2023.csv,0.0,T,LV
+2023,REG,LV,18,00-0033290,T,Jermaine Eluemunor,Jermaine,Eluemunor,,,,Knee,,Limited Participation in Practice,2024-01-05 21:46:17,injury_reports_2023.csv,0.0,T,LV
+2023,REG,LV,18,00-0037322,T,Thayer Munford,Thayer,Munford,Knee,Illness,Doubtful,Knee,Illness,Did Not Participate In Practice,2024-01-05 21:47:12,injury_reports_2023.csv,2.0,T,LV
+2023,REG,MIA,18,00-0030067,T,Terron Armstead,Terron,Armstead,,,,"knee, ankle, back",,Full Participation in Practice,2024-01-05 20:49:25,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIA,18,00-0035117,G,Lester Cotton,Lester,Cotton,,,,Hip,,Full Participation in Practice,2024-01-05 20:49:32,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,18,00-0037010,G,Liam Eichenberg,Liam,Eichenberg,,,,Calf,Ankle,Full Participation in Practice,2024-01-05 20:49:48,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,18,00-0036325,G,Robert Hunt,Robert,Hunt,,,,Hamstring,,Full Participation in Practice,2024-01-05 20:50:03,injury_reports_2023.csv,0.0,G,MIA
+2023,REG,MIA,18,00-0036248,T,Austin Jackson,Austin,Jackson,,,,Oblique,,Full Participation in Practice,2024-01-05 20:50:10,injury_reports_2023.csv,0.0,T,MIA
+2023,REG,MIN,18,00-0034158,T,Brian O'Neill,Brian,O'Neill,Ankle,,Out,Ankle,,Did Not Participate In Practice,2024-01-05 19:48:51,injury_reports_2023.csv,3.0,T,MIN
+2023,REG,MIN,18,00-0036616,T,Christian Darrisaw,Christian,Darrisaw,Illness,,Questionable,Illness,,Limited Participation in Practice,2024-01-05 19:47:36,injury_reports_2023.csv,1.0,T,MIN
+2023,REG,MIN,18,00-0038131,G,Ed Ingram,Ed,Ingram,Shoulder,,Questionable,Shoulder,,Limited Participation in Practice,2024-01-05 19:47:36,injury_reports_2023.csv,1.0,G,MIN
+2023,REG,NE,18,00-0032071,T,Trenton Brown,Trenton,Brown,Illness,,Out,Illness,,Did Not Participate In Practice,2024-01-05 20:39:31,injury_reports_2023.csv,3.0,T,NE
+2023,REG,NO,18,00-0035242,C,Erik McCoy,Erik,McCoy,,,,Foot,,Full Participation in Practice,2024-01-05 20:08:11,injury_reports_2023.csv,0.0,C,NO
+2023,REG,NO,18,00-0036930,T,Landon Young,Landon,Young,Knee,,Out,Knee,,Did Not Participate In Practice,2024-01-05 20:08:45,injury_reports_2023.csv,3.0,T,NO
+2023,REG,NYG,18,00-0039019,C,John Michael Schmitz,John Michael,Schmitz,Shin,,Questionable,Shin,,Limited Participation in Practice,2024-01-05 19:18:05,injury_reports_2023.csv,1.0,C,NYG
+2023,REG,NYJ,18,00-0036273,G,Jake Hanson,Jake,Hanson,Concussion,,Out,Concussion,,Did Not Participate In Practice,2024-01-05 19:50:27,injury_reports_2023.csv,3.0,G,NYJ
+2023,REG,NYJ,18,00-0032432,G,Wes Schweitzer,Wes,Schweitzer,Calf,,Doubtful,Calf,,Limited Participation in Practice,2024-01-05 19:50:49,injury_reports_2023.csv,2.0,G,NYJ
+2023,REG,PIT,18,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Shoulder,,Did Not Participate In Practice,2024-01-04 20:51:21,injury_reports_2023.csv,0.0,G,PIT
+2023,REG,SEA,18,00-0039020,G,Anthony Bradford,Anthony,Bradford,,,,Knee,Shoulder,Full Participation in Practice,2024-01-05 22:03:23,injury_reports_2023.csv,0.0,G,SEA
+2023,REG,SEA,18,00-0034495,C,Evan Brown,Evan,Brown,,,,Concussion,,Full Participation in Practice,2024-01-05 22:03:23,injury_reports_2023.csv,0.0,C,SEA
+2023,REG,SEA,18,00-0035141,G,Phil Haynes,Phil,Haynes,Toe,,Out,Toe,,Did Not Participate In Practice,2024-01-05 20:41:39,injury_reports_2023.csv,3.0,G,SEA
+2023,REG,SEA,18,00-0037812,T,Abraham Lucas,Abraham,Lucas,Knee,,Out,Knee,,Did Not Participate In Practice,2024-01-05 20:40:49,injury_reports_2023.csv,3.0,T,SEA
+2023,REG,SEA,18,00-0022531,T,Jason Peters,Jason,Peters,Foot,,Questionable,Foot,,Did Not Participate In Practice,2024-01-05 20:42:52,injury_reports_2023.csv,1.0,T,SEA
+2023,REG,SF,18,00-0027857,T,Trent Williams,Trent,Williams,,,,Not injury related - resting player,,Did Not Participate In Practice,2024-01-03 23:20:40,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,18,00-0036551,G,Aaron Banks,Aaron,Banks,,,,Toe,,Full Participation in Practice,2024-01-05 21:44:53,injury_reports_2023.csv,0.0,G,SF
+2023,REG,SF,18,00-0036557,T,Jaylon Moore,Jaylon,Moore,,,,Concussion,,Full Participation in Practice,2024-01-05 21:44:53,injury_reports_2023.csv,0.0,T,SF
+2023,REG,SF,18,00-0032151,C,Jon Feliciano,Jon,Feliciano,Back,,Questionable,Back,,Limited Participation in Practice,2024-01-05 21:45:13,injury_reports_2023.csv,1.0,C,SF
+2023,REG,TB,18,00-0036406,T,Tristan Wirfs,Tristan,Wirfs,,,,Shoulder,,Limited Participation in Practice,2024-01-05 17:58:35,injury_reports_2023.csv,0.0,T,TB
+2023,REG,TEN,18,00-0036171,G,Aaron Brewer,Aaron,Brewer,,,,Ankle,Knee,Full Participation in Practice,2024-01-05 19:54:33,injury_reports_2023.csv,0.0,G,TEN
+2023,REG,TEN,18,00-0033221,C,Daniel Brunskill,Daniel,Brunskill,Ankle,,Questionable,Ankle,,Did Not Participate In Practice,2024-01-05 19:56:38,injury_reports_2023.csv,1.0,C,TEN
+2023,REG,TEN,18,00-0038607,T,Jaelyn Duncan,Jaelyn,Duncan,Neck,,Questionable,Neck,,Did Not Participate In Practice,2024-01-05 19:56:38,injury_reports_2023.csv,1.0,T,TEN
+2023,REG,WAS,18,00-0033831,T,Andrew Wylie,Andrew,Wylie,Elbow,,Questionable,Elbow,,Limited Participation in Practice,2024-01-05 19:59:51,injury_reports_2023.csv,1.0,T,WAS
+2023,WC,BUF,19,00-0033904,T,Dion Dawkins,Dion,Dawkins,,,,Hand,Illness,Full Participation in Practice,2024-01-12 19:55:20,injury_reports_2023.csv,0.0,T,BUF
+2023,WC,CLV,19,00-0031426,G,Joel Bitonio,Joel,Bitonio,,,,Not injury related - resting player,"Oblique, Knee",Full Participation in Practice,2024-01-11 20:12:00,injury_reports_2023.csv,0.0,G,CLE
+2023,WC,CLV,19,00-0033901,C,Ethan Pocic,Ethan,Pocic,,,,Shoulder,Stinger,Full Participation in Practice,2024-01-11 20:13:41,injury_reports_2023.csv,0.0,C,CLE
+2023,WC,DAL,19,00-0031402,G,Zack Martin,Zack,Martin,,,,Not injury related - resting player,,Did Not Participate In Practice,2024-01-11 20:48:39,injury_reports_2023.csv,0.0,G,DAL
+2023,WC,DAL,19,00-0027947,T,Tyron Smith,Tyron,Smith,,,,Not injury related - resting player,,Did Not Participate In Practice,2024-01-11 20:48:39,injury_reports_2023.csv,0.0,T,DAL
+2023,WC,DAL,19,00-0037243,G,Tyler Smith,Tyler,Smith,,,,Foot,,Full Participation in Practice,2024-01-12 19:29:10,injury_reports_2023.csv,0.0,G,DAL
+2023,WC,DET,19,00-0032381,T,Taylor Decker,Taylor,Decker,,,,Not injury related - resting player,,Full Participation in Practice,2024-01-12 20:35:13,injury_reports_2023.csv,0.0,T,DET
+2023,WC,DET,19,00-0032395,G,Graham Glasgow,Graham,Glasgow,,,,Not injury related - resting player,,Full Participation in Practice,2024-01-12 20:35:13,injury_reports_2023.csv,0.0,G,DET
+2023,WC,DET,19,00-0034345,C,Frank Ragnow,Frank,Ragnow,,,,"Knee, Back, Toe",,Full Participation in Practice,2024-01-12 20:35:13,injury_reports_2023.csv,0.0,C,DET
+2023,WC,GB,19,00-0036622,C,Josh Myers,Josh,Myers,,,,Neck,,Full Participation in Practice,2024-01-12 20:12:00,injury_reports_2023.csv,0.0,C,GB
+2023,WC,GB,19,00-0037076,G,Sean Rhyan,Sean,Rhyan,,,,Elbow,,Full Participation in Practice,2024-01-12 20:12:00,injury_reports_2023.csv,0.0,G,GB
+2023,WC,GB,19,00-0037817,T,Zach Tom,Zach,Tom,,,,Finger,,Full Participation in Practice,2024-01-12 20:12:00,injury_reports_2023.csv,0.0,T,GB
+2023,WC,GB,19,00-0035526,G,Elgton Jenkins,Elgton,Jenkins,,,,Knee,Ankle,Limited Participation in Practice,2024-01-12 20:12:15,injury_reports_2023.csv,0.0,G,GB
+2023,WC,HST,19,00-0031580,G,Shaquille Mason,Shaquille,Mason,,,,Not injury related - resting player,,Did Not Participate In Practice,2024-01-09 22:14:02,injury_reports_2023.csv,0.0,G,HOU
+2023,WC,HST,19,00-0032380,T,Laremy Tunsil,Laremy,Tunsil,,,,Not injury related - resting player,,Did Not Participate In Practice,2024-01-09 22:14:32,injury_reports_2023.csv,0.0,T,HOU
+2023,WC,HST,19,00-0035686,C,Michael Deiter,Michael,Deiter,,,,Elbow,,Full Participation in Practice,2024-01-11 20:29:28,injury_reports_2023.csv,0.0,C,HOU
+2023,WC,KC,19,00-0032217,T,Donovan Smith,Donovan,Smith,,,,Neck,,Full Participation in Practice,2024-01-11 20:19:49,injury_reports_2023.csv,0.0,T,KC
+2023,WC,KC,19,00-0035237,T,Jawaan Taylor,Jawaan,Taylor,,,,Knee,,Full Participation in Practice,2024-01-11 20:19:40,injury_reports_2023.csv,0.0,T,KC
+2023,WC,KC,19,00-0038981,T,Wanya Morris,Wanya,Morris,Concussion,,Out,Concussion,,Did Not Participate In Practice,2024-01-11 21:04:55,injury_reports_2023.csv,3.0,T,KC
+2023,WC,LA,19,00-0034804,C,Brian Allen,Brian,Allen,,,,Not injury related - resting player,,Did Not Participate In Practice,2024-01-12 20:39:48,injury_reports_2023.csv,0.0,C,LA
+2023,WC,LA,19,00-0036603,T,Alaric Jackson,Alaric,Jackson,,,,Not injury related - personal matter,,Did Not Participate In Practice,2024-01-12 20:41:01,injury_reports_2023.csv,0.0,T,LA
+2023,WC,LA,19,00-0032242,T,Rob Havenstein,Rob,Havenstein,,,,Not injury related - resting player,,Full Participation in Practice,2024-01-12 20:38:10,injury_reports_2023.csv,0.0,T,LA
+2023,WC,LA,19,00-0036339,G,Kevin Dotson,Kevin,Dotson,Shoulder,,Questionable,Shoulder,,Limited Participation in Practice,2024-01-12 20:42:38,injury_reports_2023.csv,1.0,G,LA
+2023,WC,LA,19,00-0034803,T,Joseph Noteboom,Joseph,Noteboom,Foot,,Questionable,Foot,,Limited Participation in Practice,2024-01-12 20:41:51,injury_reports_2023.csv,1.0,T,LA
+2023,WC,MIA,19,00-0030067,T,Terron Armstead,Terron,Armstead,,,,"knee, ankle, back",,Full Participation in Practice,2024-01-11 20:56:25,injury_reports_2023.csv,0.0,T,MIA
+2023,WC,MIA,19,00-0037010,G,Liam Eichenberg,Liam,Eichenberg,,,,Calf,Ankle,Full Participation in Practice,2024-01-11 20:56:31,injury_reports_2023.csv,0.0,G,MIA
+2023,WC,PIT,19,00-0032954,G,Isaac Seumalo,Isaac,Seumalo,,,,Shoulder,,Did Not Participate In Practice,2024-01-12 19:28:13,injury_reports_2023.csv,0.0,G,PIT
+2023,WC,TB,19,00-0036406,T,Tristan Wirfs,Tristan,Wirfs,,,,Illness,,Full Participation in Practice,2024-01-13 20:44:20,injury_reports_2023.csv,0.0,T,TB

@@ -28,5 +28,12 @@ We are in the early stages of this project, having started just two weeks ago. O
 - verification with datasets -> teams
 - more tools
 - early stopping
+- Ideas for agent
+- integrate other agents
+- Browser use
+- more sqlite features https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server
+- global draft database
+- website - run simulations, roleplay teams
+- docker for code use/csv or sqlite calls
 ## Stay Tuned!
 
